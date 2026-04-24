@@ -1,0 +1,16 @@
+# Large TIGER/Line source files — re-downloadable via fetch_census.py instructions
+data/raw/tl_2020_24_tabblock20.*
+data/raw/*.zip
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+.claude/
