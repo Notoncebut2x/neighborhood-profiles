@@ -1,0 +1,12 @@
+check,status,detail
+Population balance (vs Census total),FAIL,"NSA sum=263,093, Census=585,708, diff=55.08% (tolerance 2%)"
+Block group coverage,FAIL,282 / 618 BGs have weights (336 uncovered)
+No negative counts in allocated data,PASS,All OK
+Income bracket consistency,PASS,Max relative diff between bracket sum and total: 0.00%
+Home value bracket consistency,PASS,Max relative diff between bracket sum and total: 0.00%
+Rent bracket consistency (city-level),PASS,"City bracket sum=64,260, total=65,549, no-cash-rent gap=1,289 (2.0%) — expected"
+NSA geometry — no significant overlap,PASS,Overlap ratio: -0.0000 (should be ~0)
+NSAs with zero population,PASS,All NSAs have population > 0
+"Median HH income plausible range [5,000–500,000]",PASS,All within range
+"Median gross rent plausible range [100–10,000]",PASS,All within range
+"Median home value plausible range [10,000–5,000,000]",PASS,All within range

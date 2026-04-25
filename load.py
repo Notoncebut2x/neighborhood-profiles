@@ -22,21 +22,32 @@ from config import (
 # Spatial loaders
 # ---------------------------------------------------------------------------
 
-def load_nsas(path: Path = NSA_PATH) -> gpd.GeoDataFrame:
+def load_nsas(
+    path: Path = NSA_PATH,
+    id_col: str = NSA_ID_COL,
+    name_col: str = NSA_NAME_COL,
+) -> gpd.GeoDataFrame:
     """
-    Load Baltimore NSA polygons.
+    Load neighborhood boundary polygons.
 
-    Expected columns: nsa_id (unique int/str), nsa_name (label).
+    If `id_col` is not present in the file, a sequential integer ID is created
+    automatically — useful for shapefiles that only have a name field.
     Reprojected to Maryland State Plane (EPSG:26985).
     """
     gdf = gpd.read_file(path)
-    _require_columns(gdf, [NSA_ID_COL, NSA_NAME_COL], "NSA shapefile")
 
-    gdf = gdf[[NSA_ID_COL, NSA_NAME_COL, "geometry"]].copy()
+    # Auto-create numeric ID if the specified column doesn't exist
+    if id_col not in gdf.columns:
+        print(f"  NOTE: '{id_col}' not found — creating sequential ID from row index")
+        gdf[id_col] = range(1, len(gdf) + 1)
+
+    _require_columns(gdf, [name_col], "boundary shapefile")
+
+    gdf = gdf[[id_col, name_col, "geometry"]].copy()
     gdf = gdf.to_crs(CRS_PROJECTED)
     gdf = gdf[gdf.geometry.is_valid & ~gdf.geometry.is_empty].reset_index(drop=True)
 
-    print(f"  NSAs loaded: {len(gdf)} polygons")
+    print(f"  Boundaries loaded: {len(gdf)} polygons")
     return gdf
 
 
