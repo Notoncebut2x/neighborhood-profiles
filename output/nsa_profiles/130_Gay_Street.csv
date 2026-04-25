@@ -3,6 +3,9 @@ NSA ID,130
 NSA Name,Gay Street
 Total Population,"1,888"
 Median HH Income ($),"$50,739"
+% HH Income Below $50k,49.3%
+% HH Income $50k–$100k,28.9%
+% HH Income $100k+,21.7%
 Median Gross Rent ($/mo),$713
 % Renter-Occupied,78.0%
 Population Change (%),30.6%
@@ -18,13 +21,29 @@ Avg Household Size,2.6
 % Work from Home,18.2%
 Median Home Value ($),"$178,144"
 Vacancy Rate (%),10.6%
+% Vacant — For Rent,2.5%
+% Vacant — For Sale,0.6%
+% Vacant — Other/Distressed,7.5%
 % Owner-Occupied,22.0%
 % Units Built Pre-1950,21.5%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"1,445"
 Population Change (abs),442
+Pop Change vs City Avg (pp),-722.4%
 Prior Income (CPI-adj $),"$22,398"
 "Income Change (%, inflation-adj)",126.5%
+Income Change vs City Avg (pp),116.2%
 Prior Median Rent ($/mo),$963
 Rent Change (%),-26.0%
+Rent Change vs City Avg (pp),-51.9%
+Prior Median Home Value ($),88464.54782276983
+Home Value Change (%),101.4%
+Home Value Change vs City Avg (pp),63.3%
+Prior Vacancy Rate (%),31.7%
+Vacancy Rate Change (pp),-21.1%
+Vacancy Change vs City Avg (pp),-16.9%
+Prior % Bachelor's+,27.0%
+Education Change (pp),-11.4%
+Education Change vs City Avg (pp),-14.3%
+Market Signals,Household incomes rising faster than city; Young adult population growing; Home value appreciation outpacing city

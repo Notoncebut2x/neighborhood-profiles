@@ -3,6 +3,9 @@ NSA ID,67
 NSA Name,Berea
 Total Population,"3,260"
 Median HH Income ($),"$42,797"
+% HH Income Below $50k,61.8%
+% HH Income $50k–$100k,22.7%
+% HH Income $100k+,15.5%
 Median Gross Rent ($/mo),"$1,381"
 % Renter-Occupied,49.5%
 Population Change (%),50.6%
@@ -18,13 +21,29 @@ Avg Household Size,2.4
 % Work from Home,14.2%
 Median Home Value ($),"$103,372"
 Vacancy Rate (%),23.3%
+% Vacant — For Rent,1.9%
+% Vacant — For Sale,1.3%
+% Vacant — Other/Distressed,20.1%
 % Owner-Occupied,50.5%
 % Units Built Pre-1950,50.2%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"2,165"
 Population Change (abs),"1,094"
+Pop Change vs City Avg (pp),-702.4%
 Prior Income (CPI-adj $),"$32,906"
 "Income Change (%, inflation-adj)",30.1%
+Income Change vs City Avg (pp),19.8%
 Prior Median Rent ($/mo),"$1,118"
 Rent Change (%),23.5%
+Rent Change vs City Avg (pp),-2.4%
+Prior Median Home Value ($),74502.34528177389
+Home Value Change (%),38.7%
+Home Value Change vs City Avg (pp),0.6%
+Prior Vacancy Rate (%),26.4%
+Vacancy Rate Change (pp),-3.1%
+Vacancy Change vs City Avg (pp),1.1%
+Prior % Bachelor's+,14.4%
+Education Change (pp),1.4%
+Education Change vs City Avg (pp),-1.5%
+Market Signals,Household incomes rising faster than city

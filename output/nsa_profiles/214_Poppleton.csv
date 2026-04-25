@@ -3,6 +3,9 @@ NSA ID,214
 NSA Name,Poppleton
 Total Population,"3,511"
 Median HH Income ($),"$18,055"
+% HH Income Below $50k,81.9%
+% HH Income $50k–$100k,9.7%
+% HH Income $100k+,8.5%
 Median Gross Rent ($/mo),$540
 % Renter-Occupied,84.8%
 Population Change (%),122701.2%
@@ -18,13 +21,29 @@ Avg Household Size,2.2
 % Work from Home,22.4%
 Median Home Value ($),"$206,991"
 Vacancy Rate (%),10.8%
+% Vacant — For Rent,2.5%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,8.3%
 % Owner-Occupied,15.2%
 % Units Built Pre-1950,12.1%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,2
 Population Change (abs),"3,508"
+Pop Change vs City Avg (pp),121948.2%
 Prior Income (CPI-adj $),"$37,459"
 "Income Change (%, inflation-adj)",-51.8%
+Income Change vs City Avg (pp),-62.1%
 Prior Median Rent ($/mo),"$1,063"
 Rent Change (%),-49.2%
+Rent Change vs City Avg (pp),-75.1%
+Prior Median Home Value ($),186274.50980392157
+Home Value Change (%),11.1%
+Home Value Change vs City Avg (pp),-27.0%
+Prior Vacancy Rate (%),28.6%
+Vacancy Rate Change (pp),-17.8%
+Vacancy Change vs City Avg (pp),-13.6%
+Prior % Bachelor's+,43.7%
+Education Change (pp),-31.4%
+Education Change vs City Avg (pp),-34.3%
+Market Signals,Young adult population growing

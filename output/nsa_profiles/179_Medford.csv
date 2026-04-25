@@ -3,6 +3,9 @@ NSA ID,179
 NSA Name,Medford
 Total Population,"1,823"
 Median HH Income ($),"$53,901"
+% HH Income Below $50k,41.4%
+% HH Income $50k–$100k,36.9%
+% HH Income $100k+,21.7%
 Median Gross Rent ($/mo),"$1,161"
 % Renter-Occupied,47.9%
 Population Change (%),29.5%
@@ -18,13 +21,29 @@ Avg Household Size,2.4
 % Work from Home,3.9%
 Median Home Value ($),"$135,660"
 Vacancy Rate (%),1.2%
+% Vacant — For Rent,0.0%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,1.2%
 % Owner-Occupied,52.1%
 % Units Built Pre-1950,43.1%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"1,407"
 Population Change (abs),415
+Pop Change vs City Avg (pp),-723.5%
 Prior Income (CPI-adj $),"$47,153"
 "Income Change (%, inflation-adj)",14.3%
+Income Change vs City Avg (pp),4.0%
 Prior Median Rent ($/mo),$942
 Rent Change (%),23.2%
+Rent Change vs City Avg (pp),-2.7%
+Prior Median Home Value ($),86623.8085947419
+Home Value Change (%),56.6%
+Home Value Change vs City Avg (pp),18.5%
+Prior Vacancy Rate (%),15.4%
+Vacancy Rate Change (pp),-14.2%
+Vacancy Change vs City Avg (pp),-10.0%
+Prior % Bachelor's+,13.3%
+Education Change (pp),-4.3%
+Education Change vs City Avg (pp),-7.2%
+Market Signals,Home value appreciation outpacing city

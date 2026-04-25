@@ -3,6 +3,9 @@ NSA ID,274
 NSA Name,Spring Garden Industrial Area
 Total Population,24
 Median HH Income ($),"$138,235"
+% HH Income Below $50k,6.8%
+% HH Income $50k–$100k,16.8%
+% HH Income $100k+,76.5%
 Median Gross Rent ($/mo),"$2,225"
 % Renter-Occupied,31.2%
 Population Change (%),-19.9%
@@ -18,13 +21,29 @@ Avg Household Size,2.4
 % Work from Home,42.3%
 Median Home Value ($),"$441,176"
 Vacancy Rate (%),18.5%
+% Vacant — For Rent,3.8%
+% Vacant — For Sale,4.1%
+% Vacant — Other/Distressed,10.6%
 % Owner-Occupied,68.8%
 % Units Built Pre-1950,7.9%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,29
 Population Change (abs),-5
+Pop Change vs City Avg (pp),-772.9%
 Prior Income (CPI-adj $),"$112,022"
 "Income Change (%, inflation-adj)",23.4%
+Income Change vs City Avg (pp),13.1%
 Prior Median Rent ($/mo),"$1,838"
 Rent Change (%),21.0%
+Rent Change vs City Avg (pp),-4.9%
+Prior Median Home Value ($),328651.6853932584
+Home Value Change (%),34.2%
+Home Value Change vs City Avg (pp),-3.9%
+Prior Vacancy Rate (%),6.9%
+Vacancy Rate Change (pp),11.6%
+Vacancy Change vs City Avg (pp),15.8%
+Prior % Bachelor's+,72.1%
+Education Change (pp),2.2%
+Education Change vs City Avg (pp),-0.7%
+Market Signals,Household incomes rising faster than city; Significant population loss

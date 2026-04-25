@@ -144,6 +144,15 @@ ACS_VARIABLES = {
     "B25002_002E": "housing_occupied",
     "B25002_003E": "housing_vacant",
 
+    # --- Vacancy status breakdown (B25004) ---
+    "B25004_002E": "vacant_for_rent",
+    "B25004_003E": "vacant_rented_not_occ",
+    "B25004_004E": "vacant_for_sale",
+    "B25004_005E": "vacant_sold_not_occ",
+    "B25004_006E": "vacant_seasonal",
+    "B25004_007E": "vacant_migrant",
+    "B25004_008E": "vacant_other",
+
     # --- Average household size (B25010) ---
     "B25010_001E": "avg_hh_size",
 
@@ -328,10 +337,15 @@ if __name__ == "__main__":
     save_acs(ACS_CURRENT_YEAR, df_current, "current")
 
     print(f"\nFetching ACS {ACS_PRIOR_YEAR} (prior period for trends)...")
-    # For trends we only need population, income, rent — not the full variable list
+    # For trends fetch all variables needed for change calculations
     TREND_VARIABLES = {
         k: v for k, v in ACS_VARIABLES.items()
-        if v.startswith(("pop_total", "hhinc_", "rent_", "tenure_"))
+        if v.startswith((
+            "pop_total", "hhinc_", "rent_", "tenure_",
+            "homeval_",                   # for home value change
+            "housing_", "vacant_",        # for vacancy rate change
+            "edu_",                       # for education change
+        ))
     }
     df_prior = fetch_acs(
         ACS_PRIOR_YEAR, TREND_VARIABLES, STATE_FIPS, COUNTY_FIPS

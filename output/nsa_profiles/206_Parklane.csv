@@ -3,6 +3,9 @@ NSA ID,206
 NSA Name,Parklane
 Total Population,"1,689"
 Median HH Income ($),"$55,844"
+% HH Income Below $50k,38.6%
+% HH Income $50k–$100k,57.7%
+% HH Income $100k+,3.7%
 Median Gross Rent ($/mo),"$1,290"
 % Renter-Occupied,41.7%
 Population Change (%),-8.2%
@@ -18,13 +21,29 @@ Avg Household Size,2.5
 % Work from Home,10.6%
 Median Home Value ($),"$170,533"
 Vacancy Rate (%),15.3%
+% Vacant — For Rent,8.6%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,6.7%
 % Owner-Occupied,58.3%
 % Units Built Pre-1950,37.3%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"1,839"
 Population Change (abs),-150
+Pop Change vs City Avg (pp),-761.2%
 Prior Income (CPI-adj $),"$30,362"
 "Income Change (%, inflation-adj)",83.9%
+Income Change vs City Avg (pp),73.6%
 Prior Median Rent ($/mo),$928
 Rent Change (%),39.0%
+Rent Change vs City Avg (pp),13.1%
+Prior Median Home Value ($),98995.06338359116
+Home Value Change (%),72.3%
+Home Value Change vs City Avg (pp),34.2%
+Prior Vacancy Rate (%),13.1%
+Vacancy Rate Change (pp),2.2%
+Vacancy Change vs City Avg (pp),6.4%
+Prior % Bachelor's+,6.4%
+Education Change (pp),11.9%
+Education Change vs City Avg (pp),9.0%
+Market Signals,Household incomes rising faster than city; Gentrification indicators present; Home value appreciation outpacing city

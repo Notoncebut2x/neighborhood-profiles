@@ -3,6 +3,9 @@ NSA ID,69
 NSA Name,Beverly Hills
 Total Population,688
 Median HH Income ($),"$132,319"
+% HH Income Below $50k,14.7%
+% HH Income $50k–$100k,22.5%
+% HH Income $100k+,62.9%
 Median Gross Rent ($/mo),$962
 % Renter-Occupied,11.7%
 Population Change (%),-12.4%
@@ -18,13 +21,29 @@ Avg Household Size,2.8
 % Work from Home,22.2%
 Median Home Value ($),"$272,437"
 Vacancy Rate (%),5.0%
+% Vacant — For Rent,0.0%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,4.9%
 % Owner-Occupied,88.3%
 % Units Built Pre-1950,20.8%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,785
 Population Change (abs),-97
+Pop Change vs City Avg (pp),-765.4%
 Prior Income (CPI-adj $),"$83,115"
 "Income Change (%, inflation-adj)",59.2%
+Income Change vs City Avg (pp),48.9%
 Prior Median Rent ($/mo),$798
 Rent Change (%),20.6%
+Rent Change vs City Avg (pp),-5.3%
+Prior Median Home Value ($),206538.07497069144
+Home Value Change (%),31.9%
+Home Value Change vs City Avg (pp),-6.2%
+Prior Vacancy Rate (%),11.6%
+Vacancy Rate Change (pp),-6.6%
+Vacancy Change vs City Avg (pp),-2.4%
+Prior % Bachelor's+,45.3%
+Education Change (pp),19.9%
+Education Change vs City Avg (pp),17.0%
+Market Signals,Household incomes rising faster than city

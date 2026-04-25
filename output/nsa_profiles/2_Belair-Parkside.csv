@@ -3,6 +3,9 @@ NSA ID,2
 NSA Name,Belair-Parkside
 Total Population,327
 Median HH Income ($),"$79,167"
+% HH Income Below $50k,22.8%
+% HH Income $50k–$100k,55.3%
+% HH Income $100k+,21.9%
 Median Gross Rent ($/mo),"$2,052"
 % Renter-Occupied,32.4%
 Population Change (%),2.3%
@@ -18,13 +21,29 @@ Avg Household Size,2.4
 % Work from Home,44.3%
 Median Home Value ($),"$205,789"
 Vacancy Rate (%),8.9%
+% Vacant — For Rent,5.5%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,3.5%
 % Owner-Occupied,67.6%
 % Units Built Pre-1950,32.4%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,319
 Population Change (abs),7
+Pop Change vs City Avg (pp),-750.7%
 Prior Income (CPI-adj $),"$66,780"
 "Income Change (%, inflation-adj)",18.5%
+Income Change vs City Avg (pp),8.2%
 Prior Median Rent ($/mo),$937
 Rent Change (%),118.9%
+Rent Change vs City Avg (pp),93.0%
+Prior Median Home Value ($),116448.72905606829
+Home Value Change (%),76.7%
+Home Value Change vs City Avg (pp),38.6%
+Prior Vacancy Rate (%),27.0%
+Vacancy Rate Change (pp),-18.1%
+Vacancy Change vs City Avg (pp),-13.9%
+Prior % Bachelor's+,24.4%
+Education Change (pp),31.8%
+Education Change vs City Avg (pp),28.9%
+Market Signals,Renter demand rising; Young adult population growing; Affordability stress — rents outpacing incomes; Gentrification indicators present; Home value appreciation outpacing city

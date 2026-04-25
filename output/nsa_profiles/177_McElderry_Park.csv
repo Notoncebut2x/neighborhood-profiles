@@ -3,6 +3,9 @@ NSA ID,177
 NSA Name,McElderry Park
 Total Population,"2,376"
 Median HH Income ($),"$40,913"
+% HH Income Below $50k,56.9%
+% HH Income $50k–$100k,15.1%
+% HH Income $100k+,28.0%
 Median Gross Rent ($/mo),"$1,569"
 % Renter-Occupied,66.0%
 Population Change (%),-38.9%
@@ -18,13 +21,29 @@ Avg Household Size,2.4
 % Work from Home,15.7%
 Median Home Value ($),"$129,455"
 Vacancy Rate (%),27.5%
+% Vacant — For Rent,2.5%
+% Vacant — For Sale,2.9%
+% Vacant — Other/Distressed,22.0%
 % Owner-Occupied,34.0%
 % Units Built Pre-1950,12.9%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"3,891"
 Population Change (abs),"-1,515"
+Pop Change vs City Avg (pp),-791.9%
 Prior Income (CPI-adj $),"$47,541"
 "Income Change (%, inflation-adj)",-13.9%
+Income Change vs City Avg (pp),-24.2%
 Prior Median Rent ($/mo),"$1,173"
 Rent Change (%),33.8%
+Rent Change vs City Avg (pp),7.9%
+Prior Median Home Value ($),164927.2205097772
+Home Value Change (%),-21.5%
+Home Value Change vs City Avg (pp),-59.6%
+Prior Vacancy Rate (%),32.1%
+Vacancy Rate Change (pp),-4.6%
+Vacancy Change vs City Avg (pp),-0.4%
+Prior % Bachelor's+,27.8%
+Education Change (pp),4.0%
+Education Change vs City Avg (pp),1.1%
+Market Signals,Affordability stress — rents outpacing incomes; Significant population loss

@@ -3,6 +3,9 @@ NSA ID,217
 NSA Name,Ramblewood
 Total Population,"2,275"
 Median HH Income ($),"$71,596"
+% HH Income Below $50k,36.0%
+% HH Income $50k–$100k,34.7%
+% HH Income $100k+,29.3%
 Median Gross Rent ($/mo),"$1,107"
 % Renter-Occupied,0.3%
 Population Change (%),39.7%
@@ -18,13 +21,29 @@ Avg Household Size,2.7
 % Work from Home,2.3%
 Median Home Value ($),"$162,484"
 Vacancy Rate (%),0.0%
+% Vacant — For Rent,0.0%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,0.0%
 % Owner-Occupied,99.7%
 % Units Built Pre-1950,97.4%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"1,628"
 Population Change (abs),646
+Pop Change vs City Avg (pp),-713.3%
 Prior Income (CPI-adj $),"$68,149"
 "Income Change (%, inflation-adj)",5.1%
+Income Change vs City Avg (pp),-5.2%
 Prior Median Rent ($/mo),"$1,628"
 Rent Change (%),-32.0%
+Rent Change vs City Avg (pp),-57.9%
+Prior Median Home Value ($),116841.47874973652
+Home Value Change (%),39.1%
+Home Value Change vs City Avg (pp),1.0%
+Prior Vacancy Rate (%),7.5%
+Vacancy Rate Change (pp),-7.5%
+Vacancy Change vs City Avg (pp),-3.3%
+Prior % Bachelor's+,15.5%
+Education Change (pp),8.3%
+Education Change vs City Avg (pp),5.4%
+Market Signals,No strong signals

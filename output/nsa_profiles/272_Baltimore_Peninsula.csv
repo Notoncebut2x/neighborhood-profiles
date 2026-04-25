@@ -3,6 +3,9 @@ NSA ID,272
 NSA Name,Baltimore Peninsula
 Total Population,74
 Median HH Income ($),"$131,250"
+% HH Income Below $50k,0.0%
+% HH Income $50k–$100k,41.8%
+% HH Income $100k+,58.2%
 Median Gross Rent ($/mo),"$2,317"
 % Renter-Occupied,100.0%
 Population Change (%),-89.7%
@@ -18,13 +21,29 @@ Avg Household Size,1.4
 % Work from Home,12.2%
 Median Home Value ($),N/A
 Vacancy Rate (%),0.0%
+% Vacant — For Rent,0.0%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,0.0%
 % Owner-Occupied,0.0%
 % Units Built Pre-1950,0.0%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,716
 Population Change (abs),-642
+Pop Change vs City Avg (pp),-842.7%
 Prior Income (CPI-adj $),"$118,860"
 "Income Change (%, inflation-adj)",10.4%
+Income Change vs City Avg (pp),0.1%
 Prior Median Rent ($/mo),"$1,988"
 Rent Change (%),16.6%
+Rent Change vs City Avg (pp),-9.3%
+Prior Median Home Value ($),339982.217500217
+Home Value Change (%),N/A
+Home Value Change vs City Avg (pp),N/A
+Prior Vacancy Rate (%),7.3%
+Vacancy Rate Change (pp),-7.3%
+Vacancy Change vs City Avg (pp),-3.1%
+Prior % Bachelor's+,79.2%
+Education Change (pp),20.8%
+Education Change vs City Avg (pp),17.9%
+Market Signals,Significant population loss

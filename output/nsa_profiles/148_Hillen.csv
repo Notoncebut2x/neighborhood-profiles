@@ -3,6 +3,9 @@ NSA ID,148
 NSA Name,Hillen
 Total Population,"2,220"
 Median HH Income ($),"$92,909"
+% HH Income Below $50k,30.8%
+% HH Income $50k–$100k,22.5%
+% HH Income $100k+,46.8%
 Median Gross Rent ($/mo),"$1,445"
 % Renter-Occupied,16.0%
 Population Change (%),14.8%
@@ -18,13 +21,29 @@ Avg Household Size,2.4
 % Work from Home,15.3%
 Median Home Value ($),"$233,325"
 Vacancy Rate (%),4.8%
+% Vacant — For Rent,0.0%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,4.8%
 % Owner-Occupied,84.0%
 % Units Built Pre-1950,55.1%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"1,934"
 Population Change (abs),285
+Pop Change vs City Avg (pp),-738.2%
 Prior Income (CPI-adj $),"$58,428"
 "Income Change (%, inflation-adj)",59.0%
+Income Change vs City Avg (pp),48.7%
 Prior Median Rent ($/mo),"$1,122"
 Rent Change (%),28.8%
+Rent Change vs City Avg (pp),2.9%
+Prior Median Home Value ($),160965.52412315516
+Home Value Change (%),45.0%
+Home Value Change vs City Avg (pp),6.9%
+Prior Vacancy Rate (%),11.6%
+Vacancy Rate Change (pp),-6.8%
+Vacancy Change vs City Avg (pp),-2.6%
+Prior % Bachelor's+,28.7%
+Education Change (pp),15.4%
+Education Change vs City Avg (pp),12.5%
+Market Signals,Renter demand rising; Household incomes rising faster than city; Young adult population growing; Gentrification indicators present

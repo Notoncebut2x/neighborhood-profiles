@@ -3,6 +3,9 @@ NSA ID,200
 NSA Name,Oliver
 Total Population,"3,476"
 Median HH Income ($),"$42,288"
+% HH Income Below $50k,57.2%
+% HH Income $50k–$100k,21.1%
+% HH Income $100k+,21.7%
 Median Gross Rent ($/mo),"$1,111"
 % Renter-Occupied,68.5%
 Population Change (%),27.7%
@@ -18,13 +21,29 @@ Avg Household Size,2.4
 % Work from Home,8.8%
 Median Home Value ($),"$118,292"
 Vacancy Rate (%),36.0%
+% Vacant — For Rent,4.7%
+% Vacant — For Sale,2.2%
+% Vacant — Other/Distressed,29.2%
 % Owner-Occupied,31.5%
 % Units Built Pre-1950,23.6%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"2,722"
 Population Change (abs),753
+Pop Change vs City Avg (pp),-725.3%
 Prior Income (CPI-adj $),"$40,749"
 "Income Change (%, inflation-adj)",3.8%
+Income Change vs City Avg (pp),-6.5%
 Prior Median Rent ($/mo),$882
 Rent Change (%),26.0%
+Rent Change vs City Avg (pp),0.1%
+Prior Median Home Value ($),69125.18864065596
+Home Value Change (%),71.1%
+Home Value Change vs City Avg (pp),33.0%
+Prior Vacancy Rate (%),43.4%
+Vacancy Rate Change (pp),-7.4%
+Vacancy Change vs City Avg (pp),-3.2%
+Prior % Bachelor's+,13.2%
+Education Change (pp),1.5%
+Education Change vs City Avg (pp),-1.4%
+Market Signals,Affordability stress — rents outpacing incomes; Home value appreciation outpacing city

@@ -3,6 +3,9 @@ NSA ID,156
 NSA Name,Irvington
 Total Population,"3,724"
 Median HH Income ($),"$51,676"
+% HH Income Below $50k,47.7%
+% HH Income $50k–$100k,32.0%
+% HH Income $100k+,20.3%
 Median Gross Rent ($/mo),"$1,054"
 % Renter-Occupied,65.5%
 Population Change (%),1.0%
@@ -18,13 +21,29 @@ Avg Household Size,2.4
 % Work from Home,6.9%
 Median Home Value ($),"$145,241"
 Vacancy Rate (%),15.5%
+% Vacant — For Rent,5.7%
+% Vacant — For Sale,0.4%
+% Vacant — Other/Distressed,9.3%
 % Owner-Occupied,34.5%
 % Units Built Pre-1950,39.3%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"3,687"
 Population Change (abs),36
+Pop Change vs City Avg (pp),-752.0%
 Prior Income (CPI-adj $),"$43,816"
 "Income Change (%, inflation-adj)",17.9%
+Income Change vs City Avg (pp),7.6%
 Prior Median Rent ($/mo),$694
 Rent Change (%),51.9%
+Rent Change vs City Avg (pp),26.0%
+Prior Median Home Value ($),113853.68976484005
+Home Value Change (%),27.6%
+Home Value Change vs City Avg (pp),-10.5%
+Prior Vacancy Rate (%),16.3%
+Vacancy Rate Change (pp),-0.8%
+Vacancy Change vs City Avg (pp),3.4%
+Prior % Bachelor's+,9.9%
+Education Change (pp),2.1%
+Education Change vs City Avg (pp),-0.8%
+Market Signals,Affordability stress — rents outpacing incomes

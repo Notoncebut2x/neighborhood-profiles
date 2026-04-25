@@ -3,6 +3,9 @@ NSA ID,210
 NSA Name,Penn North
 Total Population,"1,430"
 Median HH Income ($),"$30,140"
+% HH Income Below $50k,65.6%
+% HH Income $50k–$100k,23.1%
+% HH Income $100k+,11.3%
 Median Gross Rent ($/mo),"$1,192"
 % Renter-Occupied,80.6%
 Population Change (%),-30.6%
@@ -18,13 +21,29 @@ Avg Household Size,1.9
 % Work from Home,5.8%
 Median Home Value ($),"$129,071"
 Vacancy Rate (%),34.3%
+% Vacant — For Rent,2.1%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,32.1%
 % Owner-Occupied,19.4%
 % Units Built Pre-1950,9.7%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"2,061"
 Population Change (abs),-631
+Pop Change vs City Avg (pp),-783.6%
 Prior Income (CPI-adj $),"$32,608"
 "Income Change (%, inflation-adj)",-7.6%
+Income Change vs City Avg (pp),-17.9%
 Prior Median Rent ($/mo),$965
 Rent Change (%),23.5%
+Rent Change vs City Avg (pp),-2.4%
+Prior Median Home Value ($),93224.41240023298
+Home Value Change (%),38.5%
+Home Value Change vs City Avg (pp),0.4%
+Prior Vacancy Rate (%),43.8%
+Vacancy Rate Change (pp),-9.5%
+Vacancy Change vs City Avg (pp),-5.3%
+Prior % Bachelor's+,14.5%
+Education Change (pp),-5.2%
+Education Change vs City Avg (pp),-8.1%
+Market Signals,Affordability stress — rents outpacing incomes; Significant population loss

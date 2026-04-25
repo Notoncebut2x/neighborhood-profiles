@@ -3,6 +3,9 @@ NSA ID,127
 NSA Name,Franklintown
 Total Population,"1,000"
 Median HH Income ($),"$68,420"
+% HH Income Below $50k,27.9%
+% HH Income $50k–$100k,48.5%
+% HH Income $100k+,23.7%
 Median Gross Rent ($/mo),"$1,454"
 % Renter-Occupied,80.3%
 Population Change (%),-20.7%
@@ -18,13 +21,29 @@ Avg Household Size,2.0
 % Work from Home,17.6%
 Median Home Value ($),"$375,265"
 Vacancy Rate (%),6.9%
+% Vacant — For Rent,0.0%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,6.9%
 % Owner-Occupied,19.7%
 % Units Built Pre-1950,38.2%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"1,261"
 Population Change (abs),-261
+Pop Change vs City Avg (pp),-773.7%
 Prior Income (CPI-adj $),"$71,750"
 "Income Change (%, inflation-adj)",-4.6%
+Income Change vs City Avg (pp),-14.9%
 Prior Median Rent ($/mo),"$1,191"
 Rent Change (%),22.0%
+Rent Change vs City Avg (pp),-3.9%
+Prior Median Home Value ($),259480.61843558756
+Home Value Change (%),44.6%
+Home Value Change vs City Avg (pp),6.5%
+Prior Vacancy Rate (%),16.3%
+Vacancy Rate Change (pp),-9.4%
+Vacancy Change vs City Avg (pp),-5.2%
+Prior % Bachelor's+,32.3%
+Education Change (pp),10.7%
+Education Change vs City Avg (pp),7.8%
+Market Signals,Affordability stress — rents outpacing incomes; Significant population loss

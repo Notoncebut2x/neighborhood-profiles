@@ -3,6 +3,9 @@ NSA ID,191
 NSA Name,Mount Vernon
 Total Population,"4,594"
 Median HH Income ($),"$49,827"
+% HH Income Below $50k,50.1%
+% HH Income $50k–$100k,29.6%
+% HH Income $100k+,20.3%
 Median Gross Rent ($/mo),"$1,310"
 % Renter-Occupied,87.6%
 Population Change (%),-29.7%
@@ -18,13 +21,29 @@ Avg Household Size,1.2
 % Work from Home,20.2%
 Median Home Value ($),"$221,188"
 Vacancy Rate (%),9.7%
+% Vacant — For Rent,4.0%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,5.7%
 % Owner-Occupied,12.4%
 % Units Built Pre-1950,17.7%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"6,535"
 Population Change (abs),"-1,941"
+Pop Change vs City Avg (pp),-782.7%
 Prior Income (CPI-adj $),"$58,907"
 "Income Change (%, inflation-adj)",-15.4%
+Income Change vs City Avg (pp),-25.7%
 Prior Median Rent ($/mo),"$1,129"
 Rent Change (%),16.1%
+Rent Change vs City Avg (pp),-9.8%
+Prior Median Home Value ($),241162.39956707365
+Home Value Change (%),-8.3%
+Home Value Change vs City Avg (pp),-46.4%
+Prior Vacancy Rate (%),11.6%
+Vacancy Rate Change (pp),-1.9%
+Vacancy Change vs City Avg (pp),2.3%
+Prior % Bachelor's+,63.9%
+Education Change (pp),-3.0%
+Education Change vs City Avg (pp),-5.9%
+Market Signals,Affordability stress — rents outpacing incomes; Significant population loss

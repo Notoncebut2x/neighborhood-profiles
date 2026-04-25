@@ -3,6 +3,9 @@ NSA ID,175
 NSA Name,Madison-Eastend
 Total Population,"2,639"
 Median HH Income ($),"$56,722"
+% HH Income Below $50k,44.9%
+% HH Income $50k–$100k,35.0%
+% HH Income $100k+,20.2%
 Median Gross Rent ($/mo),"$1,385"
 % Renter-Occupied,45.5%
 Population Change (%),32.1%
@@ -18,13 +21,29 @@ Avg Household Size,3.5
 % Work from Home,5.6%
 Median Home Value ($),"$116,525"
 Vacancy Rate (%),30.9%
+% Vacant — For Rent,9.8%
+% Vacant — For Sale,3.9%
+% Vacant — Other/Distressed,17.2%
 % Owner-Occupied,54.5%
 % Units Built Pre-1950,23.6%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"1,998"
 Population Change (abs),640
+Pop Change vs City Avg (pp),-720.9%
 Prior Income (CPI-adj $),"$47,295"
 "Income Change (%, inflation-adj)",19.9%
+Income Change vs City Avg (pp),9.6%
 Prior Median Rent ($/mo),"$1,166"
 Rent Change (%),18.7%
+Rent Change vs City Avg (pp),-7.2%
+Prior Median Home Value ($),64876.921315116546
+Home Value Change (%),79.6%
+Home Value Change vs City Avg (pp),41.5%
+Prior Vacancy Rate (%),32.2%
+Vacancy Rate Change (pp),-1.3%
+Vacancy Change vs City Avg (pp),2.9%
+Prior % Bachelor's+,9.5%
+Education Change (pp),0.6%
+Education Change vs City Avg (pp),-2.3%
+Market Signals,Home value appreciation outpacing city

@@ -3,6 +3,9 @@ NSA ID,260
 NSA Name,Wilhelm Park
 Total Population,645
 Median HH Income ($),"$58,325"
+% HH Income Below $50k,41.7%
+% HH Income $50k–$100k,37.8%
+% HH Income $100k+,20.5%
 Median Gross Rent ($/mo),$869
 % Renter-Occupied,43.4%
 Population Change (%),40.9%
@@ -18,13 +21,29 @@ Avg Household Size,2.6
 % Work from Home,0.1%
 Median Home Value ($),"$109,542"
 Vacancy Rate (%),11.2%
+% Vacant — For Rent,0.1%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,11.1%
 % Owner-Occupied,56.6%
 % Units Built Pre-1950,15.3%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,457
 Population Change (abs),187
+Pop Change vs City Avg (pp),-712.1%
 Prior Income (CPI-adj $),"$49,956"
 "Income Change (%, inflation-adj)",16.8%
+Income Change vs City Avg (pp),6.5%
 Prior Median Rent ($/mo),$692
 Rent Change (%),25.6%
+Rent Change vs City Avg (pp),-0.3%
+Prior Median Home Value ($),124358.34173329806
+Home Value Change (%),-11.9%
+Home Value Change vs City Avg (pp),-50.0%
+Prior Vacancy Rate (%),11.6%
+Vacancy Rate Change (pp),-0.4%
+Vacancy Change vs City Avg (pp),3.8%
+Prior % Bachelor's+,5.2%
+Education Change (pp),3.4%
+Education Change vs City Avg (pp),0.5%
+Market Signals,No strong signals

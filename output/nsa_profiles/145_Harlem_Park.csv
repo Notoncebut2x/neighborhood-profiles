@@ -3,6 +3,9 @@ NSA ID,145
 NSA Name,Harlem Park
 Total Population,"2,617"
 Median HH Income ($),"$20,919"
+% HH Income Below $50k,72.5%
+% HH Income $50k–$100k,23.8%
+% HH Income $100k+,3.6%
 Median Gross Rent ($/mo),$808
 % Renter-Occupied,82.4%
 Population Change (%),30.9%
@@ -18,13 +21,29 @@ Avg Household Size,1.7
 % Work from Home,4.4%
 Median Home Value ($),"$84,854"
 Vacancy Rate (%),33.3%
+% Vacant — For Rent,0.9%
+% Vacant — For Sale,1.2%
+% Vacant — Other/Distressed,31.3%
 % Owner-Occupied,17.6%
 % Units Built Pre-1950,20.3%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"1,999"
 Population Change (abs),617
+Pop Change vs City Avg (pp),-722.1%
 Prior Income (CPI-adj $),"$20,249"
 "Income Change (%, inflation-adj)",3.3%
+Income Change vs City Avg (pp),-7.0%
 Prior Median Rent ($/mo),$810
 Rent Change (%),-0.3%
+Rent Change vs City Avg (pp),-26.2%
+Prior Median Home Value ($),72866.36310826322
+Home Value Change (%),16.5%
+Home Value Change vs City Avg (pp),-21.6%
+Prior Vacancy Rate (%),54.8%
+Vacancy Rate Change (pp),-21.5%
+Vacancy Change vs City Avg (pp),-17.3%
+Prior % Bachelor's+,5.7%
+Education Change (pp),9.7%
+Education Change vs City Avg (pp),6.8%
+Market Signals,No strong signals

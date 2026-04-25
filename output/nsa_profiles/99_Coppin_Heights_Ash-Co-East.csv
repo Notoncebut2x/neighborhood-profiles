@@ -3,6 +3,9 @@ NSA ID,99
 NSA Name,Coppin Heights/Ash-Co-East
 Total Population,"1,640"
 Median HH Income ($),"$30,124"
+% HH Income Below $50k,69.3%
+% HH Income $50k–$100k,24.7%
+% HH Income $100k+,6.0%
 Median Gross Rent ($/mo),"$1,145"
 % Renter-Occupied,49.0%
 Population Change (%),-28.3%
@@ -18,13 +21,29 @@ Avg Household Size,2.7
 % Work from Home,4.2%
 Median Home Value ($),"$73,662"
 Vacancy Rate (%),39.4%
+% Vacant — For Rent,1.1%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,38.2%
 % Owner-Occupied,51.0%
 % Units Built Pre-1950,24.3%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"2,287"
 Population Change (abs),-647
+Pop Change vs City Avg (pp),-781.3%
 Prior Income (CPI-adj $),"$42,639"
 "Income Change (%, inflation-adj)",-29.4%
+Income Change vs City Avg (pp),-39.7%
 Prior Median Rent ($/mo),"$1,083"
 Rent Change (%),5.8%
+Rent Change vs City Avg (pp),-20.1%
+Prior Median Home Value ($),60554.44331304804
+Home Value Change (%),21.6%
+Home Value Change vs City Avg (pp),-16.5%
+Prior Vacancy Rate (%),31.5%
+Vacancy Rate Change (pp),7.9%
+Vacancy Change vs City Avg (pp),12.1%
+Prior % Bachelor's+,8.8%
+Education Change (pp),4.0%
+Education Change vs City Avg (pp),1.1%
+Market Signals,Affordability stress — rents outpacing incomes; Vacancy distress — disinvestment risk; Significant population loss

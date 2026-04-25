@@ -3,6 +3,9 @@ NSA ID,215
 NSA Name,Pulaski Industrial Area
 Total Population,252
 Median HH Income ($),"$59,008"
+% HH Income Below $50k,33.6%
+% HH Income $50k–$100k,38.2%
+% HH Income $100k+,28.2%
 Median Gross Rent ($/mo),"$1,178"
 % Renter-Occupied,35.6%
 Population Change (%),-18.5%
@@ -18,13 +21,29 @@ Avg Household Size,3.0
 % Work from Home,8.3%
 Median Home Value ($),"$232,059"
 Vacancy Rate (%),7.3%
+% Vacant — For Rent,1.0%
+% Vacant — For Sale,0.5%
+% Vacant — Other/Distressed,5.8%
 % Owner-Occupied,64.4%
 % Units Built Pre-1950,33.7%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,309
 Population Change (abs),-57
+Pop Change vs City Avg (pp),-771.5%
 Prior Income (CPI-adj $),"$103,989"
 "Income Change (%, inflation-adj)",-43.3%
+Income Change vs City Avg (pp),-53.6%
 Prior Median Rent ($/mo),"$1,282"
 Rent Change (%),-8.1%
+Rent Change vs City Avg (pp),-34.0%
+Prior Median Home Value ($),335728.37824521813
+Home Value Change (%),-30.9%
+Home Value Change vs City Avg (pp),-69.0%
+Prior Vacancy Rate (%),6.9%
+Vacancy Rate Change (pp),0.4%
+Vacancy Change vs City Avg (pp),4.6%
+Prior % Bachelor's+,42.0%
+Education Change (pp),-6.6%
+Education Change vs City Avg (pp),-9.5%
+Market Signals,Affordability stress — rents outpacing incomes; Significant population loss

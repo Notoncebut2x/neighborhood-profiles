@@ -3,6 +3,9 @@ NSA ID,154
 NSA Name,Hunting Ridge
 Total Population,"1,101"
 Median HH Income ($),"$62,946"
+% HH Income Below $50k,43.4%
+% HH Income $50k–$100k,24.3%
+% HH Income $100k+,32.4%
 Median Gross Rent ($/mo),"$1,112"
 % Renter-Occupied,30.3%
 Population Change (%),-20.7%
@@ -18,13 +21,29 @@ Avg Household Size,1.8
 % Work from Home,14.0%
 Median Home Value ($),"$309,708"
 Vacancy Rate (%),10.6%
+% Vacant — For Rent,0.0%
+% Vacant — For Sale,2.5%
+% Vacant — Other/Distressed,8.1%
 % Owner-Occupied,69.7%
 % Units Built Pre-1950,42.6%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"1,388"
 Population Change (abs),-287
+Pop Change vs City Avg (pp),-773.7%
 Prior Income (CPI-adj $),"$66,767"
 "Income Change (%, inflation-adj)",-5.7%
+Income Change vs City Avg (pp),-16.0%
 Prior Median Rent ($/mo),$806
 Rent Change (%),37.9%
+Rent Change vs City Avg (pp),12.0%
+Prior Median Home Value ($),210073.31632458576
+Home Value Change (%),47.4%
+Home Value Change vs City Avg (pp),9.3%
+Prior Vacancy Rate (%),5.9%
+Vacancy Rate Change (pp),4.7%
+Vacancy Change vs City Avg (pp),8.9%
+Prior % Bachelor's+,37.0%
+Education Change (pp),7.9%
+Education Change vs City Avg (pp),5.0%
+Market Signals,Renter demand rising; Affordability stress — rents outpacing incomes; Significant population loss

@@ -3,6 +3,9 @@ NSA ID,268
 NSA Name,Stadium/Entertainment Area
 Total Population,94
 Median HH Income ($),"$45,653"
+% HH Income Below $50k,62.9%
+% HH Income $50k–$100k,13.0%
+% HH Income $100k+,24.1%
 Median Gross Rent ($/mo),"$1,643"
 % Renter-Occupied,60.4%
 Population Change (%),-25.1%
@@ -18,13 +21,29 @@ Avg Household Size,1.9
 % Work from Home,6.4%
 Median Home Value ($),"$235,580"
 Vacancy Rate (%),9.2%
+% Vacant — For Rent,4.3%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,4.9%
 % Owner-Occupied,39.6%
 % Units Built Pre-1950,9.1%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,125
 Population Change (abs),-31
+Pop Change vs City Avg (pp),-778.1%
 Prior Income (CPI-adj $),"$64,435"
 "Income Change (%, inflation-adj)",-29.1%
+Income Change vs City Avg (pp),-39.4%
 Prior Median Rent ($/mo),"$1,213"
 Rent Change (%),35.5%
+Rent Change vs City Avg (pp),9.6%
+Prior Median Home Value ($),158999.97786471568
+Home Value Change (%),48.2%
+Home Value Change vs City Avg (pp),10.1%
+Prior Vacancy Rate (%),22.3%
+Vacancy Rate Change (pp),-13.1%
+Vacancy Change vs City Avg (pp),-8.9%
+Prior % Bachelor's+,29.1%
+Education Change (pp),34.5%
+Education Change vs City Avg (pp),31.6%
+Market Signals,Renter demand rising; Affordability stress — rents outpacing incomes; Significant population loss

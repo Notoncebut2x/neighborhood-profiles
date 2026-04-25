@@ -3,6 +3,9 @@ NSA ID,278
 NSA Name,Gwynns Falls/Leakin Park
 Total Population,144
 Median HH Income ($),"$40,010"
+% HH Income Below $50k,53.7%
+% HH Income $50k–$100k,30.3%
+% HH Income $100k+,16.0%
 Median Gross Rent ($/mo),"$1,486"
 % Renter-Occupied,44.8%
 Population Change (%),84.3%
@@ -18,13 +21,29 @@ Avg Household Size,2.7
 % Work from Home,20.8%
 Median Home Value ($),"$121,854"
 Vacancy Rate (%),28.2%
+% Vacant — For Rent,0.4%
+% Vacant — For Sale,4.3%
+% Vacant — Other/Distressed,23.6%
 % Owner-Occupied,55.2%
 % Units Built Pre-1950,55.6%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,78
 Population Change (abs),65
+Pop Change vs City Avg (pp),-668.7%
 Prior Income (CPI-adj $),"$34,472"
 "Income Change (%, inflation-adj)",16.1%
+Income Change vs City Avg (pp),5.8%
 Prior Median Rent ($/mo),"$1,107"
 Rent Change (%),34.2%
+Rent Change vs City Avg (pp),8.3%
+Prior Median Home Value ($),112953.88944573155
+Home Value Change (%),7.9%
+Home Value Change vs City Avg (pp),-30.2%
+Prior Vacancy Rate (%),41.4%
+Vacancy Rate Change (pp),-13.2%
+Vacancy Change vs City Avg (pp),-9.0%
+Prior % Bachelor's+,17.0%
+Education Change (pp),-4.8%
+Education Change vs City Avg (pp),-7.7%
+Market Signals,Affordability stress — rents outpacing incomes

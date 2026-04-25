@@ -3,6 +3,9 @@ NSA ID,173
 NSA Name,Loyola/Notre Dame
 Total Population,"3,358"
 Median HH Income ($),"$200,000"
+% HH Income Below $50k,14.9%
+% HH Income $50k–$100k,10.0%
+% HH Income $100k+,75.1%
 Median Gross Rent ($/mo),"$1,177"
 % Renter-Occupied,18.1%
 Population Change (%),333.8%
@@ -18,13 +21,29 @@ Avg Household Size,2.4
 % Work from Home,29.8%
 Median Home Value ($),"$584,627"
 Vacancy Rate (%),1.1%
+% Vacant — For Rent,0.1%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,1.1%
 % Owner-Occupied,81.9%
 % Units Built Pre-1950,8.8%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,774
 Population Change (abs),"2,583"
+Pop Change vs City Avg (pp),-419.2%
 Prior Income (CPI-adj $),"$216,701"
 "Income Change (%, inflation-adj)",-7.7%
+Income Change vs City Avg (pp),-18.0%
 Prior Median Rent ($/mo),"$1,070"
 Rent Change (%),10.0%
+Rent Change vs City Avg (pp),-15.9%
+Prior Median Home Value ($),693340.5669231099
+Home Value Change (%),-15.7%
+Home Value Change vs City Avg (pp),-53.8%
+Prior Vacancy Rate (%),17.6%
+Vacancy Rate Change (pp),-16.5%
+Vacancy Change vs City Avg (pp),-12.3%
+Prior % Bachelor's+,82.4%
+Education Change (pp),-2.3%
+Education Change vs City Avg (pp),-5.2%
+Market Signals,Young adult population growing; Affordability stress — rents outpacing incomes

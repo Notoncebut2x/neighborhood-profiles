@@ -3,6 +3,9 @@ NSA ID,197
 NSA Name,Northwest Community Action
 Total Population,"1,459"
 Median HH Income ($),"$49,356"
+% HH Income Below $50k,50.5%
+% HH Income $50k–$100k,16.4%
+% HH Income $100k+,33.1%
 Median Gross Rent ($/mo),"$1,167"
 % Renter-Occupied,68.4%
 Population Change (%),34.3%
@@ -18,13 +21,29 @@ Avg Household Size,2.3
 % Work from Home,4.1%
 Median Home Value ($),"$83,207"
 Vacancy Rate (%),30.4%
+% Vacant — For Rent,0.0%
+% Vacant — For Sale,3.3%
+% Vacant — Other/Distressed,27.0%
 % Owner-Occupied,31.6%
 % Units Built Pre-1950,15.1%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"1,086"
 Population Change (abs),372
+Pop Change vs City Avg (pp),-718.7%
 Prior Income (CPI-adj $),"$26,621"
 "Income Change (%, inflation-adj)",85.4%
+Income Change vs City Avg (pp),75.1%
 Prior Median Rent ($/mo),$872
 Rent Change (%),33.9%
+Rent Change vs City Avg (pp),8.0%
+Prior Median Home Value ($),89333.81598058372
+Home Value Change (%),-6.9%
+Home Value Change vs City Avg (pp),-45.0%
+Prior Vacancy Rate (%),30.3%
+Vacancy Rate Change (pp),0.1%
+Vacancy Change vs City Avg (pp),4.3%
+Prior % Bachelor's+,4.0%
+Education Change (pp),1.9%
+Education Change vs City Avg (pp),-1.0%
+Market Signals,Household incomes rising faster than city; Young adult population growing

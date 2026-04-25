@@ -3,6 +3,9 @@ NSA ID,112
 NSA Name,Dundalk Marine Terminal
 Total Population,20
 Median HH Income ($),"$179,070"
+% HH Income Below $50k,0.0%
+% HH Income $50k–$100k,0.0%
+% HH Income $100k+,100.0%
 Median Gross Rent ($/mo),"$2,250"
 % Renter-Occupied,86.0%
 Population Change (%),64.8%
@@ -18,13 +21,29 @@ Avg Household Size,2.1
 % Work from Home,49.5%
 Median Home Value ($),"$625,000"
 Vacancy Rate (%),54.5%
+% Vacant — For Rent,0.0%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,54.5%
 % Owner-Occupied,14.0%
 % Units Built Pre-1950,0.0%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,12
 Population Change (abs),7
+Pop Change vs City Avg (pp),-688.2%
 Prior Income (CPI-adj $),"$128,025"
 "Income Change (%, inflation-adj)",39.9%
+Income Change vs City Avg (pp),29.6%
 Prior Median Rent ($/mo),N/A
 Rent Change (%),N/A
+Rent Change vs City Avg (pp),N/A
+Prior Median Home Value ($),327941.17647058825
+Home Value Change (%),90.6%
+Home Value Change vs City Avg (pp),52.5%
+Prior Vacancy Rate (%),0.0%
+Vacancy Rate Change (pp),54.5%
+Vacancy Change vs City Avg (pp),58.7%
+Prior % Bachelor's+,100.0%
+Education Change (pp),0.0%
+Education Change vs City Avg (pp),-2.9%
+Market Signals,Household incomes rising faster than city; Young adult population growing; Vacancy distress — disinvestment risk; Home value appreciation outpacing city

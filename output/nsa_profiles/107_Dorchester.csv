@@ -3,6 +3,9 @@ NSA ID,107
 NSA Name,Dorchester
 Total Population,"2,134"
 Median HH Income ($),"$77,650"
+% HH Income Below $50k,42.5%
+% HH Income $50k–$100k,24.0%
+% HH Income $100k+,33.5%
 Median Gross Rent ($/mo),"$1,287"
 % Renter-Occupied,17.5%
 Population Change (%),26.7%
@@ -18,13 +21,29 @@ Avg Household Size,3.5
 % Work from Home,10.1%
 Median Home Value ($),"$229,114"
 Vacancy Rate (%),18.4%
+% Vacant — For Rent,4.0%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,14.4%
 % Owner-Occupied,82.5%
 % Units Built Pre-1950,17.7%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"1,684"
 Population Change (abs),449
+Pop Change vs City Avg (pp),-726.3%
 Prior Income (CPI-adj $),"$52,566"
 "Income Change (%, inflation-adj)",47.7%
+Income Change vs City Avg (pp),37.4%
 Prior Median Rent ($/mo),$933
 Rent Change (%),38.0%
+Rent Change vs City Avg (pp),12.1%
+Prior Median Home Value ($),177046.2569454134
+Home Value Change (%),29.4%
+Home Value Change vs City Avg (pp),-8.7%
+Prior Vacancy Rate (%),31.1%
+Vacancy Rate Change (pp),-12.7%
+Vacancy Change vs City Avg (pp),-8.5%
+Prior % Bachelor's+,16.2%
+Education Change (pp),1.4%
+Education Change vs City Avg (pp),-1.5%
+Market Signals,Household incomes rising faster than city; Young adult population growing

@@ -3,6 +3,9 @@ NSA ID,57
 NSA Name,Allendale
 Total Population,"3,798"
 Median HH Income ($),"$47,870"
+% HH Income Below $50k,52.9%
+% HH Income $50k–$100k,29.2%
+% HH Income $100k+,17.9%
 Median Gross Rent ($/mo),$963
 % Renter-Occupied,45.0%
 Population Change (%),-8.6%
@@ -18,13 +21,29 @@ Avg Household Size,2.4
 % Work from Home,7.2%
 Median Home Value ($),"$117,577"
 Vacancy Rate (%),16.4%
+% Vacant — For Rent,0.0%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,16.4%
 % Owner-Occupied,55.0%
 % Units Built Pre-1950,30.7%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"4,156"
 Population Change (abs),-358
+Pop Change vs City Avg (pp),-761.6%
 Prior Income (CPI-adj $),"$42,039"
 "Income Change (%, inflation-adj)",13.9%
+Income Change vs City Avg (pp),3.6%
 Prior Median Rent ($/mo),$876
 Rent Change (%),9.9%
+Rent Change vs City Avg (pp),-16.0%
+Prior Median Home Value ($),76337.69351954226
+Home Value Change (%),54.0%
+Home Value Change vs City Avg (pp),15.9%
+Prior Vacancy Rate (%),13.1%
+Vacancy Rate Change (pp),3.3%
+Vacancy Change vs City Avg (pp),7.5%
+Prior % Bachelor's+,5.4%
+Education Change (pp),6.8%
+Education Change vs City Avg (pp),3.9%
+Market Signals,Home value appreciation outpacing city

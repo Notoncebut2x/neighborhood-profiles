@@ -3,6 +3,9 @@ NSA ID,161
 NSA Name,Kernewood
 Total Population,513
 Median HH Income ($),"$169,163"
+% HH Income Below $50k,18.3%
+% HH Income $50k–$100k,10.0%
+% HH Income $100k+,71.7%
 Median Gross Rent ($/mo),"$1,144"
 % Renter-Occupied,14.3%
 Population Change (%),-50.0%
@@ -18,13 +21,29 @@ Avg Household Size,2.8
 % Work from Home,25.0%
 Median Home Value ($),"$589,166"
 Vacancy Rate (%),2.1%
+% Vacant — For Rent,2.1%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,0.0%
 % Owner-Occupied,85.7%
 % Units Built Pre-1950,18.8%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"1,025"
 Population Change (abs),-512
+Pop Change vs City Avg (pp),-803.0%
 Prior Income (CPI-adj $),"$116,492"
 "Income Change (%, inflation-adj)",45.2%
+Income Change vs City Avg (pp),34.9%
 Prior Median Rent ($/mo),$917
 Rent Change (%),24.7%
+Rent Change vs City Avg (pp),-1.2%
+Prior Median Home Value ($),395438.9511955024
+Home Value Change (%),49.0%
+Home Value Change vs City Avg (pp),10.9%
+Prior Vacancy Rate (%),10.6%
+Vacancy Rate Change (pp),-8.5%
+Vacancy Change vs City Avg (pp),-4.3%
+Prior % Bachelor's+,62.7%
+Education Change (pp),13.5%
+Education Change vs City Avg (pp),10.6%
+Market Signals,Household incomes rising faster than city; Significant population loss

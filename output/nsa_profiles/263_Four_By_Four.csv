@@ -3,6 +3,9 @@ NSA ID,263
 NSA Name,Four By Four
 Total Population,749
 Median HH Income ($),"$45,102"
+% HH Income Below $50k,65.2%
+% HH Income $50k–$100k,20.3%
+% HH Income $100k+,14.6%
 Median Gross Rent ($/mo),"$1,324"
 % Renter-Occupied,68.7%
 Population Change (%),-43.3%
@@ -18,13 +21,29 @@ Avg Household Size,2.4
 % Work from Home,0.0%
 Median Home Value ($),"$125,499"
 Vacancy Rate (%),36.9%
+% Vacant — For Rent,0.0%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,36.9%
 % Owner-Occupied,31.3%
 % Units Built Pre-1950,11.7%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"1,320"
 Population Change (abs),-571
+Pop Change vs City Avg (pp),-796.3%
 Prior Income (CPI-adj $),"$39,220"
 "Income Change (%, inflation-adj)",15.0%
+Income Change vs City Avg (pp),4.7%
 Prior Median Rent ($/mo),"$1,264"
 Rent Change (%),4.8%
+Rent Change vs City Avg (pp),-21.1%
+Prior Median Home Value ($),74444.05753368475
+Home Value Change (%),68.6%
+Home Value Change vs City Avg (pp),30.5%
+Prior Vacancy Rate (%),30.4%
+Vacancy Rate Change (pp),6.5%
+Vacancy Change vs City Avg (pp),10.7%
+Prior % Bachelor's+,6.6%
+Education Change (pp),-3.9%
+Education Change vs City Avg (pp),-6.8%
+Market Signals,Vacancy distress — disinvestment risk; Home value appreciation outpacing city; Significant population loss

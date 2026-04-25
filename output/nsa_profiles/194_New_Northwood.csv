@@ -3,6 +3,9 @@ NSA ID,194
 NSA Name,New Northwood
 Total Population,"4,649"
 Median HH Income ($),"$57,091"
+% HH Income Below $50k,38.6%
+% HH Income $50k–$100k,38.8%
+% HH Income $100k+,22.6%
 Median Gross Rent ($/mo),"$1,346"
 % Renter-Occupied,48.8%
 Population Change (%),-11.4%
@@ -18,13 +21,29 @@ Avg Household Size,2.2
 % Work from Home,11.3%
 Median Home Value ($),"$184,854"
 Vacancy Rate (%),6.5%
+% Vacant — For Rent,0.4%
+% Vacant — For Sale,1.1%
+% Vacant — Other/Distressed,5.0%
 % Owner-Occupied,51.2%
 % Units Built Pre-1950,53.7%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"5,248"
 Population Change (abs),-599
+Pop Change vs City Avg (pp),-764.4%
 Prior Income (CPI-adj $),"$60,168"
 "Income Change (%, inflation-adj)",-5.1%
+Income Change vs City Avg (pp),-15.4%
 Prior Median Rent ($/mo),"$1,045"
 Rent Change (%),28.8%
+Rent Change vs City Avg (pp),2.9%
+Prior Median Home Value ($),141487.2322634068
+Home Value Change (%),30.7%
+Home Value Change vs City Avg (pp),-7.4%
+Prior Vacancy Rate (%),5.9%
+Vacancy Rate Change (pp),0.6%
+Vacancy Change vs City Avg (pp),4.8%
+Prior % Bachelor's+,17.6%
+Education Change (pp),6.0%
+Education Change vs City Avg (pp),3.1%
+Market Signals,Renter demand rising; Affordability stress — rents outpacing incomes

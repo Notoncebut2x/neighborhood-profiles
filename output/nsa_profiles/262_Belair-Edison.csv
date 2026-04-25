@@ -3,6 +3,9 @@ NSA ID,262
 NSA Name,Belair-Edison
 Total Population,"14,663"
 Median HH Income ($),"$51,344"
+% HH Income Below $50k,48.6%
+% HH Income $50k–$100k,31.0%
+% HH Income $100k+,20.4%
 Median Gross Rent ($/mo),"$1,496"
 % Renter-Occupied,37.9%
 Population Change (%),-15.5%
@@ -18,13 +21,29 @@ Avg Household Size,2.5
 % Work from Home,5.9%
 Median Home Value ($),"$129,197"
 Vacancy Rate (%),10.3%
+% Vacant — For Rent,1.9%
+% Vacant — For Sale,0.2%
+% Vacant — Other/Distressed,8.3%
 % Owner-Occupied,62.1%
 % Units Built Pre-1950,52.4%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"17,345"
 Population Change (abs),"-2,682"
+Pop Change vs City Avg (pp),-768.5%
 Prior Income (CPI-adj $),"$48,636"
 "Income Change (%, inflation-adj)",5.6%
+Income Change vs City Avg (pp),-4.7%
 Prior Median Rent ($/mo),"$1,149"
 Rent Change (%),30.1%
+Rent Change vs City Avg (pp),4.2%
+Prior Median Home Value ($),103644.11225405218
+Home Value Change (%),24.7%
+Home Value Change vs City Avg (pp),-13.4%
+Prior Vacancy Rate (%),13.9%
+Vacancy Rate Change (pp),-3.6%
+Vacancy Change vs City Avg (pp),0.6%
+Prior % Bachelor's+,15.4%
+Education Change (pp),2.0%
+Education Change vs City Avg (pp),-0.9%
+Market Signals,Renter demand rising; Affordability stress — rents outpacing incomes; Significant population loss

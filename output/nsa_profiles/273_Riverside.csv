@@ -3,6 +3,9 @@ NSA ID,273
 NSA Name,Riverside
 Total Population,"5,969"
 Median HH Income ($),"$158,140"
+% HH Income Below $50k,11.4%
+% HH Income $50k–$100k,20.8%
+% HH Income $100k+,67.8%
 Median Gross Rent ($/mo),"$2,207"
 % Renter-Occupied,34.3%
 Population Change (%),7.0%
@@ -18,13 +21,29 @@ Avg Household Size,1.9
 % Work from Home,29.2%
 Median Home Value ($),"$389,510"
 Vacancy Rate (%),6.0%
+% Vacant — For Rent,1.2%
+% Vacant — For Sale,0.3%
+% Vacant — Other/Distressed,4.5%
 % Owner-Occupied,65.7%
 % Units Built Pre-1950,3.5%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"5,579"
 Population Change (abs),389
+Pop Change vs City Avg (pp),-746.0%
 Prior Income (CPI-adj $),"$134,666"
 "Income Change (%, inflation-adj)",17.4%
+Income Change vs City Avg (pp),7.1%
 Prior Median Rent ($/mo),"$1,889"
 Rent Change (%),16.8%
+Rent Change vs City Avg (pp),-9.1%
+Prior Median Home Value ($),339328.2300570618
+Home Value Change (%),14.8%
+Home Value Change vs City Avg (pp),-23.3%
+Prior Vacancy Rate (%),9.4%
+Vacancy Rate Change (pp),-3.4%
+Vacancy Change vs City Avg (pp),0.8%
+Prior % Bachelor's+,74.3%
+Education Change (pp),6.2%
+Education Change vs City Avg (pp),3.3%
+Market Signals,Young adult population growing

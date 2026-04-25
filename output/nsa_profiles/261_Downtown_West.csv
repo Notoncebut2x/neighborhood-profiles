@@ -3,6 +3,9 @@ NSA ID,261
 NSA Name,Downtown West
 Total Population,227
 Median HH Income ($),"$75,666"
+% HH Income Below $50k,31.9%
+% HH Income $50k–$100k,33.2%
+% HH Income $100k+,34.8%
 Median Gross Rent ($/mo),"$1,865"
 % Renter-Occupied,81.3%
 Population Change (%),-31.2%
@@ -18,13 +21,29 @@ Avg Household Size,1.9
 % Work from Home,12.9%
 Median Home Value ($),"$332,433"
 Vacancy Rate (%),0.6%
+% Vacant — For Rent,0.2%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,0.4%
 % Owner-Occupied,18.7%
 % Units Built Pre-1950,5.8%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,330
 Population Change (abs),-103
+Pop Change vs City Avg (pp),-784.2%
 Prior Income (CPI-adj $),"$73,754"
 "Income Change (%, inflation-adj)",2.6%
+Income Change vs City Avg (pp),-7.7%
 Prior Median Rent ($/mo),"$1,703"
 Rent Change (%),9.5%
+Rent Change vs City Avg (pp),-16.4%
+Prior Median Home Value ($),281711.8591715533
+Home Value Change (%),18.0%
+Home Value Change vs City Avg (pp),-20.1%
+Prior Vacancy Rate (%),0.1%
+Vacancy Rate Change (pp),0.5%
+Vacancy Change vs City Avg (pp),4.7%
+Prior % Bachelor's+,82.7%
+Education Change (pp),-9.4%
+Education Change vs City Avg (pp),-12.3%
+Market Signals,Significant population loss

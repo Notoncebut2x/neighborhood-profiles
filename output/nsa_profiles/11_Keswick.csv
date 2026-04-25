@@ -3,6 +3,9 @@ NSA ID,11
 NSA Name,Keswick
 Total Population,495
 Median HH Income ($),"$115,118"
+% HH Income Below $50k,23.8%
+% HH Income $50k–$100k,19.1%
+% HH Income $100k+,57.1%
 Median Gross Rent ($/mo),"$1,892"
 % Renter-Occupied,36.1%
 Population Change (%),-31.4%
@@ -18,13 +21,29 @@ Avg Household Size,2.1
 % Work from Home,25.0%
 Median Home Value ($),"$444,110"
 Vacancy Rate (%),12.4%
+% Vacant — For Rent,5.1%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,7.2%
 % Owner-Occupied,63.9%
 % Units Built Pre-1950,24.4%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,721
 Population Change (abs),-226
+Pop Change vs City Avg (pp),-784.4%
 Prior Income (CPI-adj $),"$120,898"
 "Income Change (%, inflation-adj)",-4.8%
+Income Change vs City Avg (pp),-15.1%
 Prior Median Rent ($/mo),"$1,439"
 Rent Change (%),31.5%
+Rent Change vs City Avg (pp),5.6%
+Prior Median Home Value ($),401382.01841950347
+Home Value Change (%),10.6%
+Home Value Change vs City Avg (pp),-27.5%
+Prior Vacancy Rate (%),14.2%
+Vacancy Rate Change (pp),-1.8%
+Vacancy Change vs City Avg (pp),2.4%
+Prior % Bachelor's+,88.2%
+Education Change (pp),-3.3%
+Education Change vs City Avg (pp),-6.2%
+Market Signals,Renter demand rising; Affordability stress — rents outpacing incomes; Significant population loss

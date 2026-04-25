@@ -3,6 +3,9 @@ NSA ID,78
 NSA Name,Parkway
 Total Population,842
 Median HH Income ($),"$72,237"
+% HH Income Below $50k,40.3%
+% HH Income $50k–$100k,54.2%
+% HH Income $100k+,5.6%
 Median Gross Rent ($/mo),"$1,228"
 % Renter-Occupied,26.6%
 Population Change (%),18.4%
@@ -18,13 +21,29 @@ Avg Household Size,2.6
 % Work from Home,12.9%
 Median Home Value ($),"$214,239"
 Vacancy Rate (%),0.0%
+% Vacant — For Rent,0.0%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,0.0%
 % Owner-Occupied,73.4%
 % Units Built Pre-1950,45.2%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,710
 Population Change (abs),131
+Pop Change vs City Avg (pp),-734.6%
 Prior Income (CPI-adj $),"$37,635"
 "Income Change (%, inflation-adj)",91.9%
+Income Change vs City Avg (pp),81.6%
 Prior Median Rent ($/mo),"$1,085"
 Rent Change (%),13.2%
+Rent Change vs City Avg (pp),-12.7%
+Prior Median Home Value ($),126408.55414987521
+Home Value Change (%),69.5%
+Home Value Change vs City Avg (pp),31.4%
+Prior Vacancy Rate (%),8.3%
+Vacancy Rate Change (pp),-8.3%
+Vacancy Change vs City Avg (pp),-4.1%
+Prior % Bachelor's+,17.0%
+Education Change (pp),7.3%
+Education Change vs City Avg (pp),4.4%
+Market Signals,Household incomes rising faster than city; Home value appreciation outpacing city

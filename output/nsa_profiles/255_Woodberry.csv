@@ -3,6 +3,9 @@ NSA ID,255
 NSA Name,Woodberry
 Total Population,"1,564"
 Median HH Income ($),"$106,886"
+% HH Income Below $50k,24.7%
+% HH Income $50k–$100k,19.5%
+% HH Income $100k+,55.7%
 Median Gross Rent ($/mo),"$2,029"
 % Renter-Occupied,29.1%
 Population Change (%),8.8%
@@ -18,13 +21,29 @@ Avg Household Size,2.0
 % Work from Home,22.3%
 Median Home Value ($),"$263,756"
 Vacancy Rate (%),10.0%
+% Vacant — For Rent,2.4%
+% Vacant — For Sale,1.9%
+% Vacant — Other/Distressed,5.6%
 % Owner-Occupied,70.9%
 % Units Built Pre-1950,18.6%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"1,436"
 Population Change (abs),127
+Pop Change vs City Avg (pp),-744.2%
 Prior Income (CPI-adj $),"$100,310"
 "Income Change (%, inflation-adj)",6.6%
+Income Change vs City Avg (pp),-3.7%
 Prior Median Rent ($/mo),"$1,680"
 Rent Change (%),20.8%
+Rent Change vs City Avg (pp),-5.1%
+Prior Median Home Value ($),215213.44453733845
+Home Value Change (%),22.6%
+Home Value Change vs City Avg (pp),-15.5%
+Prior Vacancy Rate (%),12.4%
+Vacancy Rate Change (pp),-2.4%
+Vacancy Change vs City Avg (pp),1.8%
+Prior % Bachelor's+,51.4%
+Education Change (pp),12.3%
+Education Change vs City Avg (pp),9.4%
+Market Signals,No strong signals

@@ -3,6 +3,9 @@ NSA ID,117
 NSA Name,Ednor Gardens-Lakeside
 Total Population,"4,870"
 Median HH Income ($),"$72,329"
+% HH Income Below $50k,38.2%
+% HH Income $50k–$100k,32.0%
+% HH Income $100k+,29.8%
 Median Gross Rent ($/mo),"$1,144"
 % Renter-Occupied,28.3%
 Population Change (%),23.7%
@@ -18,13 +21,29 @@ Avg Household Size,2.2
 % Work from Home,22.1%
 Median Home Value ($),"$221,003"
 Vacancy Rate (%),10.8%
+% Vacant — For Rent,2.4%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,8.3%
 % Owner-Occupied,71.7%
 % Units Built Pre-1950,49.5%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"3,937"
 Population Change (abs),932
+Pop Change vs City Avg (pp),-729.3%
 Prior Income (CPI-adj $),"$81,956"
 "Income Change (%, inflation-adj)",-11.7%
+Income Change vs City Avg (pp),-22.0%
 Prior Median Rent ($/mo),"$1,260"
 Rent Change (%),-9.2%
+Rent Change vs City Avg (pp),-35.1%
+Prior Median Home Value ($),154235.7227456464
+Home Value Change (%),43.3%
+Home Value Change vs City Avg (pp),5.2%
+Prior Vacancy Rate (%),9.8%
+Vacancy Rate Change (pp),1.0%
+Vacancy Change vs City Avg (pp),5.2%
+Prior % Bachelor's+,40.4%
+Education Change (pp),2.7%
+Education Change vs City Avg (pp),-0.2%
+Market Signals,No strong signals

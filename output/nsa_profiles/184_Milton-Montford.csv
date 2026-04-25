@@ -3,6 +3,9 @@ NSA ID,184
 NSA Name,Milton-Montford
 Total Population,"1,482"
 Median HH Income ($),"$57,545"
+% HH Income Below $50k,46.5%
+% HH Income $50k–$100k,27.8%
+% HH Income $100k+,25.7%
 Median Gross Rent ($/mo),"$1,089"
 % Renter-Occupied,50.9%
 Population Change (%),132.0%
@@ -18,13 +21,29 @@ Avg Household Size,3.1
 % Work from Home,6.6%
 Median Home Value ($),"$157,105"
 Vacancy Rate (%),21.5%
+% Vacant — For Rent,0.6%
+% Vacant — For Sale,0.6%
+% Vacant — Other/Distressed,20.3%
 % Owner-Occupied,49.1%
 % Units Built Pre-1950,23.3%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,638
 Population Change (abs),843
+Pop Change vs City Avg (pp),-621.0%
 Prior Income (CPI-adj $),"$42,496"
 "Income Change (%, inflation-adj)",35.4%
+Income Change vs City Avg (pp),25.1%
 Prior Median Rent ($/mo),"$1,009"
 Rent Change (%),7.9%
+Rent Change vs City Avg (pp),-18.0%
+Prior Median Home Value ($),100318.70189506919
+Home Value Change (%),56.6%
+Home Value Change vs City Avg (pp),18.5%
+Prior Vacancy Rate (%),33.1%
+Vacancy Rate Change (pp),-11.6%
+Vacancy Change vs City Avg (pp),-7.4%
+Prior % Bachelor's+,8.8%
+Education Change (pp),20.4%
+Education Change vs City Avg (pp),17.5%
+Market Signals,Household incomes rising faster than city; Home value appreciation outpacing city

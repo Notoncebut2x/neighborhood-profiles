@@ -3,6 +3,9 @@ NSA ID,34
 NSA Name,Saint Josephs
 Total Population,"1,906"
 Median HH Income ($),"$37,621"
+% HH Income Below $50k,57.3%
+% HH Income $50k–$100k,36.4%
+% HH Income $100k+,6.3%
 Median Gross Rent ($/mo),$996
 % Renter-Occupied,37.9%
 Population Change (%),88.4%
@@ -18,13 +21,29 @@ Avg Household Size,2.2
 % Work from Home,3.7%
 Median Home Value ($),"$104,253"
 Vacancy Rate (%),12.1%
+% Vacant — For Rent,0.0%
+% Vacant — For Sale,3.0%
+% Vacant — Other/Distressed,9.0%
 % Owner-Occupied,62.1%
 % Units Built Pre-1950,43.9%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"1,011"
 Population Change (abs),894
+Pop Change vs City Avg (pp),-664.6%
 Prior Income (CPI-adj $),"$34,324"
 "Income Change (%, inflation-adj)",9.6%
+Income Change vs City Avg (pp),-0.7%
 Prior Median Rent ($/mo),"$1,205"
 Rent Change (%),-17.4%
+Rent Change vs City Avg (pp),-43.3%
+Prior Median Home Value ($),89186.48680697399
+Home Value Change (%),16.9%
+Home Value Change vs City Avg (pp),-21.2%
+Prior Vacancy Rate (%),28.9%
+Vacancy Rate Change (pp),-16.8%
+Vacancy Change vs City Avg (pp),-12.6%
+Prior % Bachelor's+,7.4%
+Education Change (pp),8.6%
+Education Change vs City Avg (pp),5.7%
+Market Signals,No strong signals

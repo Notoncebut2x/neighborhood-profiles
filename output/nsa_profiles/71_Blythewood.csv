@@ -3,6 +3,9 @@ NSA ID,71
 NSA Name,Blythewood
 Total Population,42
 Median HH Income ($),"$200,000"
+% HH Income Below $50k,0.0%
+% HH Income $50k–$100k,0.7%
+% HH Income $100k+,99.3%
 Median Gross Rent ($/mo),N/A
 % Renter-Occupied,0.0%
 Population Change (%),360.5%
@@ -18,13 +21,29 @@ Avg Household Size,2.4
 % Work from Home,29.7%
 Median Home Value ($),"$652,305"
 Vacancy Rate (%),0.0%
+% Vacant — For Rent,0.0%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,0.0%
 % Owner-Occupied,100.0%
 % Units Built Pre-1950,5.0%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,9
 Population Change (abs),32
+Pop Change vs City Avg (pp),-392.5%
 Prior Income (CPI-adj $),"$216,224"
 "Income Change (%, inflation-adj)",-7.5%
+Income Change vs City Avg (pp),-17.8%
 Prior Median Rent ($/mo),N/A
 Rent Change (%),N/A
+Rent Change vs City Avg (pp),N/A
+Prior Median Home Value ($),679467.2736022325
+Home Value Change (%),-4.0%
+Home Value Change vs City Avg (pp),-42.1%
+Prior Vacancy Rate (%),18.5%
+Vacancy Rate Change (pp),-18.5%
+Vacancy Change vs City Avg (pp),-14.3%
+Prior % Bachelor's+,82.7%
+Education Change (pp),0.4%
+Education Change vs City Avg (pp),-2.5%
+Market Signals,Young adult population growing

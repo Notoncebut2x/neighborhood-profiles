@@ -3,6 +3,9 @@ NSA ID,228
 NSA Name,Seton Hill
 Total Population,"1,527"
 Median HH Income ($),"$42,822"
+% HH Income Below $50k,57.4%
+% HH Income $50k–$100k,22.2%
+% HH Income $100k+,20.3%
 Median Gross Rent ($/mo),"$1,132"
 % Renter-Occupied,92.7%
 Population Change (%),28.4%
@@ -18,13 +21,29 @@ Avg Household Size,2.2
 % Work from Home,12.5%
 Median Home Value ($),"$255,743"
 Vacancy Rate (%),6.9%
+% Vacant — For Rent,2.7%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,4.2%
 % Owner-Occupied,7.3%
 % Units Built Pre-1950,8.4%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"1,189"
 Population Change (abs),337
+Pop Change vs City Avg (pp),-724.6%
 Prior Income (CPI-adj $),"$34,685"
 "Income Change (%, inflation-adj)",23.5%
+Income Change vs City Avg (pp),13.2%
 Prior Median Rent ($/mo),"$1,035"
 Rent Change (%),9.3%
+Rent Change vs City Avg (pp),-16.6%
+Prior Median Home Value ($),143416.98614880527
+Home Value Change (%),78.3%
+Home Value Change vs City Avg (pp),40.2%
+Prior Vacancy Rate (%),10.2%
+Vacancy Rate Change (pp),-3.3%
+Vacancy Change vs City Avg (pp),0.9%
+Prior % Bachelor's+,31.4%
+Education Change (pp),-5.2%
+Education Change vs City Avg (pp),-8.1%
+Market Signals,Household incomes rising faster than city; Young adult population growing; Home value appreciation outpacing city

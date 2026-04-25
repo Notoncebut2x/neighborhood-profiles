@@ -3,6 +3,9 @@ NSA ID,15
 NSA Name,Morgan Park
 Total Population,519
 Median HH Income ($),"$138,333"
+% HH Income Below $50k,18.2%
+% HH Income $50k–$100k,10.5%
+% HH Income $100k+,71.3%
 Median Gross Rent ($/mo),"$1,746"
 % Renter-Occupied,9.0%
 Population Change (%),54.1%
@@ -18,13 +21,29 @@ Avg Household Size,3.2
 % Work from Home,24.0%
 Median Home Value ($),"$275,052"
 Vacancy Rate (%),0.2%
+% Vacant — For Rent,0.1%
+% Vacant — For Sale,0.1%
+% Vacant — Other/Distressed,0.0%
 % Owner-Occupied,91.0%
 % Units Built Pre-1950,16.9%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,336
 Population Change (abs),182
+Pop Change vs City Avg (pp),-698.9%
 Prior Income (CPI-adj $),"$69,475"
 "Income Change (%, inflation-adj)",99.1%
+Income Change vs City Avg (pp),88.8%
 Prior Median Rent ($/mo),"$1,375"
 Rent Change (%),27.0%
+Rent Change vs City Avg (pp),1.1%
+Prior Median Home Value ($),212050.89929287348
+Home Value Change (%),29.7%
+Home Value Change vs City Avg (pp),-8.4%
+Prior Vacancy Rate (%),0.3%
+Vacancy Rate Change (pp),-0.1%
+Vacancy Change vs City Avg (pp),4.1%
+Prior % Bachelor's+,56.7%
+Education Change (pp),1.2%
+Education Change vs City Avg (pp),-1.7%
+Market Signals,Renter demand rising; Household incomes rising faster than city

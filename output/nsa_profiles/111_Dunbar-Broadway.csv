@@ -3,6 +3,9 @@ NSA ID,111
 NSA Name,Dunbar-Broadway
 Total Population,"1,076"
 Median HH Income ($),"$18,987"
+% HH Income Below $50k,76.8%
+% HH Income $50k–$100k,21.8%
+% HH Income $100k+,1.3%
 Median Gross Rent ($/mo),$571
 % Renter-Occupied,98.2%
 Population Change (%),21.8%
@@ -18,13 +21,29 @@ Avg Household Size,2.5
 % Work from Home,1.5%
 Median Home Value ($),"$262,870"
 Vacancy Rate (%),9.8%
+% Vacant — For Rent,3.0%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,6.9%
 % Owner-Occupied,1.8%
 % Units Built Pre-1950,37.0%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,883
 Population Change (abs),192
+Pop Change vs City Avg (pp),-731.2%
 Prior Income (CPI-adj $),"$11,326"
 "Income Change (%, inflation-adj)",67.6%
+Income Change vs City Avg (pp),57.3%
 Prior Median Rent ($/mo),$256
 Rent Change (%),123.0%
+Rent Change vs City Avg (pp),97.1%
+Prior Median Home Value ($),210418.1285700681
+Home Value Change (%),24.9%
+Home Value Change vs City Avg (pp),-13.2%
+Prior Vacancy Rate (%),7.7%
+Vacancy Rate Change (pp),2.1%
+Vacancy Change vs City Avg (pp),6.3%
+Prior % Bachelor's+,9.4%
+Education Change (pp),-2.2%
+Education Change vs City Avg (pp),-5.1%
+Market Signals,Renter demand rising; Household incomes rising faster than city; Affordability stress — rents outpacing incomes

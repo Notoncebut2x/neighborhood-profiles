@@ -3,6 +3,9 @@ NSA ID,98
 NSA Name,Coldstream Homestead Montebello
 Total Population,"5,613"
 Median HH Income ($),"$39,834"
+% HH Income Below $50k,63.7%
+% HH Income $50k–$100k,18.0%
+% HH Income $100k+,18.3%
 Median Gross Rent ($/mo),"$1,645"
 % Renter-Occupied,55.4%
 Population Change (%),-1.8%
@@ -18,13 +21,29 @@ Avg Household Size,2.9
 % Work from Home,12.3%
 Median Home Value ($),"$104,899"
 Vacancy Rate (%),28.8%
+% Vacant — For Rent,4.0%
+% Vacant — For Sale,0.4%
+% Vacant — Other/Distressed,24.4%
 % Owner-Occupied,44.6%
 % Units Built Pre-1950,30.7%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"5,717"
 Population Change (abs),-104
+Pop Change vs City Avg (pp),-754.8%
 Prior Income (CPI-adj $),"$38,352"
 "Income Change (%, inflation-adj)",3.9%
+Income Change vs City Avg (pp),-6.4%
 Prior Median Rent ($/mo),"$1,071"
 Rent Change (%),53.6%
+Rent Change vs City Avg (pp),27.7%
+Prior Median Home Value ($),63055.114823391654
+Home Value Change (%),66.4%
+Home Value Change vs City Avg (pp),28.3%
+Prior Vacancy Rate (%),31.5%
+Vacancy Rate Change (pp),-2.7%
+Vacancy Change vs City Avg (pp),1.5%
+Prior % Bachelor's+,8.8%
+Education Change (pp),1.7%
+Education Change vs City Avg (pp),-1.2%
+Market Signals,Affordability stress — rents outpacing incomes; Home value appreciation outpacing city

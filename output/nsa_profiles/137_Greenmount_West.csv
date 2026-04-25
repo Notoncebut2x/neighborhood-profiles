@@ -3,6 +3,9 @@ NSA ID,137
 NSA Name,Greenmount West
 Total Population,"1,766"
 Median HH Income ($),"$64,288"
+% HH Income Below $50k,34.6%
+% HH Income $50k–$100k,23.2%
+% HH Income $100k+,42.2%
 Median Gross Rent ($/mo),"$1,370"
 % Renter-Occupied,54.5%
 Population Change (%),5.7%
@@ -18,13 +21,29 @@ Avg Household Size,1.8
 % Work from Home,39.5%
 Median Home Value ($),"$340,398"
 Vacancy Rate (%),9.7%
+% Vacant — For Rent,3.0%
+% Vacant — For Sale,0.5%
+% Vacant — Other/Distressed,6.2%
 % Owner-Occupied,45.5%
 % Units Built Pre-1950,10.2%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"1,670"
 Population Change (abs),95
+Pop Change vs City Avg (pp),-747.3%
 Prior Income (CPI-adj $),"$69,519"
 "Income Change (%, inflation-adj)",-7.5%
+Income Change vs City Avg (pp),-17.8%
 Prior Median Rent ($/mo),"$1,034"
 Rent Change (%),32.5%
+Rent Change vs City Avg (pp),6.6%
+Prior Median Home Value ($),252285.4955248374
+Home Value Change (%),34.9%
+Home Value Change vs City Avg (pp),-3.2%
+Prior Vacancy Rate (%),21.4%
+Vacancy Rate Change (pp),-11.7%
+Vacancy Change vs City Avg (pp),-7.5%
+Prior % Bachelor's+,44.5%
+Education Change (pp),17.2%
+Education Change vs City Avg (pp),14.3%
+Market Signals,Renter demand rising; Young adult population growing; Affordability stress — rents outpacing incomes

@@ -3,6 +3,9 @@ NSA ID,54
 NSA Name,Fallstaff
 Total Population,"4,292"
 Median HH Income ($),"$46,791"
+% HH Income Below $50k,51.2%
+% HH Income $50k–$100k,23.7%
+% HH Income $100k+,25.1%
 Median Gross Rent ($/mo),"$1,526"
 % Renter-Occupied,54.2%
 Population Change (%),-26.9%
@@ -18,13 +21,29 @@ Avg Household Size,2.3
 % Work from Home,6.4%
 Median Home Value ($),"$175,030"
 Vacancy Rate (%),7.5%
+% Vacant — For Rent,2.8%
+% Vacant — For Sale,0.9%
+% Vacant — Other/Distressed,3.8%
 % Owner-Occupied,45.8%
 % Units Built Pre-1950,51.9%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"5,869"
 Population Change (abs),"-1,577"
+Pop Change vs City Avg (pp),-779.9%
 Prior Income (CPI-adj $),"$48,458"
 "Income Change (%, inflation-adj)",-3.4%
+Income Change vs City Avg (pp),-13.7%
 Prior Median Rent ($/mo),"$1,218"
 Rent Change (%),25.3%
+Rent Change vs City Avg (pp),-0.6%
+Prior Median Home Value ($),140910.85218148283
+Home Value Change (%),24.2%
+Home Value Change vs City Avg (pp),-13.9%
+Prior Vacancy Rate (%),8.3%
+Vacancy Rate Change (pp),-0.8%
+Vacancy Change vs City Avg (pp),3.4%
+Prior % Bachelor's+,27.8%
+Education Change (pp),11.9%
+Education Change vs City Avg (pp),9.0%
+Market Signals,Affordability stress — rents outpacing incomes; Significant population loss

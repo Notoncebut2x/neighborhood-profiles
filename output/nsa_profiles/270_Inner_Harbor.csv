@@ -3,6 +3,9 @@ NSA ID,270
 NSA Name,Inner Harbor
 Total Population,494
 Median HH Income ($),"$100,989"
+% HH Income Below $50k,19.6%
+% HH Income $50k–$100k,29.8%
+% HH Income $100k+,50.6%
 Median Gross Rent ($/mo),"$1,960"
 % Renter-Occupied,66.5%
 Population Change (%),148.6%
@@ -18,13 +21,29 @@ Avg Household Size,1.6
 % Work from Home,24.1%
 Median Home Value ($),"$429,523"
 Vacancy Rate (%),11.8%
+% Vacant — For Rent,1.0%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,10.8%
 % Owner-Occupied,33.5%
 % Units Built Pre-1950,4.5%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,198
 Population Change (abs),295
+Pop Change vs City Avg (pp),-604.4%
 Prior Income (CPI-adj $),"$135,314"
 "Income Change (%, inflation-adj)",-25.4%
+Income Change vs City Avg (pp),-35.7%
 Prior Median Rent ($/mo),"$2,272"
 Rent Change (%),-13.7%
+Rent Change vs City Avg (pp),-39.6%
+Prior Median Home Value ($),409530.1878491425
+Home Value Change (%),4.9%
+Home Value Change vs City Avg (pp),-33.2%
+Prior Vacancy Rate (%),21.3%
+Vacancy Rate Change (pp),-9.5%
+Vacancy Change vs City Avg (pp),-5.3%
+Prior % Bachelor's+,78.2%
+Education Change (pp),-3.4%
+Education Change vs City Avg (pp),-6.3%
+Market Signals,Young adult population growing

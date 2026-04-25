@@ -3,6 +3,9 @@ NSA ID,87
 NSA Name,Cedmont
 Total Population,"2,503"
 Median HH Income ($),"$71,239"
+% HH Income Below $50k,35.5%
+% HH Income $50k–$100k,22.2%
+% HH Income $100k+,42.3%
 Median Gross Rent ($/mo),"$2,058"
 % Renter-Occupied,15.8%
 Population Change (%),-8.6%
@@ -18,13 +21,29 @@ Avg Household Size,2.6
 % Work from Home,5.4%
 Median Home Value ($),"$236,492"
 Vacancy Rate (%),3.8%
+% Vacant — For Rent,0.0%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,3.8%
 % Owner-Occupied,84.2%
 % Units Built Pre-1950,43.0%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"2,739"
 Population Change (abs),-236
+Pop Change vs City Avg (pp),-761.6%
 Prior Income (CPI-adj $),"$81,927"
 "Income Change (%, inflation-adj)",-13.0%
+Income Change vs City Avg (pp),-23.3%
 Prior Median Rent ($/mo),$744
 Rent Change (%),176.7%
+Rent Change vs City Avg (pp),150.8%
+Prior Median Home Value ($),167426.51379146337
+Home Value Change (%),41.3%
+Home Value Change vs City Avg (pp),3.2%
+Prior Vacancy Rate (%),13.5%
+Vacancy Rate Change (pp),-9.7%
+Vacancy Change vs City Avg (pp),-5.5%
+Prior % Bachelor's+,26.0%
+Education Change (pp),-9.3%
+Education Change vs City Avg (pp),-12.2%
+Market Signals,Renter demand rising; Affordability stress — rents outpacing incomes

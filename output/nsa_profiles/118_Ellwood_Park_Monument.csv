@@ -3,6 +3,9 @@ NSA ID,118
 NSA Name,Ellwood Park/Monument
 Total Population,"2,063"
 Median HH Income ($),"$34,260"
+% HH Income Below $50k,63.1%
+% HH Income $50k–$100k,24.5%
+% HH Income $100k+,12.4%
 Median Gross Rent ($/mo),"$1,417"
 % Renter-Occupied,58.9%
 Population Change (%),-23.4%
@@ -18,13 +21,29 @@ Avg Household Size,3.3
 % Work from Home,5.6%
 Median Home Value ($),"$122,617"
 Vacancy Rate (%),40.8%
+% Vacant — For Rent,4.2%
+% Vacant — For Sale,2.4%
+% Vacant — Other/Distressed,34.2%
 % Owner-Occupied,41.1%
 % Units Built Pre-1950,19.0%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"2,694"
 Population Change (abs),-631
+Pop Change vs City Avg (pp),-776.4%
 Prior Income (CPI-adj $),"$36,719"
 "Income Change (%, inflation-adj)",-6.7%
+Income Change vs City Avg (pp),-17.0%
 Prior Median Rent ($/mo),"$1,162"
 Rent Change (%),22.0%
+Rent Change vs City Avg (pp),-3.9%
+Prior Median Home Value ($),76615.09171231007
+Home Value Change (%),60.0%
+Home Value Change vs City Avg (pp),21.9%
+Prior Vacancy Rate (%),36.5%
+Vacancy Rate Change (pp),4.3%
+Vacancy Change vs City Avg (pp),8.5%
+Prior % Bachelor's+,10.1%
+Education Change (pp),4.0%
+Education Change vs City Avg (pp),1.1%
+Market Signals,Affordability stress — rents outpacing incomes; Vacancy distress — disinvestment risk; Home value appreciation outpacing city; Significant population loss

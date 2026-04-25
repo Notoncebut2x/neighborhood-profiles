@@ -3,6 +3,9 @@ NSA ID,251
 NSA Name,Westport
 Total Population,"1,278"
 Median HH Income ($),"$36,553"
+% HH Income Below $50k,69.3%
+% HH Income $50k–$100k,14.5%
+% HH Income $100k+,16.3%
 Median Gross Rent ($/mo),$853
 % Renter-Occupied,47.8%
 Population Change (%),-14.4%
@@ -18,13 +21,29 @@ Avg Household Size,2.9
 % Work from Home,0.0%
 Median Home Value ($),"$89,264"
 Vacancy Rate (%),31.5%
+% Vacant — For Rent,5.0%
+% Vacant — For Sale,0.8%
+% Vacant — Other/Distressed,25.7%
 % Owner-Occupied,52.2%
 % Units Built Pre-1950,26.1%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"1,492"
 Population Change (abs),-214
+Pop Change vs City Avg (pp),-767.4%
 Prior Income (CPI-adj $),"$38,887"
 "Income Change (%, inflation-adj)",-6.0%
+Income Change vs City Avg (pp),-16.3%
 Prior Median Rent ($/mo),$519
 Rent Change (%),64.4%
+Rent Change vs City Avg (pp),38.5%
+Prior Median Home Value ($),85220.41403517975
+Home Value Change (%),4.7%
+Home Value Change vs City Avg (pp),-33.4%
+Prior Vacancy Rate (%),28.5%
+Vacancy Rate Change (pp),3.0%
+Vacancy Change vs City Avg (pp),7.2%
+Prior % Bachelor's+,11.2%
+Education Change (pp),3.0%
+Education Change vs City Avg (pp),0.1%
+Market Signals,Affordability stress — rents outpacing incomes; Vacancy distress — disinvestment risk

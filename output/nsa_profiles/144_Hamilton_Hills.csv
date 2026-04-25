@@ -3,6 +3,9 @@ NSA ID,144
 NSA Name,Hamilton Hills
 Total Population,"8,393"
 Median HH Income ($),"$67,780"
+% HH Income Below $50k,35.4%
+% HH Income $50k–$100k,37.3%
+% HH Income $100k+,27.2%
 Median Gross Rent ($/mo),"$1,203"
 % Renter-Occupied,47.2%
 Population Change (%),-12.5%
@@ -18,13 +21,29 @@ Avg Household Size,2.2
 % Work from Home,11.1%
 Median Home Value ($),"$229,169"
 Vacancy Rate (%),9.1%
+% Vacant — For Rent,3.1%
+% Vacant — For Sale,3.1%
+% Vacant — Other/Distressed,2.9%
 % Owner-Occupied,52.8%
 % Units Built Pre-1950,46.5%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"9,596"
 Population Change (abs),"-1,203"
+Pop Change vs City Avg (pp),-765.5%
 Prior Income (CPI-adj $),"$59,467"
 "Income Change (%, inflation-adj)",14.0%
+Income Change vs City Avg (pp),3.7%
 Prior Median Rent ($/mo),"$1,045"
 Rent Change (%),15.2%
+Rent Change vs City Avg (pp),-10.7%
+Prior Median Home Value ($),176603.1635862573
+Home Value Change (%),29.8%
+Home Value Change vs City Avg (pp),-8.3%
+Prior Vacancy Rate (%),11.1%
+Vacancy Rate Change (pp),-2.0%
+Vacancy Change vs City Avg (pp),2.2%
+Prior % Bachelor's+,25.3%
+Education Change (pp),9.3%
+Education Change vs City Avg (pp),6.4%
+Market Signals,No strong signals

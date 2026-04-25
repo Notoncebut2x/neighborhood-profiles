@@ -3,6 +3,9 @@ NSA ID,152
 NSA Name,Hopkins Bayview
 Total Population,117
 Median HH Income ($),"$58,455"
+% HH Income Below $50k,34.8%
+% HH Income $50k–$100k,41.0%
+% HH Income $100k+,24.1%
 Median Gross Rent ($/mo),"$1,633"
 % Renter-Occupied,62.2%
 Population Change (%),-13.9%
@@ -18,13 +21,29 @@ Avg Household Size,2.4
 % Work from Home,2.9%
 Median Home Value ($),"$165,139"
 Vacancy Rate (%),14.6%
+% Vacant — For Rent,2.0%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,12.6%
 % Owner-Occupied,37.8%
 % Units Built Pre-1950,43.2%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,135
 Population Change (abs),-18
+Pop Change vs City Avg (pp),-766.9%
 Prior Income (CPI-adj $),"$65,613"
 "Income Change (%, inflation-adj)",-10.9%
+Income Change vs City Avg (pp),-21.2%
 Prior Median Rent ($/mo),"$1,061"
 Rent Change (%),54.0%
+Rent Change vs City Avg (pp),28.1%
+Prior Median Home Value ($),117372.572900584
+Home Value Change (%),40.7%
+Home Value Change vs City Avg (pp),2.6%
+Prior Vacancy Rate (%),19.8%
+Vacancy Rate Change (pp),-5.2%
+Vacancy Change vs City Avg (pp),-1.0%
+Prior % Bachelor's+,21.4%
+Education Change (pp),6.6%
+Education Change vs City Avg (pp),3.7%
+Market Signals,Affordability stress — rents outpacing incomes

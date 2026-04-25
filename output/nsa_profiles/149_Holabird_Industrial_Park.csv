@@ -3,6 +3,9 @@ NSA ID,149
 NSA Name,Holabird Industrial Park
 Total Population,76
 Median HH Income ($),"$158,387"
+% HH Income Below $50k,5.4%
+% HH Income $50k–$100k,26.8%
+% HH Income $100k+,67.8%
 Median Gross Rent ($/mo),"$2,176"
 % Renter-Occupied,65.2%
 Population Change (%),101.0%
@@ -18,13 +21,29 @@ Avg Household Size,2.7
 % Work from Home,32.5%
 Median Home Value ($),"$270,650"
 Vacancy Rate (%),42.7%
+% Vacant — For Rent,0.0%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,42.7%
 % Owner-Occupied,34.8%
 % Units Built Pre-1950,24.8%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,37
 Population Change (abs),38
+Pop Change vs City Avg (pp),-652.0%
 Prior Income (CPI-adj $),"$123,927"
 "Income Change (%, inflation-adj)",27.8%
+Income Change vs City Avg (pp),17.5%
 Prior Median Rent ($/mo),"$1,203"
 Rent Change (%),80.9%
+Rent Change vs City Avg (pp),55.0%
+Prior Median Home Value ($),308350.06523610634
+Home Value Change (%),-12.2%
+Home Value Change vs City Avg (pp),-50.3%
+Prior Vacancy Rate (%),6.3%
+Vacancy Rate Change (pp),36.4%
+Vacancy Change vs City Avg (pp),40.6%
+Prior % Bachelor's+,68.9%
+Education Change (pp),-3.3%
+Education Change vs City Avg (pp),-6.2%
+Market Signals,Household incomes rising faster than city; Young adult population growing; Affordability stress — rents outpacing incomes; Vacancy distress — disinvestment risk

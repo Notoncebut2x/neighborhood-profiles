@@ -3,6 +3,9 @@ NSA ID,120
 NSA Name,Evergreen Lawn
 Total Population,658
 Median HH Income ($),"$34,714"
+% HH Income Below $50k,74.2%
+% HH Income $50k–$100k,16.9%
+% HH Income $100k+,8.9%
 Median Gross Rent ($/mo),"$1,451"
 % Renter-Occupied,41.0%
 Population Change (%),-43.2%
@@ -18,13 +21,29 @@ Avg Household Size,2.1
 % Work from Home,0.0%
 Median Home Value ($),"$84,006"
 Vacancy Rate (%),31.9%
+% Vacant — For Rent,0.0%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,31.9%
 % Owner-Occupied,59.0%
 % Units Built Pre-1950,4.6%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"1,158"
 Population Change (abs),-500
+Pop Change vs City Avg (pp),-796.2%
 Prior Income (CPI-adj $),"$41,730"
 "Income Change (%, inflation-adj)",-16.8%
+Income Change vs City Avg (pp),-27.1%
 Prior Median Rent ($/mo),"$1,206"
 Rent Change (%),20.3%
+Rent Change vs City Avg (pp),-5.6%
+Prior Median Home Value ($),73361.97769330216
+Home Value Change (%),14.5%
+Home Value Change vs City Avg (pp),-23.6%
+Prior Vacancy Rate (%),19.9%
+Vacancy Rate Change (pp),12.0%
+Vacancy Change vs City Avg (pp),16.2%
+Prior % Bachelor's+,6.8%
+Education Change (pp),0.4%
+Education Change vs City Avg (pp),-2.5%
+Market Signals,Affordability stress — rents outpacing incomes; Vacancy distress — disinvestment risk; Significant population loss

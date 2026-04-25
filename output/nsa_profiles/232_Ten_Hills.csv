@@ -3,6 +3,9 @@ NSA ID,232
 NSA Name,Ten Hills
 Total Population,"1,580"
 Median HH Income ($),"$67,958"
+% HH Income Below $50k,40.3%
+% HH Income $50k–$100k,22.7%
+% HH Income $100k+,37.0%
 Median Gross Rent ($/mo),"$1,292"
 % Renter-Occupied,49.5%
 Population Change (%),86.4%
@@ -18,13 +21,29 @@ Avg Household Size,2.4
 % Work from Home,21.9%
 Median Home Value ($),"$300,775"
 Vacancy Rate (%),11.4%
+% Vacant — For Rent,6.0%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,5.3%
 % Owner-Occupied,50.5%
 % Units Built Pre-1950,40.1%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,847
 Population Change (abs),732
+Pop Change vs City Avg (pp),-666.6%
 Prior Income (CPI-adj $),"$80,707"
 "Income Change (%, inflation-adj)",-15.8%
+Income Change vs City Avg (pp),-26.1%
 Prior Median Rent ($/mo),"$1,058"
 Rent Change (%),22.1%
+Rent Change vs City Avg (pp),-3.8%
+Prior Median Home Value ($),224653.94712268515
+Home Value Change (%),33.9%
+Home Value Change vs City Avg (pp),-4.2%
+Prior Vacancy Rate (%),9.2%
+Vacancy Rate Change (pp),2.2%
+Vacancy Change vs City Avg (pp),6.4%
+Prior % Bachelor's+,26.7%
+Education Change (pp),25.0%
+Education Change vs City Avg (pp),22.1%
+Market Signals,Affordability stress — rents outpacing incomes

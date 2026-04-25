@@ -3,6 +3,9 @@ NSA ID,231
 NSA Name,South Clifton Park
 Total Population,422
 Median HH Income ($),"$57,273"
+% HH Income Below $50k,34.6%
+% HH Income $50k–$100k,41.2%
+% HH Income $100k+,24.2%
 Median Gross Rent ($/mo),$562
 % Renter-Occupied,56.6%
 Population Change (%),-42.7%
@@ -18,13 +21,29 @@ Avg Household Size,2.3
 % Work from Home,29.6%
 Median Home Value ($),"$80,510"
 Vacancy Rate (%),36.2%
+% Vacant — For Rent,0.0%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,36.2%
 % Owner-Occupied,43.4%
 % Units Built Pre-1950,3.7%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,736
 Population Change (abs),-314
+Pop Change vs City Avg (pp),-795.7%
 Prior Income (CPI-adj $),"$32,600"
 "Income Change (%, inflation-adj)",75.7%
+Income Change vs City Avg (pp),65.4%
 Prior Median Rent ($/mo),"$1,005"
 Rent Change (%),-44.1%
+Rent Change vs City Avg (pp),-70.0%
+Prior Median Home Value ($),71625.21625129765
+Home Value Change (%),12.4%
+Home Value Change vs City Avg (pp),-25.7%
+Prior Vacancy Rate (%),42.2%
+Vacancy Rate Change (pp),-6.0%
+Vacancy Change vs City Avg (pp),-1.8%
+Prior % Bachelor's+,2.8%
+Education Change (pp),6.1%
+Education Change vs City Avg (pp),3.2%
+Market Signals,Household incomes rising faster than city; Significant population loss

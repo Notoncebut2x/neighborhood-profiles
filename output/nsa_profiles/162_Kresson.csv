@@ -3,6 +3,9 @@ NSA ID,162
 NSA Name,Kresson
 Total Population,333
 Median HH Income ($),"$55,042"
+% HH Income Below $50k,42.7%
+% HH Income $50k–$100k,34.8%
+% HH Income $100k+,22.6%
 Median Gross Rent ($/mo),"$1,386"
 % Renter-Occupied,38.0%
 Population Change (%),-31.3%
@@ -18,13 +21,29 @@ Avg Household Size,2.6
 % Work from Home,6.9%
 Median Home Value ($),"$192,807"
 Vacancy Rate (%),24.7%
+% Vacant — For Rent,0.8%
+% Vacant — For Sale,0.4%
+% Vacant — Other/Distressed,23.5%
 % Owner-Occupied,62.0%
 % Units Built Pre-1950,20.3%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,485
 Population Change (abs),-152
+Pop Change vs City Avg (pp),-784.3%
 Prior Income (CPI-adj $),"$64,662"
 "Income Change (%, inflation-adj)",-14.9%
+Income Change vs City Avg (pp),-25.2%
 Prior Median Rent ($/mo),"$1,540"
 Rent Change (%),-10.0%
+Rent Change vs City Avg (pp),-35.9%
+Prior Median Home Value ($),88678.97161015276
+Home Value Change (%),117.4%
+Home Value Change vs City Avg (pp),79.3%
+Prior Vacancy Rate (%),21.1%
+Vacancy Rate Change (pp),3.6%
+Vacancy Change vs City Avg (pp),7.8%
+Prior % Bachelor's+,17.5%
+Education Change (pp),1.1%
+Education Change vs City Avg (pp),-1.8%
+Market Signals,Vacancy distress — disinvestment risk; Home value appreciation outpacing city; Significant population loss

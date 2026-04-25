@@ -3,6 +3,9 @@ NSA ID,183
 NSA Name,Midtown-Edmondson
 Total Population,825
 Median HH Income ($),"$32,961"
+% HH Income Below $50k,65.0%
+% HH Income $50k–$100k,29.2%
+% HH Income $100k+,5.8%
 Median Gross Rent ($/mo),"$1,116"
 % Renter-Occupied,63.1%
 Population Change (%),-28.4%
@@ -18,13 +21,29 @@ Avg Household Size,1.8
 % Work from Home,8.2%
 Median Home Value ($),"$67,740"
 Vacancy Rate (%),51.9%
+% Vacant — For Rent,0.0%
+% Vacant — For Sale,3.2%
+% Vacant — Other/Distressed,48.7%
 % Owner-Occupied,36.9%
 % Units Built Pre-1950,9.9%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"1,152"
 Population Change (abs),-327
+Pop Change vs City Avg (pp),-781.4%
 Prior Income (CPI-adj $),"$37,122"
 "Income Change (%, inflation-adj)",-11.2%
+Income Change vs City Avg (pp),-21.5%
 Prior Median Rent ($/mo),"$1,100"
 Rent Change (%),1.4%
+Rent Change vs City Avg (pp),-24.5%
+Prior Median Home Value ($),31878.12848058958
+Home Value Change (%),112.5%
+Home Value Change vs City Avg (pp),74.4%
+Prior Vacancy Rate (%),55.8%
+Vacancy Rate Change (pp),-3.9%
+Vacancy Change vs City Avg (pp),0.3%
+Prior % Bachelor's+,2.8%
+Education Change (pp),0.8%
+Education Change vs City Avg (pp),-2.1%
+Market Signals,Home value appreciation outpacing city; Significant population loss

@@ -3,6 +3,9 @@ NSA ID,45
 NSA Name,Evesham Park
 Total Population,732
 Median HH Income ($),"$65,256"
+% HH Income Below $50k,35.1%
+% HH Income $50k–$100k,38.2%
+% HH Income $100k+,26.6%
 Median Gross Rent ($/mo),$853
 % Renter-Occupied,58.6%
 Population Change (%),0.2%
@@ -18,13 +21,29 @@ Avg Household Size,2.2
 % Work from Home,22.4%
 Median Home Value ($),"$312,157"
 Vacancy Rate (%),16.6%
+% Vacant — For Rent,5.4%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,11.2%
 % Owner-Occupied,41.4%
 % Units Built Pre-1950,22.7%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,730
 Population Change (abs),1
+Pop Change vs City Avg (pp),-752.8%
 Prior Income (CPI-adj $),"$44,537"
 "Income Change (%, inflation-adj)",46.5%
+Income Change vs City Avg (pp),36.2%
 Prior Median Rent ($/mo),"$1,126"
 Rent Change (%),-24.3%
+Rent Change vs City Avg (pp),-50.2%
+Prior Median Home Value ($),185374.26138262864
+Home Value Change (%),68.4%
+Home Value Change vs City Avg (pp),30.3%
+Prior Vacancy Rate (%),1.2%
+Vacancy Rate Change (pp),15.4%
+Vacancy Change vs City Avg (pp),19.6%
+Prior % Bachelor's+,17.3%
+Education Change (pp),23.6%
+Education Change vs City Avg (pp),20.7%
+Market Signals,Household incomes rising faster than city; Home value appreciation outpacing city

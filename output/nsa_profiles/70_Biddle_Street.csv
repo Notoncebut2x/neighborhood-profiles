@@ -3,6 +3,9 @@ NSA ID,70
 NSA Name,Biddle Street
 Total Population,882
 Median HH Income ($),"$39,594"
+% HH Income Below $50k,55.7%
+% HH Income $50k–$100k,33.4%
+% HH Income $100k+,10.8%
 Median Gross Rent ($/mo),$987
 % Renter-Occupied,59.8%
 Population Change (%),34.9%
@@ -18,13 +21,29 @@ Avg Household Size,2.2
 % Work from Home,2.6%
 Median Home Value ($),"$95,217"
 Vacancy Rate (%),26.6%
+% Vacant — For Rent,0.2%
+% Vacant — For Sale,2.3%
+% Vacant — Other/Distressed,24.1%
 % Owner-Occupied,40.2%
 % Units Built Pre-1950,25.0%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,653
 Population Change (abs),228
+Pop Change vs City Avg (pp),-718.1%
 Prior Income (CPI-adj $),"$37,455"
 "Income Change (%, inflation-adj)",5.7%
+Income Change vs City Avg (pp),-4.6%
 Prior Median Rent ($/mo),"$1,143"
 Rent Change (%),-13.7%
+Rent Change vs City Avg (pp),-39.6%
+Prior Median Home Value ($),49088.51119369649
+Home Value Change (%),94.0%
+Home Value Change vs City Avg (pp),55.9%
+Prior Vacancy Rate (%),37.0%
+Vacancy Rate Change (pp),-10.4%
+Vacancy Change vs City Avg (pp),-6.2%
+Prior % Bachelor's+,8.6%
+Education Change (pp),5.0%
+Education Change vs City Avg (pp),2.1%
+Market Signals,Young adult population growing; Home value appreciation outpacing city

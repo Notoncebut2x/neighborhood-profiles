@@ -3,6 +3,9 @@ NSA ID,94
 NSA Name,Chinquapin Park
 Total Population,"1,441"
 Median HH Income ($),"$86,745"
+% HH Income Below $50k,21.5%
+% HH Income $50k–$100k,37.3%
+% HH Income $100k+,41.2%
 Median Gross Rent ($/mo),"$2,108"
 % Renter-Occupied,13.7%
 Population Change (%),-7.2%
@@ -18,13 +21,29 @@ Avg Household Size,2.6
 % Work from Home,14.7%
 Median Home Value ($),"$171,554"
 Vacancy Rate (%),1.1%
+% Vacant — For Rent,0.0%
+% Vacant — For Sale,1.1%
+% Vacant — Other/Distressed,0.0%
 % Owner-Occupied,86.3%
 % Units Built Pre-1950,48.9%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"1,552"
 Population Change (abs),-111
+Pop Change vs City Avg (pp),-760.2%
 Prior Income (CPI-adj $),"$66,581"
 "Income Change (%, inflation-adj)",30.3%
+Income Change vs City Avg (pp),20.0%
 Prior Median Rent ($/mo),"$1,220"
 Rent Change (%),72.7%
+Rent Change vs City Avg (pp),46.8%
+Prior Median Home Value ($),156456.2154029493
+Home Value Change (%),9.6%
+Home Value Change vs City Avg (pp),-28.5%
+Prior Vacancy Rate (%),7.7%
+Vacancy Rate Change (pp),-6.6%
+Vacancy Change vs City Avg (pp),-2.4%
+Prior % Bachelor's+,27.8%
+Education Change (pp),-8.1%
+Education Change vs City Avg (pp),-11.0%
+Market Signals,Renter demand rising; Household incomes rising faster than city; Affordability stress — rents outpacing incomes

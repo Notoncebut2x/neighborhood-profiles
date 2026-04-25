@@ -3,6 +3,9 @@ NSA ID,233
 NSA Name,The Orchards
 Total Population,425
 Median HH Income ($),"$193,379"
+% HH Income Below $50k,0.4%
+% HH Income $50k–$100k,31.7%
+% HH Income $100k+,67.8%
 Median Gross Rent ($/mo),"$1,757"
 % Renter-Occupied,4.5%
 Population Change (%),-13.7%
@@ -18,13 +21,29 @@ Avg Household Size,2.5
 % Work from Home,39.2%
 Median Home Value ($),"$563,555"
 Vacancy Rate (%),16.8%
+% Vacant — For Rent,0.0%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,16.8%
 % Owner-Occupied,95.5%
 % Units Built Pre-1950,23.2%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,492
 Population Change (abs),-67
+Pop Change vs City Avg (pp),-766.7%
 Prior Income (CPI-adj $),"$170,002"
 "Income Change (%, inflation-adj)",13.8%
+Income Change vs City Avg (pp),3.5%
 Prior Median Rent ($/mo),"$1,894"
 Rent Change (%),-7.2%
+Rent Change vs City Avg (pp),-33.1%
+Prior Median Home Value ($),509151.6135234158
+Home Value Change (%),10.7%
+Home Value Change vs City Avg (pp),-27.4%
+Prior Vacancy Rate (%),6.4%
+Vacancy Rate Change (pp),10.4%
+Vacancy Change vs City Avg (pp),14.6%
+Prior % Bachelor's+,84.0%
+Education Change (pp),0.2%
+Education Change vs City Avg (pp),-2.7%
+Market Signals,No strong signals

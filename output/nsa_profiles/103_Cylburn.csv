@@ -3,6 +3,9 @@ NSA ID,103
 NSA Name,Cylburn
 Total Population,"2,286"
 Median HH Income ($),"$49,573"
+% HH Income Below $50k,50.5%
+% HH Income $50k–$100k,29.3%
+% HH Income $100k+,20.2%
 Median Gross Rent ($/mo),"$1,332"
 % Renter-Occupied,56.7%
 Population Change (%),-4.0%
@@ -18,13 +21,29 @@ Avg Household Size,2.5
 % Work from Home,6.0%
 Median Home Value ($),"$241,597"
 Vacancy Rate (%),11.8%
+% Vacant — For Rent,1.8%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,10.0%
 % Owner-Occupied,43.3%
 % Units Built Pre-1950,48.9%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"2,380"
 Population Change (abs),-94
+Pop Change vs City Avg (pp),-757.0%
 Prior Income (CPI-adj $),"$49,184"
 "Income Change (%, inflation-adj)",0.8%
+Income Change vs City Avg (pp),-9.5%
 Prior Median Rent ($/mo),"$1,013"
 Rent Change (%),31.5%
+Rent Change vs City Avg (pp),5.6%
+Prior Median Home Value ($),122655.40281847937
+Home Value Change (%),97.0%
+Home Value Change vs City Avg (pp),58.9%
+Prior Vacancy Rate (%),18.9%
+Vacancy Rate Change (pp),-7.1%
+Vacancy Change vs City Avg (pp),-2.9%
+Prior % Bachelor's+,16.0%
+Education Change (pp),6.1%
+Education Change vs City Avg (pp),3.2%
+Market Signals,Renter demand rising; Affordability stress — rents outpacing incomes; Home value appreciation outpacing city

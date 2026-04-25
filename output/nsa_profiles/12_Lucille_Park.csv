@@ -3,6 +3,9 @@ NSA ID,12
 NSA Name,Lucille Park
 Total Population,224
 Median HH Income ($),"$20,850"
+% HH Income Below $50k,77.0%
+% HH Income $50k–$100k,20.8%
+% HH Income $100k+,2.2%
 Median Gross Rent ($/mo),"$1,446"
 % Renter-Occupied,76.2%
 Population Change (%),-8.4%
@@ -18,13 +21,29 @@ Avg Household Size,2.6
 % Work from Home,0.1%
 Median Home Value ($),"$77,559"
 Vacancy Rate (%),52.4%
+% Vacant — For Rent,11.5%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,40.9%
 % Owner-Occupied,23.8%
 % Units Built Pre-1950,4.8%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,244
 Population Change (abs),-20
+Pop Change vs City Avg (pp),-761.4%
 Prior Income (CPI-adj $),"$36,559"
 "Income Change (%, inflation-adj)",-43.0%
+Income Change vs City Avg (pp),-53.3%
 Prior Median Rent ($/mo),"$1,099"
 Rent Change (%),31.6%
+Rent Change vs City Avg (pp),5.7%
+Prior Median Home Value ($),48483.77263582784
+Home Value Change (%),60.0%
+Home Value Change vs City Avg (pp),21.9%
+Prior Vacancy Rate (%),34.8%
+Vacancy Rate Change (pp),17.6%
+Vacancy Change vs City Avg (pp),21.8%
+Prior % Bachelor's+,9.6%
+Education Change (pp),6.6%
+Education Change vs City Avg (pp),3.7%
+Market Signals,Affordability stress — rents outpacing incomes; Vacancy distress — disinvestment risk; Home value appreciation outpacing city

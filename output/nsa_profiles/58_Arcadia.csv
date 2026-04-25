@@ -3,6 +3,9 @@ NSA ID,58
 NSA Name,Arcadia
 Total Population,"1,015"
 Median HH Income ($),"$108,022"
+% HH Income Below $50k,16.6%
+% HH Income $50k–$100k,30.5%
+% HH Income $100k+,53.0%
 Median Gross Rent ($/mo),"$1,652"
 % Renter-Occupied,15.7%
 Population Change (%),-8.2%
@@ -18,13 +21,29 @@ Avg Household Size,2.5
 % Work from Home,32.2%
 Median Home Value ($),"$262,127"
 Vacancy Rate (%),4.6%
+% Vacant — For Rent,2.0%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,2.6%
 % Owner-Occupied,84.3%
 % Units Built Pre-1950,25.3%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"1,106"
 Population Change (abs),-91
+Pop Change vs City Avg (pp),-761.2%
 Prior Income (CPI-adj $),"$81,311"
 "Income Change (%, inflation-adj)",32.9%
+Income Change vs City Avg (pp),22.6%
 Prior Median Rent ($/mo),$946
 Rent Change (%),74.6%
+Rent Change vs City Avg (pp),48.7%
+Prior Median Home Value ($),195029.9670730081
+Home Value Change (%),34.4%
+Home Value Change vs City Avg (pp),-3.7%
+Prior Vacancy Rate (%),14.8%
+Vacancy Rate Change (pp),-10.2%
+Vacancy Change vs City Avg (pp),-6.0%
+Prior % Bachelor's+,42.8%
+Education Change (pp),20.5%
+Education Change vs City Avg (pp),17.6%
+Market Signals,Renter demand rising; Household incomes rising faster than city; Affordability stress — rents outpacing incomes; Gentrification indicators present

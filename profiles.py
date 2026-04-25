@@ -26,9 +26,12 @@ TOP_PANEL = [
     NSA_ID_COL, NSA_NAME_COL,
     "pop_total",
     "med_hh_income",
+    "pct_hh_below50k",
+    "pct_hh_50_100k",
+    "pct_hh_100k_plus",
     "med_gross_rent",
     "pct_renters",
-    "pop_change_pct",          # may be NaN if no prior data
+    "pop_change_pct",
 ]
 
 CUSTOMER_BASE = [
@@ -47,6 +50,9 @@ CUSTOMER_BASE = [
 HOUSING_MARKET = [
     "med_home_value",
     "pct_vacant",
+    "pct_vacant_for_rent",
+    "pct_vacant_for_sale",
+    "pct_vacant_distressed",
     "pct_owners",
     "pct_renters",
     "pct_pre1950",
@@ -58,18 +64,34 @@ TRENDS = [
     "pop_total_prior",
     "pop_change_abs",
     "pop_change_pct",
+    "pop_change_pct_vs_city",
     "med_hh_income_prior_adj",
     "income_change_pct",
+    "income_change_pct_vs_city",
     "med_gross_rent_prior",
     "rent_change_pct",
+    "rent_change_pct_vs_city",
+    "med_home_value_prior",
+    "home_value_change_pct",
+    "home_value_change_pct_vs_city",
+    "pct_vacant_prior",
+    "vacancy_change_pp",
+    "vacancy_change_pp_vs_city",
     "pct_bachelors_plus_prior",
     "edu_change_pp",
+    "edu_change_pp_vs_city",
 ]
 
+MARKET_SIGNALS = ["market_signals"]
+
 # All ordered columns (skipping those not present due to missing data)
-ALL_COLS = TOP_PANEL + [c for c in CUSTOMER_BASE if c not in TOP_PANEL] + \
-           [c for c in HOUSING_MARKET if c not in TOP_PANEL + CUSTOMER_BASE] + \
-           [c for c in TRENDS if c not in TOP_PANEL + CUSTOMER_BASE + HOUSING_MARKET]
+ALL_COLS = (
+    TOP_PANEL +
+    [c for c in CUSTOMER_BASE if c not in TOP_PANEL] +
+    [c for c in HOUSING_MARKET if c not in TOP_PANEL + CUSTOMER_BASE] +
+    [c for c in TRENDS if c not in TOP_PANEL + CUSTOMER_BASE + HOUSING_MARKET] +
+    [c for c in MARKET_SIGNALS if c not in TOP_PANEL + CUSTOMER_BASE + HOUSING_MARKET + TRENDS]
+)
 
 
 # ---------------------------------------------------------------------------
@@ -101,13 +123,34 @@ COLUMN_LABELS = {
     "pct_moved_past_year": "% Moved in Past Year",
     "pop_total_prior": "Prior Period Population",
     "pop_change_abs": "Population Change (abs)",
+    # Top panel additions
+    "pct_hh_below50k": "% HH Income Below $50k",
+    "pct_hh_50_100k": "% HH Income $50k–$100k",
+    "pct_hh_100k_plus": "% HH Income $100k+",
+    # Vacancy breakdown
+    "pct_vacant_for_rent": "% Vacant — For Rent",
+    "pct_vacant_for_sale": "% Vacant — For Sale",
+    "pct_vacant_distressed": "% Vacant — Other/Distressed",
+    # Trends
     "pop_change_pct": "Population Change (%)",
+    "pop_change_pct_vs_city": "Pop Change vs City Avg (pp)",
     "med_hh_income_prior_adj": "Prior Income (CPI-adj $)",
     "income_change_pct": "Income Change (%, inflation-adj)",
+    "income_change_pct_vs_city": "Income Change vs City Avg (pp)",
     "med_gross_rent_prior": "Prior Median Rent ($/mo)",
     "rent_change_pct": "Rent Change (%)",
+    "rent_change_pct_vs_city": "Rent Change vs City Avg (pp)",
+    "med_home_value_prior": "Prior Median Home Value ($)",
+    "home_value_change_pct": "Home Value Change (%)",
+    "home_value_change_pct_vs_city": "Home Value Change vs City Avg (pp)",
+    "pct_vacant_prior": "Prior Vacancy Rate (%)",
+    "vacancy_change_pp": "Vacancy Rate Change (pp)",
+    "vacancy_change_pp_vs_city": "Vacancy Change vs City Avg (pp)",
     "pct_bachelors_plus_prior": "Prior % Bachelor's+",
     "edu_change_pp": "Education Change (pp)",
+    "edu_change_pp_vs_city": "Education Change vs City Avg (pp)",
+    # Signals
+    "market_signals": "Market Signals",
 }
 
 

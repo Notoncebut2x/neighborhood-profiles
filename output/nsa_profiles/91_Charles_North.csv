@@ -3,6 +3,9 @@ NSA ID,91
 NSA Name,Charles North
 Total Population,"1,129"
 Median HH Income ($),"$24,235"
+% HH Income Below $50k,65.1%
+% HH Income $50k–$100k,27.7%
+% HH Income $100k+,7.2%
 Median Gross Rent ($/mo),$764
 % Renter-Occupied,88.9%
 Population Change (%),4.1%
@@ -18,13 +21,29 @@ Avg Household Size,1.3
 % Work from Home,34.6%
 Median Home Value ($),"$355,263"
 Vacancy Rate (%),12.0%
+% Vacant — For Rent,6.7%
+% Vacant — For Sale,0.6%
+% Vacant — Other/Distressed,4.7%
 % Owner-Occupied,11.1%
 % Units Built Pre-1950,9.8%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"1,084"
 Population Change (abs),44
+Pop Change vs City Avg (pp),-748.9%
 Prior Income (CPI-adj $),"$26,336"
 "Income Change (%, inflation-adj)",-8.0%
+Income Change vs City Avg (pp),-18.3%
 Prior Median Rent ($/mo),$825
 Rent Change (%),-7.3%
+Rent Change vs City Avg (pp),-33.2%
+Prior Median Home Value ($),269044.0620513325
+Home Value Change (%),32.0%
+Home Value Change vs City Avg (pp),-6.1%
+Prior Vacancy Rate (%),24.6%
+Vacancy Rate Change (pp),-12.6%
+Vacancy Change vs City Avg (pp),-8.4%
+Prior % Bachelor's+,30.8%
+Education Change (pp),5.9%
+Education Change vs City Avg (pp),3.0%
+Market Signals,Young adult population growing

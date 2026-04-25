@@ -3,6 +3,9 @@ NSA ID,82
 NSA Name,Canton
 Total Population,"12,518"
 Median HH Income ($),"$156,462"
+% HH Income Below $50k,10.8%
+% HH Income $50k–$100k,19.4%
+% HH Income $100k+,69.8%
 Median Gross Rent ($/mo),"$2,257"
 % Renter-Occupied,32.2%
 Population Change (%),3.4%
@@ -18,13 +21,29 @@ Avg Household Size,1.9
 % Work from Home,24.9%
 Median Home Value ($),"$378,064"
 Vacancy Rate (%),9.1%
+% Vacant — For Rent,2.4%
+% Vacant — For Sale,0.8%
+% Vacant — Other/Distressed,5.9%
 % Owner-Occupied,67.8%
 % Units Built Pre-1950,6.8%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"12,101"
 Population Change (abs),416
+Pop Change vs City Avg (pp),-749.6%
 Prior Income (CPI-adj $),"$132,121"
 "Income Change (%, inflation-adj)",18.4%
+Income Change vs City Avg (pp),8.1%
 Prior Median Rent ($/mo),"$2,007"
 Rent Change (%),12.4%
+Rent Change vs City Avg (pp),-13.5%
+Prior Median Home Value ($),324174.24544403167
+Home Value Change (%),16.6%
+Home Value Change vs City Avg (pp),-21.5%
+Prior Vacancy Rate (%),14.7%
+Vacancy Rate Change (pp),-5.6%
+Vacancy Change vs City Avg (pp),-1.4%
+Prior % Bachelor's+,71.5%
+Education Change (pp),9.1%
+Education Change vs City Avg (pp),6.2%
+Market Signals,Young adult population growing

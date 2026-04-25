@@ -3,6 +3,9 @@ NSA ID,169
 NSA Name,Liberty Square
 Total Population,873
 Median HH Income ($),"$30,582"
+% HH Income Below $50k,65.2%
+% HH Income $50k–$100k,29.0%
+% HH Income $100k+,5.7%
 Median Gross Rent ($/mo),$856
 % Renter-Occupied,75.2%
 Population Change (%),22.9%
@@ -18,13 +21,29 @@ Avg Household Size,2.2
 % Work from Home,5.4%
 Median Home Value ($),"$211,578"
 Vacancy Rate (%),18.4%
+% Vacant — For Rent,3.5%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,14.9%
 % Owner-Occupied,24.8%
 % Units Built Pre-1950,21.3%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,710
 Population Change (abs),162
+Pop Change vs City Avg (pp),-730.1%
 Prior Income (CPI-adj $),"$37,314"
 "Income Change (%, inflation-adj)",-18.0%
+Income Change vs City Avg (pp),-28.3%
 Prior Median Rent ($/mo),$763
 Rent Change (%),12.2%
+Rent Change vs City Avg (pp),-13.7%
+Prior Median Home Value ($),69091.37456950673
+Home Value Change (%),206.2%
+Home Value Change vs City Avg (pp),168.1%
+Prior Vacancy Rate (%),24.3%
+Vacancy Rate Change (pp),-5.9%
+Vacancy Change vs City Avg (pp),-1.7%
+Prior % Bachelor's+,9.5%
+Education Change (pp),7.9%
+Education Change vs City Avg (pp),5.0%
+Market Signals,Young adult population growing; Affordability stress — rents outpacing incomes; Home value appreciation outpacing city

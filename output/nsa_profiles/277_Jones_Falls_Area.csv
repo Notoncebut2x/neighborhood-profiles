@@ -3,6 +3,9 @@ NSA ID,277
 NSA Name,Jones Falls Area
 Total Population,180
 Median HH Income ($),"$97,097"
+% HH Income Below $50k,25.0%
+% HH Income $50k–$100k,26.5%
+% HH Income $100k+,48.5%
 Median Gross Rent ($/mo),"$2,118"
 % Renter-Occupied,39.5%
 Population Change (%),15.2%
@@ -18,13 +21,29 @@ Avg Household Size,1.7
 % Work from Home,25.9%
 Median Home Value ($),"$266,793"
 Vacancy Rate (%),4.0%
+% Vacant — For Rent,3.8%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,0.1%
 % Owner-Occupied,60.5%
 % Units Built Pre-1950,4.0%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,156
 Population Change (abs),23
+Pop Change vs City Avg (pp),-737.8%
 Prior Income (CPI-adj $),"$111,892"
 "Income Change (%, inflation-adj)",-13.2%
+Income Change vs City Avg (pp),-23.5%
 Prior Median Rent ($/mo),"$1,558"
 Rent Change (%),35.9%
+Rent Change vs City Avg (pp),10.0%
+Prior Median Home Value ($),238318.10538875137
+Home Value Change (%),11.9%
+Home Value Change vs City Avg (pp),-26.2%
+Prior Vacancy Rate (%),4.3%
+Vacancy Rate Change (pp),-0.3%
+Vacancy Change vs City Avg (pp),3.9%
+Prior % Bachelor's+,75.1%
+Education Change (pp),-9.8%
+Education Change vs City Avg (pp),-12.7%
+Market Signals,Renter demand rising; Young adult population growing; Affordability stress — rents outpacing incomes

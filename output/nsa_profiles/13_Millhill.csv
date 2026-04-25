@@ -3,6 +3,9 @@ NSA ID,13
 NSA Name,Millhill
 Total Population,"1,309"
 Median HH Income ($),"$29,883"
+% HH Income Below $50k,57.9%
+% HH Income $50k–$100k,32.6%
+% HH Income $100k+,9.4%
 Median Gross Rent ($/mo),$789
 % Renter-Occupied,65.1%
 Population Change (%),4.1%
@@ -18,13 +21,29 @@ Avg Household Size,2.1
 % Work from Home,13.6%
 Median Home Value ($),"$43,567"
 Vacancy Rate (%),35.6%
+% Vacant — For Rent,3.9%
+% Vacant — For Sale,2.4%
+% Vacant — Other/Distressed,29.3%
 % Owner-Occupied,34.9%
 % Units Built Pre-1950,13.6%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"1,257"
 Population Change (abs),51
+Pop Change vs City Avg (pp),-748.9%
 Prior Income (CPI-adj $),"$59,534"
 "Income Change (%, inflation-adj)",-49.8%
+Income Change vs City Avg (pp),-60.1%
 Prior Median Rent ($/mo),"$1,281"
 Rent Change (%),-38.4%
+Rent Change vs City Avg (pp),-64.3%
+Prior Median Home Value ($),62046.02311035209
+Home Value Change (%),-29.8%
+Home Value Change vs City Avg (pp),-67.9%
+Prior Vacancy Rate (%),44.6%
+Vacancy Rate Change (pp),-9.0%
+Vacancy Change vs City Avg (pp),-4.8%
+Prior % Bachelor's+,5.3%
+Education Change (pp),-4.4%
+Education Change vs City Avg (pp),-7.3%
+Market Signals,No strong signals

@@ -3,6 +3,9 @@ NSA ID,124
 NSA Name,Forest Park
 Total Population,"1,596"
 Median HH Income ($),"$66,245"
+% HH Income Below $50k,30.9%
+% HH Income $50k–$100k,49.7%
+% HH Income $100k+,19.4%
 Median Gross Rent ($/mo),"$1,171"
 % Renter-Occupied,45.5%
 Population Change (%),69.0%
@@ -18,13 +21,29 @@ Avg Household Size,2.8
 % Work from Home,22.9%
 Median Home Value ($),"$228,092"
 Vacancy Rate (%),22.9%
+% Vacant — For Rent,5.6%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,17.3%
 % Owner-Occupied,54.5%
 % Units Built Pre-1950,33.3%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,944
 Population Change (abs),651
+Pop Change vs City Avg (pp),-684.0%
 Prior Income (CPI-adj $),"$53,470"
 "Income Change (%, inflation-adj)",23.9%
+Income Change vs City Avg (pp),13.6%
 Prior Median Rent ($/mo),$947
 Rent Change (%),23.6%
+Rent Change vs City Avg (pp),-2.3%
+Prior Median Home Value ($),158662.92357160582
+Home Value Change (%),43.8%
+Home Value Change vs City Avg (pp),5.7%
+Prior Vacancy Rate (%),19.8%
+Vacancy Rate Change (pp),3.1%
+Vacancy Change vs City Avg (pp),7.3%
+Prior % Bachelor's+,21.2%
+Education Change (pp),17.2%
+Education Change vs City Avg (pp),14.3%
+Market Signals,Household incomes rising faster than city; Vacancy distress — disinvestment risk

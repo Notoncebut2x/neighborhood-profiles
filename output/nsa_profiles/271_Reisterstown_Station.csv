@@ -3,6 +3,9 @@ NSA ID,271
 NSA Name,Reisterstown Station
 Total Population,"1,198"
 Median HH Income ($),"$49,242"
+% HH Income Below $50k,51.9%
+% HH Income $50k–$100k,16.4%
+% HH Income $100k+,31.7%
 Median Gross Rent ($/mo),"$1,453"
 % Renter-Occupied,59.0%
 Population Change (%),-19.2%
@@ -18,13 +21,29 @@ Avg Household Size,2.4
 % Work from Home,10.0%
 Median Home Value ($),"$173,836"
 Vacancy Rate (%),18.6%
+% Vacant — For Rent,4.0%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,14.6%
 % Owner-Occupied,41.0%
 % Units Built Pre-1950,48.5%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"1,483"
 Population Change (abs),-285
+Pop Change vs City Avg (pp),-772.2%
 Prior Income (CPI-adj $),"$53,518"
 "Income Change (%, inflation-adj)",-8.0%
+Income Change vs City Avg (pp),-18.3%
 Prior Median Rent ($/mo),"$1,116"
 Rent Change (%),30.1%
+Rent Change vs City Avg (pp),4.2%
+Prior Median Home Value ($),145346.7063109022
+Home Value Change (%),19.6%
+Home Value Change vs City Avg (pp),-18.5%
+Prior Vacancy Rate (%),13.3%
+Vacancy Rate Change (pp),5.3%
+Vacancy Change vs City Avg (pp),9.5%
+Prior % Bachelor's+,24.0%
+Education Change (pp),11.4%
+Education Change vs City Avg (pp),8.5%
+Market Signals,Affordability stress — rents outpacing incomes; Significant population loss

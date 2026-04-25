@@ -3,6 +3,9 @@ NSA ID,168
 NSA Name,Levindale
 Total Population,"1,086"
 Median HH Income ($),"$29,326"
+% HH Income Below $50k,60.6%
+% HH Income $50k–$100k,17.6%
+% HH Income $100k+,21.8%
 Median Gross Rent ($/mo),$558
 % Renter-Occupied,49.3%
 Population Change (%),-13.4%
@@ -18,13 +21,29 @@ Avg Household Size,2.0
 % Work from Home,0.0%
 Median Home Value ($),"$128,596"
 Vacancy Rate (%),22.0%
+% Vacant — For Rent,3.1%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,18.9%
 % Owner-Occupied,50.7%
 % Units Built Pre-1950,61.2%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"1,253"
 Population Change (abs),-167
+Pop Change vs City Avg (pp),-766.4%
 Prior Income (CPI-adj $),"$21,295"
 "Income Change (%, inflation-adj)",37.7%
+Income Change vs City Avg (pp),27.4%
 Prior Median Rent ($/mo),$373
 Rent Change (%),49.5%
+Rent Change vs City Avg (pp),23.6%
+Prior Median Home Value ($),97402.57934376823
+Home Value Change (%),32.0%
+Home Value Change vs City Avg (pp),-6.1%
+Prior Vacancy Rate (%),16.4%
+Vacancy Rate Change (pp),5.6%
+Vacancy Change vs City Avg (pp),9.8%
+Prior % Bachelor's+,6.9%
+Education Change (pp),6.8%
+Education Change vs City Avg (pp),3.9%
+Market Signals,Household incomes rising faster than city; Gentrification indicators present; Vacancy distress — disinvestment risk

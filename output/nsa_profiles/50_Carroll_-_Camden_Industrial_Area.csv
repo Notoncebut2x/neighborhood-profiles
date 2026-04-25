@@ -3,6 +3,9 @@ NSA ID,50
 NSA Name,Carroll - Camden Industrial Area
 Total Population,28
 Median HH Income ($),"$49,524"
+% HH Income Below $50k,50.8%
+% HH Income $50k–$100k,24.9%
+% HH Income $100k+,24.3%
 Median Gross Rent ($/mo),"$1,651"
 % Renter-Occupied,57.4%
 Population Change (%),-17.3%
@@ -18,13 +21,29 @@ Avg Household Size,2.4
 % Work from Home,4.1%
 Median Home Value ($),"$110,077"
 Vacancy Rate (%),10.0%
+% Vacant — For Rent,5.6%
+% Vacant — For Sale,0.1%
+% Vacant — Other/Distressed,4.3%
 % Owner-Occupied,42.6%
 % Units Built Pre-1950,29.7%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,33
 Population Change (abs),-5
+Pop Change vs City Avg (pp),-770.3%
 Prior Income (CPI-adj $),"$57,060"
 "Income Change (%, inflation-adj)",-13.2%
+Income Change vs City Avg (pp),-23.5%
 Prior Median Rent ($/mo),"$1,105"
 Rent Change (%),49.4%
+Rent Change vs City Avg (pp),23.5%
+Prior Median Home Value ($),123844.79544845449
+Home Value Change (%),-11.1%
+Home Value Change vs City Avg (pp),-49.2%
+Prior Vacancy Rate (%),15.8%
+Vacancy Rate Change (pp),-5.8%
+Vacancy Change vs City Avg (pp),-1.6%
+Prior % Bachelor's+,16.9%
+Education Change (pp),21.4%
+Education Change vs City Avg (pp),18.5%
+Market Signals,Renter demand rising; Affordability stress — rents outpacing incomes; Significant population loss

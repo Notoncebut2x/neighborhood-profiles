@@ -3,6 +3,9 @@ NSA ID,204
 NSA Name,Panway/Braddish Avenue
 Total Population,"1,357"
 Median HH Income ($),"$46,002"
+% HH Income Below $50k,56.9%
+% HH Income $50k–$100k,31.5%
+% HH Income $100k+,11.6%
 Median Gross Rent ($/mo),"$1,152"
 % Renter-Occupied,32.6%
 Population Change (%),14.8%
@@ -18,13 +21,29 @@ Avg Household Size,2.4
 % Work from Home,12.0%
 Median Home Value ($),"$158,112"
 Vacancy Rate (%),8.9%
+% Vacant — For Rent,0.0%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,8.9%
 % Owner-Occupied,67.4%
 % Units Built Pre-1950,35.6%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"1,182"
 Population Change (abs),174
+Pop Change vs City Avg (pp),-738.2%
 Prior Income (CPI-adj $),"$57,013"
 "Income Change (%, inflation-adj)",-19.3%
+Income Change vs City Avg (pp),-29.6%
 Prior Median Rent ($/mo),"$1,235"
 Rent Change (%),-6.7%
+Rent Change vs City Avg (pp),-32.6%
+Prior Median Home Value ($),84043.82575864397
+Home Value Change (%),88.1%
+Home Value Change vs City Avg (pp),50.0%
+Prior Vacancy Rate (%),16.4%
+Vacancy Rate Change (pp),-7.5%
+Vacancy Change vs City Avg (pp),-3.3%
+Prior % Bachelor's+,21.1%
+Education Change (pp),-3.9%
+Education Change vs City Avg (pp),-6.8%
+Market Signals,Home value appreciation outpacing city

@@ -3,6 +3,9 @@ NSA ID,190
 NSA Name,Mount Clare
 Total Population,"1,572"
 Median HH Income ($),"$52,164"
+% HH Income Below $50k,46.5%
+% HH Income $50k–$100k,34.3%
+% HH Income $100k+,19.2%
 Median Gross Rent ($/mo),"$1,152"
 % Renter-Occupied,70.9%
 Population Change (%),3.8%
@@ -18,13 +21,29 @@ Avg Household Size,2.6
 % Work from Home,9.7%
 Median Home Value ($),"$119,113"
 Vacancy Rate (%),39.0%
+% Vacant — For Rent,4.3%
+% Vacant — For Sale,2.8%
+% Vacant — Other/Distressed,31.8%
 % Owner-Occupied,29.1%
 % Units Built Pre-1950,18.0%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"1,515"
 Population Change (abs),56
+Pop Change vs City Avg (pp),-749.2%
 Prior Income (CPI-adj $),"$34,571"
 "Income Change (%, inflation-adj)",50.9%
+Income Change vs City Avg (pp),40.6%
 Prior Median Rent ($/mo),$917
 Rent Change (%),25.6%
+Rent Change vs City Avg (pp),-0.3%
+Prior Median Home Value ($),86529.60424715879
+Home Value Change (%),37.7%
+Home Value Change vs City Avg (pp),-0.4%
+Prior Vacancy Rate (%),47.1%
+Vacancy Rate Change (pp),-8.1%
+Vacancy Change vs City Avg (pp),-3.9%
+Prior % Bachelor's+,12.5%
+Education Change (pp),7.5%
+Education Change vs City Avg (pp),4.6%
+Market Signals,Household incomes rising faster than city

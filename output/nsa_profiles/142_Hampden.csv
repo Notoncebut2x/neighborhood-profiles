@@ -3,6 +3,9 @@ NSA ID,142
 NSA Name,Hampden
 Total Population,"6,306"
 Median HH Income ($),"$86,847"
+% HH Income Below $50k,30.6%
+% HH Income $50k–$100k,24.9%
+% HH Income $100k+,44.5%
 Median Gross Rent ($/mo),"$1,908"
 % Renter-Occupied,42.8%
 Population Change (%),-8.3%
@@ -18,13 +21,29 @@ Avg Household Size,1.8
 % Work from Home,21.0%
 Median Home Value ($),"$292,359"
 Vacancy Rate (%),8.3%
+% Vacant — For Rent,1.7%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,6.6%
 % Owner-Occupied,57.2%
 % Units Built Pre-1950,14.5%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"6,874"
 Population Change (abs),-568
+Pop Change vs City Avg (pp),-761.3%
 Prior Income (CPI-adj $),"$84,099"
 "Income Change (%, inflation-adj)",3.3%
+Income Change vs City Avg (pp),-7.0%
 Prior Median Rent ($/mo),"$1,248"
 Rent Change (%),52.9%
+Rent Change vs City Avg (pp),27.0%
+Prior Median Home Value ($),226220.65358339238
+Home Value Change (%),29.2%
+Home Value Change vs City Avg (pp),-8.9%
+Prior Vacancy Rate (%),11.4%
+Vacancy Rate Change (pp),-3.1%
+Vacancy Change vs City Avg (pp),1.1%
+Prior % Bachelor's+,60.5%
+Education Change (pp),2.0%
+Education Change vs City Avg (pp),-0.9%
+Market Signals,Renter demand rising; Affordability stress — rents outpacing incomes

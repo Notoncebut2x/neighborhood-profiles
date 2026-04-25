@@ -3,6 +3,9 @@ NSA ID,248
 NSA Name,West Forest Park
 Total Population,"2,811"
 Median HH Income ($),"$71,982"
+% HH Income Below $50k,34.9%
+% HH Income $50k–$100k,24.2%
+% HH Income $100k+,41.0%
 Median Gross Rent ($/mo),"$1,055"
 % Renter-Occupied,64.6%
 Population Change (%),8.2%
@@ -18,13 +21,29 @@ Avg Household Size,2.6
 % Work from Home,18.8%
 Median Home Value ($),"$304,489"
 Vacancy Rate (%),16.2%
+% Vacant — For Rent,3.7%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,12.5%
 % Owner-Occupied,35.4%
 % Units Built Pre-1950,30.8%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"2,597"
 Population Change (abs),213
+Pop Change vs City Avg (pp),-744.8%
 Prior Income (CPI-adj $),"$50,450"
 "Income Change (%, inflation-adj)",42.7%
+Income Change vs City Avg (pp),32.4%
 Prior Median Rent ($/mo),"$1,034"
 Rent Change (%),2.1%
+Rent Change vs City Avg (pp),-23.8%
+Prior Median Home Value ($),130940.74124957764
+Home Value Change (%),132.5%
+Home Value Change vs City Avg (pp),94.4%
+Prior Vacancy Rate (%),13.6%
+Vacancy Rate Change (pp),2.6%
+Vacancy Change vs City Avg (pp),6.8%
+Prior % Bachelor's+,16.1%
+Education Change (pp),18.9%
+Education Change vs City Avg (pp),16.0%
+Market Signals,Household incomes rising faster than city; Young adult population growing; Home value appreciation outpacing city

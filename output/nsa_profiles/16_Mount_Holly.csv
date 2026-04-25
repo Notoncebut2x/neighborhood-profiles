@@ -3,6 +3,9 @@ NSA ID,16
 NSA Name,Mount Holly
 Total Population,"1,063"
 Median HH Income ($),"$46,268"
+% HH Income Below $50k,58.8%
+% HH Income $50k–$100k,22.1%
+% HH Income $100k+,19.1%
 Median Gross Rent ($/mo),"$1,280"
 % Renter-Occupied,47.1%
 Population Change (%),12.6%
@@ -18,13 +21,29 @@ Avg Household Size,2.2
 % Work from Home,20.0%
 Median Home Value ($),"$153,395"
 Vacancy Rate (%),31.9%
+% Vacant — For Rent,2.8%
+% Vacant — For Sale,4.4%
+% Vacant — Other/Distressed,24.6%
 % Owner-Occupied,52.9%
 % Units Built Pre-1950,34.5%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,943
 Population Change (abs),119
+Pop Change vs City Avg (pp),-740.4%
 Prior Income (CPI-adj $),"$40,047"
 "Income Change (%, inflation-adj)",15.5%
+Income Change vs City Avg (pp),5.2%
 Prior Median Rent ($/mo),$895
 Rent Change (%),43.0%
+Rent Change vs City Avg (pp),17.1%
+Prior Median Home Value ($),103021.0526295835
+Home Value Change (%),48.9%
+Home Value Change vs City Avg (pp),10.8%
+Prior Vacancy Rate (%),19.0%
+Vacancy Rate Change (pp),12.9%
+Vacancy Change vs City Avg (pp),17.1%
+Prior % Bachelor's+,24.6%
+Education Change (pp),-1.6%
+Education Change vs City Avg (pp),-4.5%
+Market Signals,Young adult population growing; Affordability stress — rents outpacing incomes; Vacancy distress — disinvestment risk

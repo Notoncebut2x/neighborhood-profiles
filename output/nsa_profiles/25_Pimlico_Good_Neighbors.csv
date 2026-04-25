@@ -3,6 +3,9 @@ NSA ID,25
 NSA Name,Pimlico Good Neighbors
 Total Population,691
 Median HH Income ($),"$11,952"
+% HH Income Below $50k,75.6%
+% HH Income $50k–$100k,9.0%
+% HH Income $100k+,15.3%
 Median Gross Rent ($/mo),$771
 % Renter-Occupied,58.9%
 Population Change (%),-10.4%
@@ -18,13 +21,29 @@ Avg Household Size,2.0
 % Work from Home,5.3%
 Median Home Value ($),"$216,435"
 Vacancy Rate (%),9.8%
+% Vacant — For Rent,0.1%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,9.6%
 % Owner-Occupied,41.1%
 % Units Built Pre-1950,37.0%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,771
 Population Change (abs),-80
+Pop Change vs City Avg (pp),-763.4%
 Prior Income (CPI-adj $),"$33,351"
 "Income Change (%, inflation-adj)",-64.2%
+Income Change vs City Avg (pp),-74.5%
 Prior Median Rent ($/mo),"$1,173"
 Rent Change (%),-34.3%
+Rent Change vs City Avg (pp),-60.2%
+Prior Median Home Value ($),119682.20553068095
+Home Value Change (%),80.8%
+Home Value Change vs City Avg (pp),42.7%
+Prior Vacancy Rate (%),21.7%
+Vacancy Rate Change (pp),-11.9%
+Vacancy Change vs City Avg (pp),-7.7%
+Prior % Bachelor's+,18.3%
+Education Change (pp),0.4%
+Education Change vs City Avg (pp),-2.5%
+Market Signals,Affordability stress — rents outpacing incomes; Home value appreciation outpacing city

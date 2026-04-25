@@ -3,6 +3,9 @@ NSA ID,128
 NSA Name,Franklintown Road
 Total Population,"1,154"
 Median HH Income ($),"$24,911"
+% HH Income Below $50k,71.5%
+% HH Income $50k–$100k,24.0%
+% HH Income $100k+,4.5%
 Median Gross Rent ($/mo),$976
 % Renter-Occupied,53.8%
 Population Change (%),-47.3%
@@ -18,13 +21,29 @@ Avg Household Size,1.9
 % Work from Home,8.2%
 Median Home Value ($),"$93,620"
 Vacancy Rate (%),36.2%
+% Vacant — For Rent,1.3%
+% Vacant — For Sale,1.2%
+% Vacant — Other/Distressed,33.6%
 % Owner-Occupied,46.2%
 % Units Built Pre-1950,15.6%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"2,188"
 Population Change (abs),"-1,034"
+Pop Change vs City Avg (pp),-800.3%
 Prior Income (CPI-adj $),"$47,182"
 "Income Change (%, inflation-adj)",-47.2%
+Income Change vs City Avg (pp),-57.5%
 Prior Median Rent ($/mo),$763
 Rent Change (%),27.9%
+Rent Change vs City Avg (pp),2.0%
+Prior Median Home Value ($),68151.16964612805
+Home Value Change (%),37.4%
+Home Value Change vs City Avg (pp),-0.7%
+Prior Vacancy Rate (%),29.7%
+Vacancy Rate Change (pp),6.5%
+Vacancy Change vs City Avg (pp),10.7%
+Prior % Bachelor's+,3.1%
+Education Change (pp),5.3%
+Education Change vs City Avg (pp),2.4%
+Market Signals,Affordability stress — rents outpacing incomes; Vacancy distress — disinvestment risk; Significant population loss

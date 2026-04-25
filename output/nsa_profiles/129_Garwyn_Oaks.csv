@@ -3,6 +3,9 @@ NSA ID,129
 NSA Name,Garwyn Oaks
 Total Population,"1,643"
 Median HH Income ($),"$59,448"
+% HH Income Below $50k,41.0%
+% HH Income $50k–$100k,46.8%
+% HH Income $100k+,12.2%
 Median Gross Rent ($/mo),"$1,048"
 % Renter-Occupied,52.9%
 Population Change (%),-36.6%
@@ -18,13 +21,29 @@ Avg Household Size,2.4
 % Work from Home,15.3%
 Median Home Value ($),"$229,793"
 Vacancy Rate (%),9.4%
+% Vacant — For Rent,0.1%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,9.3%
 % Owner-Occupied,47.1%
 % Units Built Pre-1950,17.0%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"2,590"
 Population Change (abs),-947
+Pop Change vs City Avg (pp),-789.6%
 Prior Income (CPI-adj $),"$54,614"
 "Income Change (%, inflation-adj)",8.9%
+Income Change vs City Avg (pp),-1.4%
 Prior Median Rent ($/mo),"$1,007"
 Rent Change (%),4.1%
+Rent Change vs City Avg (pp),-21.8%
+Prior Median Home Value ($),200677.48701853695
+Home Value Change (%),14.5%
+Home Value Change vs City Avg (pp),-23.6%
+Prior Vacancy Rate (%),22.5%
+Vacancy Rate Change (pp),-13.1%
+Vacancy Change vs City Avg (pp),-8.9%
+Prior % Bachelor's+,15.7%
+Education Change (pp),-5.5%
+Education Change vs City Avg (pp),-8.4%
+Market Signals,Significant population loss

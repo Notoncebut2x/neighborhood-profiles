@@ -3,6 +3,9 @@ NSA ID,188
 NSA Name,Morrell Park
 Total Population,"3,567"
 Median HH Income ($),"$49,716"
+% HH Income Below $50k,50.3%
+% HH Income $50k–$100k,27.8%
+% HH Income $100k+,22.0%
 Median Gross Rent ($/mo),"$1,322"
 % Renter-Occupied,41.2%
 Population Change (%),-9.8%
@@ -18,13 +21,29 @@ Avg Household Size,2.6
 % Work from Home,4.8%
 Median Home Value ($),"$119,164"
 Vacancy Rate (%),18.2%
+% Vacant — For Rent,5.7%
+% Vacant — For Sale,0.8%
+% Vacant — Other/Distressed,11.7%
 % Owner-Occupied,58.8%
 % Units Built Pre-1950,41.3%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"3,955"
 Population Change (abs),-388
+Pop Change vs City Avg (pp),-762.8%
 Prior Income (CPI-adj $),"$54,850"
 "Income Change (%, inflation-adj)",-9.4%
+Income Change vs City Avg (pp),-19.7%
 Prior Median Rent ($/mo),"$1,025"
 Rent Change (%),29.0%
+Rent Change vs City Avg (pp),3.1%
+Prior Median Home Value ($),107778.74288517582
+Home Value Change (%),10.6%
+Home Value Change vs City Avg (pp),-27.5%
+Prior Vacancy Rate (%),13.6%
+Vacancy Rate Change (pp),4.6%
+Vacancy Change vs City Avg (pp),8.8%
+Prior % Bachelor's+,11.6%
+Education Change (pp),7.0%
+Education Change vs City Avg (pp),4.1%
+Market Signals,Affordability stress — rents outpacing incomes

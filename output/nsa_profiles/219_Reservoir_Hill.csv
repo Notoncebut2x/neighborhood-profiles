@@ -3,6 +3,9 @@ NSA ID,219
 NSA Name,Reservoir Hill
 Total Population,"5,933"
 Median HH Income ($),"$35,662"
+% HH Income Below $50k,57.1%
+% HH Income $50k–$100k,22.0%
+% HH Income $100k+,20.9%
 Median Gross Rent ($/mo),"$1,129"
 % Renter-Occupied,68.9%
 Population Change (%),23.9%
@@ -18,13 +21,29 @@ Avg Household Size,1.9
 % Work from Home,13.7%
 Median Home Value ($),"$327,534"
 Vacancy Rate (%),13.9%
+% Vacant — For Rent,5.0%
+% Vacant — For Sale,0.6%
+% Vacant — Other/Distressed,8.2%
 % Owner-Occupied,31.1%
 % Units Built Pre-1950,14.5%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"4,787"
 Population Change (abs),"1,145"
+Pop Change vs City Avg (pp),-729.1%
 Prior Income (CPI-adj $),"$43,012"
 "Income Change (%, inflation-adj)",-17.1%
+Income Change vs City Avg (pp),-27.4%
 Prior Median Rent ($/mo),$843
 Rent Change (%),33.9%
+Rent Change vs City Avg (pp),8.0%
+Prior Median Home Value ($),241635.12239926215
+Home Value Change (%),35.5%
+Home Value Change vs City Avg (pp),-2.6%
+Prior Vacancy Rate (%),29.3%
+Vacancy Rate Change (pp),-15.4%
+Vacancy Change vs City Avg (pp),-11.2%
+Prior % Bachelor's+,29.8%
+Education Change (pp),0.3%
+Education Change vs City Avg (pp),-2.6%
+Market Signals,Affordability stress — rents outpacing incomes

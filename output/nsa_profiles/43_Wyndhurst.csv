@@ -3,6 +3,9 @@ NSA ID,43
 NSA Name,Wyndhurst
 Total Population,"1,098"
 Median HH Income ($),"$137,918"
+% HH Income Below $50k,14.3%
+% HH Income $50k–$100k,20.8%
+% HH Income $100k+,64.9%
 Median Gross Rent ($/mo),"$1,700"
 % Renter-Occupied,46.6%
 Population Change (%),44.0%
@@ -18,13 +21,29 @@ Avg Household Size,4.0
 % Work from Home,32.5%
 Median Home Value ($),"$684,230"
 Vacancy Rate (%),13.3%
+% Vacant — For Rent,0.0%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,13.3%
 % Owner-Occupied,53.4%
 % Units Built Pre-1950,21.1%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,762
 Population Change (abs),335
+Pop Change vs City Avg (pp),-709.0%
 Prior Income (CPI-adj $),"$134,333"
 "Income Change (%, inflation-adj)",2.7%
+Income Change vs City Avg (pp),-7.6%
 Prior Median Rent ($/mo),$899
 Rent Change (%),89.2%
+Rent Change vs City Avg (pp),63.3%
+Prior Median Home Value ($),494384.8328482887
+Home Value Change (%),38.4%
+Home Value Change vs City Avg (pp),0.3%
+Prior Vacancy Rate (%),11.4%
+Vacancy Rate Change (pp),1.9%
+Vacancy Change vs City Avg (pp),6.1%
+Prior % Bachelor's+,78.5%
+Education Change (pp),9.4%
+Education Change vs City Avg (pp),6.5%
+Market Signals,Renter demand rising; Affordability stress — rents outpacing incomes

@@ -3,6 +3,9 @@ NSA ID,252
 NSA Name,Winchester
 Total Population,"1,205"
 Median HH Income ($),"$37,170"
+% HH Income Below $50k,55.3%
+% HH Income $50k–$100k,40.0%
+% HH Income $100k+,4.7%
 Median Gross Rent ($/mo),"$1,323"
 % Renter-Occupied,72.6%
 Population Change (%),42.5%
@@ -18,13 +21,29 @@ Avg Household Size,2.9
 % Work from Home,9.3%
 Median Home Value ($),"$71,638"
 Vacancy Rate (%),32.0%
+% Vacant — For Rent,1.4%
+% Vacant — For Sale,1.6%
+% Vacant — Other/Distressed,29.1%
 % Owner-Occupied,27.4%
 % Units Built Pre-1950,29.3%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,845
 Population Change (abs),359
+Pop Change vs City Avg (pp),-710.5%
 Prior Income (CPI-adj $),"$41,812"
 "Income Change (%, inflation-adj)",-11.1%
+Income Change vs City Avg (pp),-21.4%
 Prior Median Rent ($/mo),"$1,180"
 Rent Change (%),12.1%
+Rent Change vs City Avg (pp),-13.8%
+Prior Median Home Value ($),84637.90265022508
+Home Value Change (%),-15.4%
+Home Value Change vs City Avg (pp),-53.5%
+Prior Vacancy Rate (%),32.6%
+Vacancy Rate Change (pp),-0.6%
+Vacancy Change vs City Avg (pp),3.6%
+Prior % Bachelor's+,6.5%
+Education Change (pp),10.4%
+Education Change vs City Avg (pp),7.5%
+Market Signals,Affordability stress — rents outpacing incomes

@@ -3,6 +3,9 @@ NSA ID,140
 NSA Name,Guilford
 Total Population,"2,146"
 Median HH Income ($),"$200,000"
+% HH Income Below $50k,8.8%
+% HH Income $50k–$100k,14.3%
+% HH Income $100k+,76.8%
 Median Gross Rent ($/mo),"$2,140"
 % Renter-Occupied,9.2%
 Population Change (%),-52.8%
@@ -18,13 +21,29 @@ Avg Household Size,2.4
 % Work from Home,38.8%
 Median Home Value ($),"$709,311"
 Vacancy Rate (%),7.1%
+% Vacant — For Rent,7.0%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,0.1%
 % Owner-Occupied,90.8%
 % Units Built Pre-1950,9.1%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"4,543"
 Population Change (abs),"-2,397"
+Pop Change vs City Avg (pp),-805.8%
 Prior Income (CPI-adj $),"$176,100"
 "Income Change (%, inflation-adj)",13.6%
+Income Change vs City Avg (pp),3.3%
 Prior Median Rent ($/mo),"$1,796"
 Rent Change (%),19.1%
+Rent Change vs City Avg (pp),-6.8%
+Prior Median Home Value ($),557841.6132341926
+Home Value Change (%),27.2%
+Home Value Change vs City Avg (pp),-10.9%
+Prior Vacancy Rate (%),2.2%
+Vacancy Rate Change (pp),4.9%
+Vacancy Change vs City Avg (pp),9.1%
+Prior % Bachelor's+,68.3%
+Education Change (pp),17.3%
+Education Change vs City Avg (pp),14.4%
+Market Signals,Significant population loss

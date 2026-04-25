@@ -3,6 +3,9 @@ NSA ID,257
 NSA Name,Woodmere
 Total Population,"1,572"
 Median HH Income ($),"$56,036"
+% HH Income Below $50k,39.6%
+% HH Income $50k–$100k,42.9%
+% HH Income $100k+,17.4%
 Median Gross Rent ($/mo),"$1,166"
 % Renter-Occupied,35.8%
 Population Change (%),-23.9%
@@ -18,13 +21,29 @@ Avg Household Size,2.1
 % Work from Home,4.0%
 Median Home Value ($),"$126,651"
 Vacancy Rate (%),15.1%
+% Vacant — For Rent,2.7%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,12.4%
 % Owner-Occupied,64.2%
 % Units Built Pre-1950,43.7%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"2,066"
 Population Change (abs),-494
+Pop Change vs City Avg (pp),-776.9%
 Prior Income (CPI-adj $),"$44,893"
 "Income Change (%, inflation-adj)",24.8%
+Income Change vs City Avg (pp),14.5%
 Prior Median Rent ($/mo),$917
 Rent Change (%),27.1%
+Rent Change vs City Avg (pp),1.2%
+Prior Median Home Value ($),94420.25222592453
+Home Value Change (%),34.1%
+Home Value Change vs City Avg (pp),-4.0%
+Prior Vacancy Rate (%),17.9%
+Vacancy Rate Change (pp),-2.8%
+Vacancy Change vs City Avg (pp),1.4%
+Prior % Bachelor's+,10.0%
+Education Change (pp),4.6%
+Education Change vs City Avg (pp),1.7%
+Market Signals,Household incomes rising faster than city; Significant population loss

@@ -3,6 +3,9 @@ NSA ID,63
 NSA Name,Patterson Park Neighborhood
 Total Population,"5,057"
 Median HH Income ($),"$95,712"
+% HH Income Below $50k,25.0%
+% HH Income $50k–$100k,26.1%
+% HH Income $100k+,48.9%
 Median Gross Rent ($/mo),"$1,767"
 % Renter-Occupied,28.6%
 Population Change (%),-1.6%
@@ -18,13 +21,29 @@ Avg Household Size,2.2
 % Work from Home,19.0%
 Median Home Value ($),"$300,956"
 Vacancy Rate (%),13.2%
+% Vacant — For Rent,0.9%
+% Vacant — For Sale,1.5%
+% Vacant — Other/Distressed,10.8%
 % Owner-Occupied,71.4%
 % Units Built Pre-1950,7.9%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"5,139"
 Population Change (abs),-82
+Pop Change vs City Avg (pp),-754.6%
 Prior Income (CPI-adj $),"$70,382"
 "Income Change (%, inflation-adj)",36.0%
+Income Change vs City Avg (pp),25.7%
 Prior Median Rent ($/mo),"$1,483"
 Rent Change (%),19.2%
+Rent Change vs City Avg (pp),-6.7%
+Prior Median Home Value ($),217022.1206467373
+Home Value Change (%),38.7%
+Home Value Change vs City Avg (pp),0.6%
+Prior Vacancy Rate (%),19.4%
+Vacancy Rate Change (pp),-6.2%
+Vacancy Change vs City Avg (pp),-2.0%
+Prior % Bachelor's+,47.1%
+Education Change (pp),13.8%
+Education Change vs City Avg (pp),10.9%
+Market Signals,Household incomes rising faster than city

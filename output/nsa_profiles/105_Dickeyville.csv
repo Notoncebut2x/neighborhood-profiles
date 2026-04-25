@@ -3,6 +3,9 @@ NSA ID,105
 NSA Name,Dickeyville
 Total Population,300
 Median HH Income ($),"$76,705"
+% HH Income Below $50k,32.3%
+% HH Income $50k–$100k,38.4%
+% HH Income $100k+,29.3%
 Median Gross Rent ($/mo),"$1,440"
 % Renter-Occupied,70.1%
 Population Change (%),-4.3%
@@ -18,13 +21,29 @@ Avg Household Size,1.9
 % Work from Home,35.6%
 Median Home Value ($),"$239,174"
 Vacancy Rate (%),3.4%
+% Vacant — For Rent,2.4%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,1.0%
 % Owner-Occupied,29.9%
 % Units Built Pre-1950,35.7%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,313
 Population Change (abs),-13
+Pop Change vs City Avg (pp),-757.3%
 Prior Income (CPI-adj $),"$50,095"
 "Income Change (%, inflation-adj)",53.1%
+Income Change vs City Avg (pp),42.8%
 Prior Median Rent ($/mo),"$1,079"
 Rent Change (%),33.4%
+Rent Change vs City Avg (pp),7.5%
+Prior Median Home Value ($),260641.52710079096
+Home Value Change (%),-8.2%
+Home Value Change vs City Avg (pp),-46.3%
+Prior Vacancy Rate (%),17.0%
+Vacancy Rate Change (pp),-13.6%
+Vacancy Change vs City Avg (pp),-9.4%
+Prior % Bachelor's+,30.5%
+Education Change (pp),5.0%
+Education Change vs City Avg (pp),2.1%
+Market Signals,Renter demand rising; Household incomes rising faster than city; Gentrification indicators present

@@ -3,6 +3,9 @@ NSA ID,126
 NSA Name,Franklin Square
 Total Population,"2,519"
 Median HH Income ($),"$36,749"
+% HH Income Below $50k,56.5%
+% HH Income $50k–$100k,21.0%
+% HH Income $100k+,22.5%
 Median Gross Rent ($/mo),$992
 % Renter-Occupied,72.7%
 Population Change (%),22.5%
@@ -18,13 +21,29 @@ Avg Household Size,2.1
 % Work from Home,19.3%
 Median Home Value ($),"$139,498"
 Vacancy Rate (%),27.4%
+% Vacant — For Rent,5.3%
+% Vacant — For Sale,2.0%
+% Vacant — Other/Distressed,20.1%
 % Owner-Occupied,27.3%
 % Units Built Pre-1950,29.6%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"2,056"
 Population Change (abs),462
+Pop Change vs City Avg (pp),-730.5%
 Prior Income (CPI-adj $),"$31,812"
 "Income Change (%, inflation-adj)",15.5%
+Income Change vs City Avg (pp),5.2%
 Prior Median Rent ($/mo),$843
 Rent Change (%),17.7%
+Rent Change vs City Avg (pp),-8.2%
+Prior Median Home Value ($),72240.88398401767
+Home Value Change (%),93.1%
+Home Value Change vs City Avg (pp),55.0%
+Prior Vacancy Rate (%),35.5%
+Vacancy Rate Change (pp),-8.1%
+Vacancy Change vs City Avg (pp),-3.9%
+Prior % Bachelor's+,11.3%
+Education Change (pp),-0.4%
+Education Change vs City Avg (pp),-3.3%
+Market Signals,Home value appreciation outpacing city

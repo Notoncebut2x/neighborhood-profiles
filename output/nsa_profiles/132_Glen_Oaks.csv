@@ -3,6 +3,9 @@ NSA ID,132
 NSA Name,Glen Oaks
 Total Population,"3,047"
 Median HH Income ($),"$63,346"
+% HH Income Below $50k,43.6%
+% HH Income $50k–$100k,24.6%
+% HH Income $100k+,31.8%
 Median Gross Rent ($/mo),"$1,344"
 % Renter-Occupied,48.0%
 Population Change (%),-5.7%
@@ -18,13 +21,29 @@ Avg Household Size,2.6
 % Work from Home,22.4%
 Median Home Value ($),"$183,739"
 Vacancy Rate (%),9.0%
+% Vacant — For Rent,3.5%
+% Vacant — For Sale,1.6%
+% Vacant — Other/Distressed,3.9%
 % Owner-Occupied,52.0%
 % Units Built Pre-1950,53.8%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"3,229"
 Population Change (abs),-182
+Pop Change vs City Avg (pp),-758.7%
 Prior Income (CPI-adj $),"$60,182"
 "Income Change (%, inflation-adj)",5.3%
+Income Change vs City Avg (pp),-5.0%
 Prior Median Rent ($/mo),$972
 Rent Change (%),38.3%
+Rent Change vs City Avg (pp),12.4%
+Prior Median Home Value ($),152090.87441688092
+Home Value Change (%),20.8%
+Home Value Change vs City Avg (pp),-17.3%
+Prior Vacancy Rate (%),8.9%
+Vacancy Rate Change (pp),0.1%
+Vacancy Change vs City Avg (pp),4.3%
+Prior % Bachelor's+,21.0%
+Education Change (pp),2.9%
+Education Change vs City Avg (pp),0.0%
+Market Signals,Renter demand rising; Affordability stress — rents outpacing incomes

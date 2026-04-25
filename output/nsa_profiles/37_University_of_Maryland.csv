@@ -3,6 +3,9 @@ NSA ID,37
 NSA Name,University of Maryland
 Total Population,769
 Median HH Income ($),"$51,757"
+% HH Income Below $50k,49.3%
+% HH Income $50k–$100k,30.9%
+% HH Income $100k+,19.8%
 Median Gross Rent ($/mo),"$1,479"
 % Renter-Occupied,97.1%
 Population Change (%),40.8%
@@ -18,13 +21,29 @@ Avg Household Size,1.6
 % Work from Home,13.1%
 Median Home Value ($),"$446,362"
 Vacancy Rate (%),9.9%
+% Vacant — For Rent,3.0%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,6.9%
 % Owner-Occupied,2.9%
 % Units Built Pre-1950,16.9%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,546
 Population Change (abs),222
+Pop Change vs City Avg (pp),-712.2%
 Prior Income (CPI-adj $),"$42,575"
 "Income Change (%, inflation-adj)",21.6%
+Income Change vs City Avg (pp),11.3%
 Prior Median Rent ($/mo),"$1,183"
 Rent Change (%),25.1%
+Rent Change vs City Avg (pp),-0.8%
+Prior Median Home Value ($),79370.84172315171
+Home Value Change (%),462.4%
+Home Value Change vs City Avg (pp),424.3%
+Prior Vacancy Rate (%),33.9%
+Vacancy Rate Change (pp),-24.0%
+Vacancy Change vs City Avg (pp),-19.8%
+Prior % Bachelor's+,70.6%
+Education Change (pp),-12.4%
+Education Change vs City Avg (pp),-15.3%
+Market Signals,Household incomes rising faster than city; Young adult population growing; Home value appreciation outpacing city

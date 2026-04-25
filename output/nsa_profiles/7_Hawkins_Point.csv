@@ -3,6 +3,9 @@ NSA ID,7
 NSA Name,Hawkins Point
 Total Population,189
 Median HH Income ($),"$17,500"
+% HH Income Below $50k,100.0%
+% HH Income $50k–$100k,0.0%
+% HH Income $100k+,0.0%
 Median Gross Rent ($/mo),"$1,125"
 % Renter-Occupied,100.0%
 Population Change (%),N/A
@@ -18,13 +21,29 @@ Avg Household Size,2.8
 % Work from Home,0.0%
 Median Home Value ($),N/A
 Vacancy Rate (%),0.0%
+% Vacant — For Rent,0.0%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,0.0%
 % Owner-Occupied,0.0%
 % Units Built Pre-1950,0.0%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,0
 Population Change (abs),189
+Pop Change vs City Avg (pp),N/A
 Prior Income (CPI-adj $),N/A
 "Income Change (%, inflation-adj)",N/A
+Income Change vs City Avg (pp),N/A
 Prior Median Rent ($/mo),N/A
 Rent Change (%),N/A
+Rent Change vs City Avg (pp),N/A
+Prior Median Home Value ($),N/A
+Home Value Change (%),N/A
+Home Value Change vs City Avg (pp),N/A
+Prior Vacancy Rate (%),N/A
+Vacancy Rate Change (pp),N/A
+Vacancy Change vs City Avg (pp),N/A
+Prior % Bachelor's+,N/A
+Education Change (pp),N/A
+Education Change vs City Avg (pp),N/A
+Market Signals,No strong signals

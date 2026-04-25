@@ -3,6 +3,9 @@ NSA ID,114
 NSA Name,East Baltimore Midway
 Total Population,"1,766"
 Median HH Income ($),"$27,414"
+% HH Income Below $50k,69.4%
+% HH Income $50k–$100k,16.2%
+% HH Income $100k+,14.4%
 Median Gross Rent ($/mo),"$1,436"
 % Renter-Occupied,53.6%
 Population Change (%),16.6%
@@ -18,13 +21,29 @@ Avg Household Size,2.1
 % Work from Home,0.0%
 Median Home Value ($),"$89,078"
 Vacancy Rate (%),36.3%
+% Vacant — For Rent,1.9%
+% Vacant — For Sale,3.1%
+% Vacant — Other/Distressed,31.2%
 % Owner-Occupied,46.4%
 % Units Built Pre-1950,9.1%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"1,514"
 Population Change (abs),251
+Pop Change vs City Avg (pp),-736.4%
 Prior Income (CPI-adj $),"$39,809"
 "Income Change (%, inflation-adj)",-31.1%
+Income Change vs City Avg (pp),-41.4%
 Prior Median Rent ($/mo),"$1,164"
 Rent Change (%),23.3%
+Rent Change vs City Avg (pp),-2.6%
+Prior Median Home Value ($),58347.126390684236
+Home Value Change (%),52.7%
+Home Value Change vs City Avg (pp),14.6%
+Prior Vacancy Rate (%),25.2%
+Vacancy Rate Change (pp),11.1%
+Vacancy Change vs City Avg (pp),15.3%
+Prior % Bachelor's+,12.7%
+Education Change (pp),-2.0%
+Education Change vs City Avg (pp),-4.9%
+Market Signals,Affordability stress — rents outpacing incomes; Vacancy distress — disinvestment risk

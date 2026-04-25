@@ -3,6 +3,9 @@ NSA ID,52
 NSA Name,Key Highway
 Total Population,894
 Median HH Income ($),"$162,995"
+% HH Income Below $50k,13.7%
+% HH Income $50k–$100k,16.2%
+% HH Income $100k+,70.1%
 Median Gross Rent ($/mo),"$2,124"
 % Renter-Occupied,37.1%
 Population Change (%),1.0%
@@ -18,13 +21,29 @@ Avg Household Size,1.7
 % Work from Home,33.0%
 Median Home Value ($),"$533,665"
 Vacancy Rate (%),14.2%
+% Vacant — For Rent,0.9%
+% Vacant — For Sale,0.9%
+% Vacant — Other/Distressed,12.4%
 % Owner-Occupied,62.9%
 % Units Built Pre-1950,1.9%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,885
 Population Change (abs),8
+Pop Change vs City Avg (pp),-752.0%
 Prior Income (CPI-adj $),"$168,716"
 "Income Change (%, inflation-adj)",-3.4%
+Income Change vs City Avg (pp),-13.7%
 Prior Median Rent ($/mo),"$2,102"
 Rent Change (%),1.0%
+Rent Change vs City Avg (pp),-24.9%
+Prior Median Home Value ($),591174.588765132
+Home Value Change (%),-9.7%
+Home Value Change vs City Avg (pp),-47.8%
+Prior Vacancy Rate (%),15.4%
+Vacancy Rate Change (pp),-1.2%
+Vacancy Change vs City Avg (pp),3.0%
+Prior % Bachelor's+,82.8%
+Education Change (pp),-2.8%
+Education Change vs City Avg (pp),-5.7%
+Market Signals,No strong signals

@@ -3,6 +3,9 @@ NSA ID,5
 NSA Name,Forest Park Golf Course
 Total Population,413
 Median HH Income ($),"$83,870"
+% HH Income Below $50k,33.3%
+% HH Income $50k–$100k,33.8%
+% HH Income $100k+,32.9%
 Median Gross Rent ($/mo),"$1,374"
 % Renter-Occupied,11.5%
 Population Change (%),-22.6%
@@ -18,13 +21,29 @@ Avg Household Size,2.7
 % Work from Home,24.5%
 Median Home Value ($),"$240,128"
 Vacancy Rate (%),14.1%
+% Vacant — For Rent,8.9%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,5.2%
 % Owner-Occupied,88.5%
 % Units Built Pre-1950,29.3%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,533
 Population Change (abs),-120
+Pop Change vs City Avg (pp),-775.6%
 Prior Income (CPI-adj $),"$57,445"
 "Income Change (%, inflation-adj)",46.0%
+Income Change vs City Avg (pp),35.7%
 Prior Median Rent ($/mo),"$1,176"
 Rent Change (%),16.8%
+Rent Change vs City Avg (pp),-9.1%
+Prior Median Home Value ($),168192.78311619483
+Home Value Change (%),42.8%
+Home Value Change vs City Avg (pp),4.7%
+Prior Vacancy Rate (%),14.4%
+Vacancy Rate Change (pp),-0.3%
+Vacancy Change vs City Avg (pp),3.9%
+Prior % Bachelor's+,27.7%
+Education Change (pp),12.4%
+Education Change vs City Avg (pp),9.5%
+Market Signals,Household incomes rising faster than city; Significant population loss

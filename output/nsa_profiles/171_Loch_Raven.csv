@@ -3,6 +3,9 @@ NSA ID,171
 NSA Name,Loch Raven
 Total Population,"6,078"
 Median HH Income ($),"$58,359"
+% HH Income Below $50k,40.6%
+% HH Income $50k–$100k,43.7%
+% HH Income $100k+,15.6%
 Median Gross Rent ($/mo),"$1,211"
 % Renter-Occupied,54.6%
 Population Change (%),-8.6%
@@ -18,13 +21,29 @@ Avg Household Size,2.2
 % Work from Home,19.3%
 Median Home Value ($),"$189,125"
 Vacancy Rate (%),5.4%
+% Vacant — For Rent,1.6%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,3.8%
 % Owner-Occupied,45.4%
 % Units Built Pre-1950,53.6%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"6,651"
 Population Change (abs),-573
+Pop Change vs City Avg (pp),-761.6%
 Prior Income (CPI-adj $),"$59,162"
 "Income Change (%, inflation-adj)",-1.4%
+Income Change vs City Avg (pp),-11.7%
 Prior Median Rent ($/mo),"$1,145"
 Rent Change (%),5.8%
+Rent Change vs City Avg (pp),-20.1%
+Prior Median Home Value ($),139002.36495413625
+Home Value Change (%),36.1%
+Home Value Change vs City Avg (pp),-2.0%
+Prior Vacancy Rate (%),7.0%
+Vacancy Rate Change (pp),-1.6%
+Vacancy Change vs City Avg (pp),2.6%
+Prior % Bachelor's+,25.8%
+Education Change (pp),-2.1%
+Education Change vs City Avg (pp),-5.0%
+Market Signals,No strong signals

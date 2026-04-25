@@ -3,6 +3,9 @@ NSA ID,256
 NSA Name,Woodbourne-McCabe
 Total Population,790
 Median HH Income ($),"$56,495"
+% HH Income Below $50k,44.9%
+% HH Income $50k–$100k,37.8%
+% HH Income $100k+,17.2%
 Median Gross Rent ($/mo),$650
 % Renter-Occupied,26.0%
 Population Change (%),113.0%
@@ -18,13 +21,29 @@ Avg Household Size,2.6
 % Work from Home,5.0%
 Median Home Value ($),"$145,452"
 Vacancy Rate (%),32.6%
+% Vacant — For Rent,3.9%
+% Vacant — For Sale,4.4%
+% Vacant — Other/Distressed,24.3%
 % Owner-Occupied,74.0%
 % Units Built Pre-1950,55.2%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,370
 Population Change (abs),419
+Pop Change vs City Avg (pp),-640.0%
 Prior Income (CPI-adj $),"$42,519"
 "Income Change (%, inflation-adj)",32.9%
+Income Change vs City Avg (pp),22.6%
 Prior Median Rent ($/mo),$51
 Rent Change (%),1186.7%
+Rent Change vs City Avg (pp),1160.8%
+Prior Median Home Value ($),104744.28747620273
+Home Value Change (%),38.9%
+Home Value Change vs City Avg (pp),0.8%
+Prior Vacancy Rate (%),31.1%
+Vacancy Rate Change (pp),1.5%
+Vacancy Change vs City Avg (pp),5.7%
+Prior % Bachelor's+,12.6%
+Education Change (pp),1.8%
+Education Change vs City Avg (pp),-1.1%
+Market Signals,Household incomes rising faster than city; Affordability stress — rents outpacing incomes

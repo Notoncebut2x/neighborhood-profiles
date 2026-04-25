@@ -3,6 +3,9 @@ NSA ID,74
 NSA Name,Bridgeview/Greenlawn
 Total Population,"1,404"
 Median HH Income ($),"$39,198"
+% HH Income Below $50k,74.9%
+% HH Income $50k–$100k,15.2%
+% HH Income $100k+,10.0%
 Median Gross Rent ($/mo),"$1,034"
 % Renter-Occupied,53.1%
 Population Change (%),-31.3%
@@ -18,13 +21,29 @@ Avg Household Size,1.7
 % Work from Home,0.5%
 Median Home Value ($),"$84,094"
 Vacancy Rate (%),24.1%
+% Vacant — For Rent,2.1%
+% Vacant — For Sale,0.1%
+% Vacant — Other/Distressed,22.0%
 % Owner-Occupied,46.9%
 % Units Built Pre-1950,20.0%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"2,043"
 Population Change (abs),-639
+Pop Change vs City Avg (pp),-784.3%
 Prior Income (CPI-adj $),"$46,936"
 "Income Change (%, inflation-adj)",-16.5%
+Income Change vs City Avg (pp),-26.8%
 Prior Median Rent ($/mo),$969
 Rent Change (%),6.7%
+Rent Change vs City Avg (pp),-19.2%
+Prior Median Home Value ($),72925.43741484171
+Home Value Change (%),15.3%
+Home Value Change vs City Avg (pp),-22.8%
+Prior Vacancy Rate (%),25.9%
+Vacancy Rate Change (pp),-1.8%
+Vacancy Change vs City Avg (pp),2.4%
+Prior % Bachelor's+,9.8%
+Education Change (pp),-6.8%
+Education Change vs City Avg (pp),-9.7%
+Market Signals,Affordability stress — rents outpacing incomes; Significant population loss

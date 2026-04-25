@@ -3,6 +3,9 @@ NSA ID,198
 NSA Name,Oakenshawe
 Total Population,853
 Median HH Income ($),"$120,123"
+% HH Income Below $50k,19.8%
+% HH Income $50k–$100k,23.1%
+% HH Income $100k+,57.1%
 Median Gross Rent ($/mo),"$1,216"
 % Renter-Occupied,38.6%
 Population Change (%),-35.3%
@@ -18,13 +21,29 @@ Avg Household Size,2.0
 % Work from Home,27.5%
 Median Home Value ($),"$388,690"
 Vacancy Rate (%),8.3%
+% Vacant — For Rent,4.6%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,3.7%
 % Owner-Occupied,61.4%
 % Units Built Pre-1950,24.4%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"1,317"
 Population Change (abs),-464
+Pop Change vs City Avg (pp),-788.3%
 Prior Income (CPI-adj $),"$93,490"
 "Income Change (%, inflation-adj)",28.5%
+Income Change vs City Avg (pp),18.2%
 Prior Median Rent ($/mo),"$1,412"
 Rent Change (%),-13.9%
+Rent Change vs City Avg (pp),-39.8%
+Prior Median Home Value ($),271213.2333825001
+Home Value Change (%),43.3%
+Home Value Change vs City Avg (pp),5.2%
+Prior Vacancy Rate (%),12.8%
+Vacancy Rate Change (pp),-4.5%
+Vacancy Change vs City Avg (pp),-0.3%
+Prior % Bachelor's+,74.1%
+Education Change (pp),15.0%
+Education Change vs City Avg (pp),12.1%
+Market Signals,Household incomes rising faster than city; Significant population loss

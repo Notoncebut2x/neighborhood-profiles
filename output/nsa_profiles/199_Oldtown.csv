@@ -3,6 +3,9 @@ NSA ID,199
 NSA Name,Oldtown
 Total Population,"2,729"
 Median HH Income ($),"$23,967"
+% HH Income Below $50k,71.2%
+% HH Income $50k–$100k,21.2%
+% HH Income $100k+,7.6%
 Median Gross Rent ($/mo),$448
 % Renter-Occupied,91.4%
 Population Change (%),13.9%
@@ -18,13 +21,29 @@ Avg Household Size,2.2
 % Work from Home,1.0%
 Median Home Value ($),"$154,761"
 Vacancy Rate (%),4.7%
+% Vacant — For Rent,2.0%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,2.7%
 % Owner-Occupied,8.6%
 % Units Built Pre-1950,21.9%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"2,395"
 Population Change (abs),333
+Pop Change vs City Avg (pp),-739.1%
 Prior Income (CPI-adj $),"$16,810"
 "Income Change (%, inflation-adj)",42.6%
+Income Change vs City Avg (pp),32.3%
 Prior Median Rent ($/mo),$322
 Rent Change (%),39.0%
+Rent Change vs City Avg (pp),13.1%
+Prior Median Home Value ($),98190.56507938622
+Home Value Change (%),57.6%
+Home Value Change vs City Avg (pp),19.5%
+Prior Vacancy Rate (%),10.3%
+Vacancy Rate Change (pp),-5.6%
+Vacancy Change vs City Avg (pp),-1.4%
+Prior % Bachelor's+,9.7%
+Education Change (pp),-0.1%
+Education Change vs City Avg (pp),-3.0%
+Market Signals,Renter demand rising; Household incomes rising faster than city; Home value appreciation outpacing city

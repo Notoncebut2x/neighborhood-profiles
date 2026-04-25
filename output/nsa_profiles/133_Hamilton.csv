@@ -3,6 +3,9 @@ NSA ID,133
 NSA Name,Hamilton
 Total Population,"6,072"
 Median HH Income ($),"$64,981"
+% HH Income Below $50k,29.4%
+% HH Income $50k–$100k,41.9%
+% HH Income $100k+,28.7%
 Median Gross Rent ($/mo),"$1,217"
 % Renter-Occupied,21.5%
 Population Change (%),-10.5%
@@ -18,13 +21,29 @@ Avg Household Size,2.7
 % Work from Home,13.4%
 Median Home Value ($),"$220,984"
 Vacancy Rate (%),14.9%
+% Vacant — For Rent,4.1%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,10.8%
 % Owner-Occupied,78.5%
 % Units Built Pre-1950,46.4%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"6,786"
 Population Change (abs),-714
+Pop Change vs City Avg (pp),-763.5%
 Prior Income (CPI-adj $),"$86,830"
 "Income Change (%, inflation-adj)",-25.2%
+Income Change vs City Avg (pp),-35.5%
 Prior Median Rent ($/mo),"$1,167"
 Rent Change (%),4.3%
+Rent Change vs City Avg (pp),-21.6%
+Prior Median Home Value ($),154716.98680369792
+Home Value Change (%),42.8%
+Home Value Change vs City Avg (pp),4.7%
+Prior Vacancy Rate (%),11.7%
+Vacancy Rate Change (pp),3.2%
+Vacancy Change vs City Avg (pp),7.4%
+Prior % Bachelor's+,27.1%
+Education Change (pp),8.5%
+Education Change vs City Avg (pp),5.6%
+Market Signals,Affordability stress — rents outpacing incomes

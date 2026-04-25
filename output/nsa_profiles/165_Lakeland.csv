@@ -3,6 +3,9 @@ NSA ID,165
 NSA Name,Lakeland
 Total Population,"4,452"
 Median HH Income ($),"$39,499"
+% HH Income Below $50k,56.7%
+% HH Income $50k–$100k,32.9%
+% HH Income $100k+,10.4%
 Median Gross Rent ($/mo),"$1,425"
 % Renter-Occupied,71.1%
 Population Change (%),11.6%
@@ -18,13 +21,29 @@ Avg Household Size,3.5
 % Work from Home,1.5%
 Median Home Value ($),"$109,243"
 Vacancy Rate (%),11.7%
+% Vacant — For Rent,0.0%
+% Vacant — For Sale,1.6%
+% Vacant — Other/Distressed,10.1%
 % Owner-Occupied,28.9%
 % Units Built Pre-1950,41.8%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"3,987"
 Population Change (abs),464
+Pop Change vs City Avg (pp),-741.4%
 Prior Income (CPI-adj $),"$46,910"
 "Income Change (%, inflation-adj)",-15.8%
+Income Change vs City Avg (pp),-26.1%
 Prior Median Rent ($/mo),"$1,146"
 Rent Change (%),24.3%
+Rent Change vs City Avg (pp),-1.6%
+Prior Median Home Value ($),106136.80045014442
+Home Value Change (%),2.9%
+Home Value Change vs City Avg (pp),-35.2%
+Prior Vacancy Rate (%),18.5%
+Vacancy Rate Change (pp),-6.8%
+Vacancy Change vs City Avg (pp),-2.6%
+Prior % Bachelor's+,16.1%
+Education Change (pp),-9.2%
+Education Change vs City Avg (pp),-12.1%
+Market Signals,Affordability stress — rents outpacing incomes

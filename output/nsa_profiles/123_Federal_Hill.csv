@@ -3,6 +3,9 @@ NSA ID,123
 NSA Name,Federal Hill
 Total Population,"2,293"
 Median HH Income ($),"$134,393"
+% HH Income Below $50k,15.7%
+% HH Income $50k–$100k,20.0%
+% HH Income $100k+,64.3%
 Median Gross Rent ($/mo),"$2,127"
 % Renter-Occupied,46.7%
 Population Change (%),-10.8%
@@ -18,13 +21,29 @@ Avg Household Size,1.8
 % Work from Home,21.9%
 Median Home Value ($),"$356,267"
 Vacancy Rate (%),13.0%
+% Vacant — For Rent,4.9%
+% Vacant — For Sale,3.8%
+% Vacant — Other/Distressed,4.3%
 % Owner-Occupied,53.3%
 % Units Built Pre-1950,5.1%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"2,571"
 Population Change (abs),-278
+Pop Change vs City Avg (pp),-763.8%
 Prior Income (CPI-adj $),"$122,677"
 "Income Change (%, inflation-adj)",9.6%
+Income Change vs City Avg (pp),-0.7%
 Prior Median Rent ($/mo),"$1,841"
 Rent Change (%),15.6%
+Rent Change vs City Avg (pp),-10.3%
+Prior Median Home Value ($),387909.867357006
+Home Value Change (%),-8.2%
+Home Value Change vs City Avg (pp),-46.3%
+Prior Vacancy Rate (%),11.2%
+Vacancy Rate Change (pp),1.8%
+Vacancy Change vs City Avg (pp),6.0%
+Prior % Bachelor's+,73.4%
+Education Change (pp),7.3%
+Education Change vs City Avg (pp),4.4%
+Market Signals,No strong signals

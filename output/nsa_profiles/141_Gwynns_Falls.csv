@@ -3,6 +3,9 @@ NSA ID,141
 NSA Name,Gwynns Falls
 Total Population,862
 Median HH Income ($),"$50,536"
+% HH Income Below $50k,48.9%
+% HH Income $50k–$100k,34.0%
+% HH Income $100k+,17.1%
 Median Gross Rent ($/mo),"$1,361"
 % Renter-Occupied,44.1%
 Population Change (%),11.6%
@@ -18,13 +21,29 @@ Avg Household Size,2.2
 % Work from Home,12.6%
 Median Home Value ($),"$72,976"
 Vacancy Rate (%),21.6%
+% Vacant — For Rent,3.7%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,17.9%
 % Owner-Occupied,55.9%
 % Units Built Pre-1950,40.1%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,772
 Population Change (abs),89
+Pop Change vs City Avg (pp),-741.4%
 Prior Income (CPI-adj $),"$37,818"
 "Income Change (%, inflation-adj)",33.6%
+Income Change vs City Avg (pp),23.3%
 Prior Median Rent ($/mo),"$1,148"
 Rent Change (%),18.5%
+Rent Change vs City Avg (pp),-7.4%
+Prior Median Home Value ($),81363.39511726638
+Home Value Change (%),-10.3%
+Home Value Change vs City Avg (pp),-48.4%
+Prior Vacancy Rate (%),38.8%
+Vacancy Rate Change (pp),-17.2%
+Vacancy Change vs City Avg (pp),-13.0%
+Prior % Bachelor's+,11.0%
+Education Change (pp),-2.4%
+Education Change vs City Avg (pp),-5.3%
+Market Signals,Household incomes rising faster than city

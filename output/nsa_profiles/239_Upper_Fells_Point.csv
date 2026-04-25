@@ -3,6 +3,9 @@ NSA ID,239
 NSA Name,Upper Fells Point
 Total Population,"3,064"
 Median HH Income ($),"$96,415"
+% HH Income Below $50k,23.2%
+% HH Income $50k–$100k,28.4%
+% HH Income $100k+,48.3%
 Median Gross Rent ($/mo),"$1,647"
 % Renter-Occupied,48.7%
 Population Change (%),-16.2%
@@ -18,13 +21,29 @@ Avg Household Size,1.9
 % Work from Home,30.0%
 Median Home Value ($),"$330,684"
 Vacancy Rate (%),13.3%
+% Vacant — For Rent,4.4%
+% Vacant — For Sale,2.1%
+% Vacant — Other/Distressed,6.8%
 % Owner-Occupied,51.3%
 % Units Built Pre-1950,3.5%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"3,656"
 Population Change (abs),-592
+Pop Change vs City Avg (pp),-769.2%
 Prior Income (CPI-adj $),"$106,053"
 "Income Change (%, inflation-adj)",-9.1%
+Income Change vs City Avg (pp),-19.4%
 Prior Median Rent ($/mo),"$1,371"
 Rent Change (%),20.2%
+Rent Change vs City Avg (pp),-5.7%
+Prior Median Home Value ($),291125.91677266726
+Home Value Change (%),13.6%
+Home Value Change vs City Avg (pp),-24.5%
+Prior Vacancy Rate (%),19.4%
+Vacancy Rate Change (pp),-6.1%
+Vacancy Change vs City Avg (pp),-1.9%
+Prior % Bachelor's+,72.7%
+Education Change (pp),1.1%
+Education Change vs City Avg (pp),-1.8%
+Market Signals,Affordability stress — rents outpacing incomes; Significant population loss

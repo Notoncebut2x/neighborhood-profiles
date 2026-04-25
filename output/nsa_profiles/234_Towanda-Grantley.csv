@@ -3,6 +3,9 @@ NSA ID,234
 NSA Name,Towanda-Grantley
 Total Population,887
 Median HH Income ($),"$52,361"
+% HH Income Below $50k,48.6%
+% HH Income $50k–$100k,42.9%
+% HH Income $100k+,8.5%
 Median Gross Rent ($/mo),"$1,190"
 % Renter-Occupied,48.7%
 Population Change (%),27.9%
@@ -18,13 +21,29 @@ Avg Household Size,3.0
 % Work from Home,12.6%
 Median Home Value ($),"$125,299"
 Vacancy Rate (%),45.8%
+% Vacant — For Rent,1.7%
+% Vacant — For Sale,7.1%
+% Vacant — Other/Distressed,37.0%
 % Owner-Occupied,51.3%
 % Units Built Pre-1950,27.1%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,693
 Population Change (abs),193
+Pop Change vs City Avg (pp),-725.1%
 Prior Income (CPI-adj $),"$24,565"
 "Income Change (%, inflation-adj)",113.2%
+Income Change vs City Avg (pp),102.9%
 Prior Median Rent ($/mo),"$1,020"
 Rent Change (%),16.6%
+Rent Change vs City Avg (pp),-9.3%
+Prior Median Home Value ($),88538.92504984263
+Home Value Change (%),41.5%
+Home Value Change vs City Avg (pp),3.4%
+Prior Vacancy Rate (%),43.5%
+Vacancy Rate Change (pp),2.3%
+Vacancy Change vs City Avg (pp),6.5%
+Prior % Bachelor's+,6.9%
+Education Change (pp),-2.1%
+Education Change vs City Avg (pp),-5.0%
+Market Signals,Household incomes rising faster than city; Vacancy distress — disinvestment risk

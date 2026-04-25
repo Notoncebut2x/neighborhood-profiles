@@ -3,6 +3,9 @@ NSA ID,227
 NSA Name,Seton Business Park
 Total Population,201
 Median HH Income ($),"$30,531"
+% HH Income Below $50k,100.0%
+% HH Income $50k–$100k,0.0%
+% HH Income $100k+,0.0%
 Median Gross Rent ($/mo),"$1,080"
 % Renter-Occupied,100.0%
 Population Change (%),4.4%
@@ -18,13 +21,29 @@ Avg Household Size,0.0
 % Work from Home,0.0%
 Median Home Value ($),"$173,750"
 Vacancy Rate (%),6.8%
+% Vacant — For Rent,0.0%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,6.8%
 % Owner-Occupied,0.0%
 % Units Built Pre-1950,100.0%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,192
 Population Change (abs),8
+Pop Change vs City Avg (pp),-748.6%
 Prior Income (CPI-adj $),"$35,512"
 "Income Change (%, inflation-adj)",-14.0%
+Income Change vs City Avg (pp),-24.3%
 Prior Median Rent ($/mo),$713
 Rent Change (%),51.6%
+Rent Change vs City Avg (pp),25.7%
+Prior Median Home Value ($),159939.65465815415
+Home Value Change (%),8.6%
+Home Value Change vs City Avg (pp),-29.5%
+Prior Vacancy Rate (%),0.0%
+Vacancy Rate Change (pp),6.8%
+Vacancy Change vs City Avg (pp),11.0%
+Prior % Bachelor's+,6.0%
+Education Change (pp),-0.7%
+Education Change vs City Avg (pp),-3.6%
+Market Signals,Renter demand rising; Affordability stress — rents outpacing incomes

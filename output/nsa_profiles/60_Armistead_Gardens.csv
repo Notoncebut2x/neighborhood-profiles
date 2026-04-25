@@ -3,6 +3,9 @@ NSA ID,60
 NSA Name,Armistead Gardens
 Total Population,"2,468"
 Median HH Income ($),"$34,624"
+% HH Income Below $50k,63.8%
+% HH Income $50k–$100k,31.6%
+% HH Income $100k+,4.7%
 Median Gross Rent ($/mo),$678
 % Renter-Occupied,54.6%
 Population Change (%),-27.9%
@@ -18,13 +21,29 @@ Avg Household Size,2.0
 % Work from Home,0.0%
 Median Home Value ($),"$43,139"
 Vacancy Rate (%),10.1%
+% Vacant — For Rent,0.2%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,9.9%
 % Owner-Occupied,45.4%
 % Units Built Pre-1950,32.7%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"3,424"
 Population Change (abs),-956
+Pop Change vs City Avg (pp),-780.9%
 Prior Income (CPI-adj $),"$41,658"
 "Income Change (%, inflation-adj)",-16.9%
+Income Change vs City Avg (pp),-27.2%
 Prior Median Rent ($/mo),$690
 Rent Change (%),-1.8%
+Rent Change vs City Avg (pp),-27.7%
+Prior Median Home Value ($),33761.88344631394
+Home Value Change (%),27.8%
+Home Value Change vs City Avg (pp),-10.3%
+Prior Vacancy Rate (%),4.9%
+Vacancy Rate Change (pp),5.2%
+Vacancy Change vs City Avg (pp),9.4%
+Prior % Bachelor's+,7.9%
+Education Change (pp),-0.3%
+Education Change vs City Avg (pp),-3.2%
+Market Signals,Affordability stress — rents outpacing incomes; Significant population loss

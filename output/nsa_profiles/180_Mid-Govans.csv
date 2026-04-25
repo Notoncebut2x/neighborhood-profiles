@@ -3,6 +3,9 @@ NSA ID,180
 NSA Name,Mid-Govans
 Total Population,"1,615"
 Median HH Income ($),"$74,984"
+% HH Income Below $50k,23.7%
+% HH Income $50k–$100k,55.5%
+% HH Income $100k+,20.8%
 Median Gross Rent ($/mo),"$1,441"
 % Renter-Occupied,38.4%
 Population Change (%),32.4%
@@ -18,13 +21,29 @@ Avg Household Size,2.8
 % Work from Home,6.0%
 Median Home Value ($),"$163,336"
 Vacancy Rate (%),9.1%
+% Vacant — For Rent,1.8%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,7.3%
 % Owner-Occupied,61.6%
 % Units Built Pre-1950,61.4%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"1,219"
 Population Change (abs),395
+Pop Change vs City Avg (pp),-720.6%
 Prior Income (CPI-adj $),"$44,579"
 "Income Change (%, inflation-adj)",68.2%
+Income Change vs City Avg (pp),57.9%
 Prior Median Rent ($/mo),$875
 Rent Change (%),64.6%
+Rent Change vs City Avg (pp),38.7%
+Prior Median Home Value ($),135341.77363483034
+Home Value Change (%),20.7%
+Home Value Change vs City Avg (pp),-17.4%
+Prior Vacancy Rate (%),30.9%
+Vacancy Rate Change (pp),-21.8%
+Vacancy Change vs City Avg (pp),-17.6%
+Prior % Bachelor's+,24.0%
+Education Change (pp),0.4%
+Education Change vs City Avg (pp),-2.5%
+Market Signals,Renter demand rising; Household incomes rising faster than city; Young adult population growing

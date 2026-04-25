@@ -3,6 +3,9 @@ NSA ID,226
 NSA Name,Sandtown-Winchester
 Total Population,"6,892"
 Median HH Income ($),"$34,386"
+% HH Income Below $50k,63.1%
+% HH Income $50k–$100k,25.7%
+% HH Income $100k+,11.2%
 Median Gross Rent ($/mo),$792
 % Renter-Occupied,54.9%
 Population Change (%),-2.6%
@@ -18,13 +21,29 @@ Avg Household Size,2.2
 % Work from Home,19.7%
 Median Home Value ($),"$114,435"
 Vacancy Rate (%),25.4%
+% Vacant — For Rent,1.0%
+% Vacant — For Sale,0.8%
+% Vacant — Other/Distressed,23.7%
 % Owner-Occupied,45.1%
 % Units Built Pre-1950,10.0%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"7,077"
 Population Change (abs),-185
+Pop Change vs City Avg (pp),-755.6%
 Prior Income (CPI-adj $),"$29,033"
 "Income Change (%, inflation-adj)",18.4%
+Income Change vs City Avg (pp),8.1%
 Prior Median Rent ($/mo),$603
 Rent Change (%),31.4%
+Rent Change vs City Avg (pp),5.5%
+Prior Median Home Value ($),79653.34093174674
+Home Value Change (%),43.7%
+Home Value Change vs City Avg (pp),5.6%
+Prior Vacancy Rate (%),38.2%
+Vacancy Rate Change (pp),-12.8%
+Vacancy Change vs City Avg (pp),-8.6%
+Prior % Bachelor's+,5.5%
+Education Change (pp),1.8%
+Education Change vs City Avg (pp),-1.1%
+Market Signals,No strong signals

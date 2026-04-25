@@ -3,6 +3,9 @@ NSA ID,38
 NSA Name,Upton
 Total Population,"4,847"
 Median HH Income ($),"$20,810"
+% HH Income Below $50k,81.5%
+% HH Income $50k–$100k,11.0%
+% HH Income $100k+,7.5%
 Median Gross Rent ($/mo),$771
 % Renter-Occupied,78.2%
 Population Change (%),11.9%
@@ -18,13 +21,29 @@ Avg Household Size,2.1
 % Work from Home,1.2%
 Median Home Value ($),"$404,173"
 Vacancy Rate (%),22.9%
+% Vacant — For Rent,1.7%
+% Vacant — For Sale,1.7%
+% Vacant — Other/Distressed,19.5%
 % Owner-Occupied,21.8%
 % Units Built Pre-1950,15.9%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"4,331"
 Population Change (abs),515
+Pop Change vs City Avg (pp),-741.1%
 Prior Income (CPI-adj $),"$21,177"
 "Income Change (%, inflation-adj)",-1.7%
+Income Change vs City Avg (pp),-12.0%
 Prior Median Rent ($/mo),$512
 Rent Change (%),50.7%
+Rent Change vs City Avg (pp),24.8%
+Prior Median Home Value ($),100542.71210999828
+Home Value Change (%),302.0%
+Home Value Change vs City Avg (pp),263.9%
+Prior Vacancy Rate (%),38.2%
+Vacancy Rate Change (pp),-15.3%
+Vacancy Change vs City Avg (pp),-11.1%
+Prior % Bachelor's+,8.7%
+Education Change (pp),1.7%
+Education Change vs City Avg (pp),-1.2%
+Market Signals,Affordability stress — rents outpacing incomes; Home value appreciation outpacing city

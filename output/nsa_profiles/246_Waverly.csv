@@ -3,6 +3,9 @@ NSA ID,246
 NSA Name,Waverly
 Total Population,"2,605"
 Median HH Income ($),"$69,798"
+% HH Income Below $50k,35.6%
+% HH Income $50k–$100k,51.2%
+% HH Income $100k+,13.2%
 Median Gross Rent ($/mo),$798
 % Renter-Occupied,53.6%
 Population Change (%),66.7%
@@ -18,13 +21,29 @@ Avg Household Size,2.0
 % Work from Home,31.5%
 Median Home Value ($),"$187,107"
 Vacancy Rate (%),8.7%
+% Vacant — For Rent,4.5%
+% Vacant — For Sale,1.6%
+% Vacant — Other/Distressed,2.6%
 % Owner-Occupied,46.4%
 % Units Built Pre-1950,16.5%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"1,562"
 Population Change (abs),"1,042"
+Pop Change vs City Avg (pp),-686.3%
 Prior Income (CPI-adj $),"$33,977"
 "Income Change (%, inflation-adj)",105.4%
+Income Change vs City Avg (pp),95.1%
 Prior Median Rent ($/mo),$610
 Rent Change (%),30.8%
+Rent Change vs City Avg (pp),4.9%
+Prior Median Home Value ($),155199.3457805367
+Home Value Change (%),20.6%
+Home Value Change vs City Avg (pp),-17.5%
+Prior Vacancy Rate (%),8.7%
+Vacancy Rate Change (pp),0.0%
+Vacancy Change vs City Avg (pp),4.2%
+Prior % Bachelor's+,24.3%
+Education Change (pp),11.0%
+Education Change vs City Avg (pp),8.1%
+Market Signals,Renter demand rising; Household incomes rising faster than city; Gentrification indicators present

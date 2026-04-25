@@ -3,6 +3,9 @@ NSA ID,264
 NSA Name,Charles Village
 Total Population,"6,706"
 Median HH Income ($),"$38,043"
+% HH Income Below $50k,56.4%
+% HH Income $50k–$100k,22.7%
+% HH Income $100k+,20.9%
 Median Gross Rent ($/mo),"$1,239"
 % Renter-Occupied,75.1%
 Population Change (%),-16.7%
@@ -18,13 +21,29 @@ Avg Household Size,1.7
 % Work from Home,18.0%
 Median Home Value ($),"$285,869"
 Vacancy Rate (%),15.4%
+% Vacant — For Rent,4.1%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,11.3%
 % Owner-Occupied,24.9%
 % Units Built Pre-1950,18.2%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"8,054"
 Population Change (abs),"-1,348"
+Pop Change vs City Avg (pp),-769.7%
 Prior Income (CPI-adj $),"$46,571"
 "Income Change (%, inflation-adj)",-18.3%
+Income Change vs City Avg (pp),-28.6%
 Prior Median Rent ($/mo),$996
 Rent Change (%),24.4%
+Rent Change vs City Avg (pp),-1.5%
+Prior Median Home Value ($),245275.66507101478
+Home Value Change (%),16.6%
+Home Value Change vs City Avg (pp),-21.5%
+Prior Vacancy Rate (%),14.9%
+Vacancy Rate Change (pp),0.5%
+Vacancy Change vs City Avg (pp),4.7%
+Prior % Bachelor's+,61.8%
+Education Change (pp),1.2%
+Education Change vs City Avg (pp),-1.7%
+Market Signals,Affordability stress — rents outpacing incomes; Significant population loss

@@ -3,6 +3,9 @@ NSA ID,186
 NSA Name,Montebello
 Total Population,71
 Median HH Income ($),"$105,343"
+% HH Income Below $50k,24.7%
+% HH Income $50k–$100k,21.0%
+% HH Income $100k+,54.4%
 Median Gross Rent ($/mo),"$2,530"
 % Renter-Occupied,12.9%
 Population Change (%),21.7%
@@ -18,13 +21,29 @@ Avg Household Size,2.4
 % Work from Home,16.5%
 Median Home Value ($),"$261,233"
 Vacancy Rate (%),1.1%
+% Vacant — For Rent,0.3%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,0.7%
 % Owner-Occupied,87.1%
 % Units Built Pre-1950,32.7%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,58
 Population Change (abs),12
+Pop Change vs City Avg (pp),-731.3%
 Prior Income (CPI-adj $),"$80,936"
 "Income Change (%, inflation-adj)",30.2%
+Income Change vs City Avg (pp),19.9%
 Prior Median Rent ($/mo),"$1,538"
 Rent Change (%),64.4%
+Rent Change vs City Avg (pp),38.5%
+Prior Median Home Value ($),171729.34930945496
+Home Value Change (%),52.1%
+Home Value Change vs City Avg (pp),14.0%
+Prior Vacancy Rate (%),12.0%
+Vacancy Rate Change (pp),-10.9%
+Vacancy Change vs City Avg (pp),-6.7%
+Prior % Bachelor's+,32.1%
+Education Change (pp),15.6%
+Education Change vs City Avg (pp),12.7%
+Market Signals,Renter demand rising; Household incomes rising faster than city; Affordability stress — rents outpacing incomes; Gentrification indicators present

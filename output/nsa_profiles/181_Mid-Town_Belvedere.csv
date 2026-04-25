@@ -3,6 +3,9 @@ NSA ID,181
 NSA Name,Mid-Town Belvedere
 Total Population,"4,082"
 Median HH Income ($),"$62,615"
+% HH Income Below $50k,42.8%
+% HH Income $50k–$100k,35.2%
+% HH Income $100k+,22.0%
 Median Gross Rent ($/mo),"$1,423"
 % Renter-Occupied,83.4%
 Population Change (%),49.8%
@@ -18,13 +21,29 @@ Avg Household Size,1.4
 % Work from Home,23.9%
 Median Home Value ($),"$166,953"
 Vacancy Rate (%),8.1%
+% Vacant — For Rent,2.7%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,5.4%
 % Owner-Occupied,16.6%
 % Units Built Pre-1950,14.2%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"2,724"
 Population Change (abs),"1,357"
+Pop Change vs City Avg (pp),-703.2%
 Prior Income (CPI-adj $),"$55,035"
 "Income Change (%, inflation-adj)",13.8%
+Income Change vs City Avg (pp),3.5%
 Prior Median Rent ($/mo),"$1,291"
 Rent Change (%),10.3%
+Rent Change vs City Avg (pp),-15.6%
+Prior Median Home Value ($),234994.64561415697
+Home Value Change (%),-29.0%
+Home Value Change vs City Avg (pp),-67.1%
+Prior Vacancy Rate (%),14.6%
+Vacancy Rate Change (pp),-6.5%
+Vacancy Change vs City Avg (pp),-2.3%
+Prior % Bachelor's+,84.6%
+Education Change (pp),-10.9%
+Education Change vs City Avg (pp),-13.8%
+Market Signals,Young adult population growing

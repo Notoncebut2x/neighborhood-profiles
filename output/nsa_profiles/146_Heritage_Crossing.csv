@@ -3,6 +3,9 @@ NSA ID,146
 NSA Name,Heritage Crossing
 Total Population,"1,005"
 Median HH Income ($),"$32,693"
+% HH Income Below $50k,64.0%
+% HH Income $50k–$100k,21.2%
+% HH Income $100k+,14.7%
 Median Gross Rent ($/mo),$548
 % Renter-Occupied,62.0%
 Population Change (%),15.4%
@@ -18,13 +21,29 @@ Avg Household Size,2.3
 % Work from Home,3.6%
 Median Home Value ($),"$164,616"
 Vacancy Rate (%),10.5%
+% Vacant — For Rent,0.8%
+% Vacant — For Sale,0.1%
+% Vacant — Other/Distressed,9.7%
 % Owner-Occupied,38.0%
 % Units Built Pre-1950,14.5%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,870
 Population Change (abs),134
+Pop Change vs City Avg (pp),-737.6%
 Prior Income (CPI-adj $),"$34,799"
 "Income Change (%, inflation-adj)",-6.1%
+Income Change vs City Avg (pp),-16.4%
 Prior Median Rent ($/mo),$640
 Rent Change (%),-14.4%
+Rent Change vs City Avg (pp),-40.3%
+Prior Median Home Value ($),145797.67170707555
+Home Value Change (%),12.9%
+Home Value Change vs City Avg (pp),-25.2%
+Prior Vacancy Rate (%),27.6%
+Vacancy Rate Change (pp),-17.1%
+Vacancy Change vs City Avg (pp),-12.9%
+Prior % Bachelor's+,34.8%
+Education Change (pp),-22.0%
+Education Change vs City Avg (pp),-24.9%
+Market Signals,No strong signals

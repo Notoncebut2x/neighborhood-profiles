@@ -3,6 +3,9 @@ NSA ID,134
 NSA Name,Graceland Park
 Total Population,"2,305"
 Median HH Income ($),"$72,324"
+% HH Income Below $50k,22.4%
+% HH Income $50k–$100k,63.3%
+% HH Income $100k+,14.3%
 Median Gross Rent ($/mo),"$2,025"
 % Renter-Occupied,23.4%
 Population Change (%),22.8%
@@ -18,13 +21,29 @@ Avg Household Size,3.6
 % Work from Home,0.8%
 Median Home Value ($),"$213,369"
 Vacancy Rate (%),15.0%
+% Vacant — For Rent,0.0%
+% Vacant — For Sale,6.0%
+% Vacant — Other/Distressed,8.9%
 % Owner-Occupied,76.6%
 % Units Built Pre-1950,60.5%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"1,876"
 Population Change (abs),428
+Pop Change vs City Avg (pp),-730.2%
 Prior Income (CPI-adj $),"$50,391"
 "Income Change (%, inflation-adj)",43.5%
+Income Change vs City Avg (pp),33.2%
 Prior Median Rent ($/mo),"$1,341"
 Rent Change (%),51.0%
+Rent Change vs City Avg (pp),25.1%
+Prior Median Home Value ($),133051.61515811915
+Home Value Change (%),60.4%
+Home Value Change vs City Avg (pp),22.3%
+Prior Vacancy Rate (%),13.1%
+Vacancy Rate Change (pp),1.9%
+Vacancy Change vs City Avg (pp),6.1%
+Prior % Bachelor's+,18.1%
+Education Change (pp),-3.3%
+Education Change vs City Avg (pp),-6.2%
+Market Signals,Household incomes rising faster than city; Home value appreciation outpacing city

@@ -3,6 +3,9 @@ NSA ID,135
 NSA Name,Greektown
 Total Population,"3,999"
 Median HH Income ($),"$71,610"
+% HH Income Below $50k,40.3%
+% HH Income $50k–$100k,28.5%
+% HH Income $100k+,31.2%
 Median Gross Rent ($/mo),"$1,952"
 % Renter-Occupied,37.5%
 Population Change (%),-3.7%
@@ -18,13 +21,29 @@ Avg Household Size,2.9
 % Work from Home,21.1%
 Median Home Value ($),"$293,903"
 Vacancy Rate (%),11.8%
+% Vacant — For Rent,3.0%
+% Vacant — For Sale,2.2%
+% Vacant — Other/Distressed,6.6%
 % Owner-Occupied,62.5%
 % Units Built Pre-1950,29.9%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"4,152"
 Population Change (abs),-153
+Pop Change vs City Avg (pp),-756.7%
 Prior Income (CPI-adj $),"$64,989"
 "Income Change (%, inflation-adj)",10.2%
+Income Change vs City Avg (pp),-0.1%
 Prior Median Rent ($/mo),"$1,416"
 Rent Change (%),37.8%
+Rent Change vs City Avg (pp),11.9%
+Prior Median Home Value ($),167418.28543231913
+Home Value Change (%),75.6%
+Home Value Change vs City Avg (pp),37.5%
+Prior Vacancy Rate (%),14.9%
+Vacancy Rate Change (pp),-3.1%
+Vacancy Change vs City Avg (pp),1.1%
+Prior % Bachelor's+,31.0%
+Education Change (pp),7.5%
+Education Change vs City Avg (pp),4.6%
+Market Signals,Renter demand rising; Affordability stress — rents outpacing incomes; Home value appreciation outpacing city

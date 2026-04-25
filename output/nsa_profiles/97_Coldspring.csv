@@ -3,6 +3,9 @@ NSA ID,97
 NSA Name,Coldspring
 Total Population,"1,364"
 Median HH Income ($),"$69,964"
+% HH Income Below $50k,31.3%
+% HH Income $50k–$100k,36.1%
+% HH Income $100k+,32.6%
 Median Gross Rent ($/mo),"$1,063"
 % Renter-Occupied,46.9%
 Population Change (%),44.3%
@@ -18,13 +21,29 @@ Avg Household Size,2.2
 % Work from Home,21.1%
 Median Home Value ($),"$172,503"
 Vacancy Rate (%),4.7%
+% Vacant — For Rent,4.7%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,0.0%
 % Owner-Occupied,53.1%
 % Units Built Pre-1950,6.6%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,944
 Population Change (abs),419
+Pop Change vs City Avg (pp),-708.7%
 Prior Income (CPI-adj $),"$44,985"
 "Income Change (%, inflation-adj)",55.5%
+Income Change vs City Avg (pp),45.2%
 Prior Median Rent ($/mo),$474
 Rent Change (%),124.5%
+Rent Change vs City Avg (pp),98.6%
+Prior Median Home Value ($),172375.72895733634
+Home Value Change (%),0.1%
+Home Value Change vs City Avg (pp),-38.0%
+Prior Vacancy Rate (%),7.8%
+Vacancy Rate Change (pp),-3.1%
+Vacancy Change vs City Avg (pp),1.1%
+Prior % Bachelor's+,37.6%
+Education Change (pp),-2.8%
+Education Change vs City Avg (pp),-5.7%
+Market Signals,Renter demand rising; Household incomes rising faster than city; Affordability stress — rents outpacing incomes

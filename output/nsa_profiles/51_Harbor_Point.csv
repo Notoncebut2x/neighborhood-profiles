@@ -3,6 +3,9 @@ NSA ID,51
 NSA Name,Harbor Point
 Total Population,190
 Median HH Income ($),"$101,868"
+% HH Income Below $50k,18.0%
+% HH Income $50k–$100k,31.2%
+% HH Income $100k+,50.8%
 Median Gross Rent ($/mo),"$1,967"
 % Renter-Occupied,84.5%
 Population Change (%),6.4%
@@ -18,13 +21,29 @@ Avg Household Size,1.4
 % Work from Home,10.6%
 Median Home Value ($),"$425,490"
 Vacancy Rate (%),28.0%
+% Vacant — For Rent,18.6%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,9.5%
 % Owner-Occupied,15.5%
 % Units Built Pre-1950,0.0%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,178
 Population Change (abs),11
+Pop Change vs City Avg (pp),-746.6%
 Prior Income (CPI-adj $),"$114,131"
 "Income Change (%, inflation-adj)",-10.7%
+Income Change vs City Avg (pp),-21.0%
 Prior Median Rent ($/mo),"$1,874"
 Rent Change (%),5.0%
+Rent Change vs City Avg (pp),-20.9%
+Prior Median Home Value ($),344117.64705882355
+Home Value Change (%),23.6%
+Home Value Change vs City Avg (pp),-14.5%
+Prior Vacancy Rate (%),27.6%
+Vacancy Rate Change (pp),0.4%
+Vacancy Change vs City Avg (pp),4.6%
+Prior % Bachelor's+,77.3%
+Education Change (pp),1.8%
+Education Change vs City Avg (pp),-1.1%
+Market Signals,Young adult population growing; Affordability stress — rents outpacing incomes

@@ -3,6 +3,9 @@ NSA ID,221
 NSA Name,Ridgely's Delight
 Total Population,533
 Median HH Income ($),"$75,378"
+% HH Income Below $50k,32.5%
+% HH Income $50k–$100k,32.7%
+% HH Income $100k+,34.8%
 Median Gross Rent ($/mo),"$1,861"
 % Renter-Occupied,81.1%
 Population Change (%),-33.4%
@@ -18,13 +21,29 @@ Avg Household Size,2.0
 % Work from Home,12.5%
 Median Home Value ($),"$331,246"
 Vacancy Rate (%),0.0%
+% Vacant — For Rent,0.0%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,0.0%
 % Owner-Occupied,18.9%
 % Units Built Pre-1950,5.6%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,800
 Population Change (abs),-267
+Pop Change vs City Avg (pp),-786.4%
 Prior Income (CPI-adj $),"$74,257"
 "Income Change (%, inflation-adj)",1.5%
+Income Change vs City Avg (pp),-8.8%
 Prior Median Rent ($/mo),"$1,711"
 Rent Change (%),8.8%
+Rent Change vs City Avg (pp),-17.1%
+Prior Median Home Value ($),281242.58694656723
+Home Value Change (%),17.8%
+Home Value Change vs City Avg (pp),-20.3%
+Prior Vacancy Rate (%),0.0%
+Vacancy Rate Change (pp),0.0%
+Vacancy Change vs City Avg (pp),4.2%
+Prior % Bachelor's+,83.0%
+Education Change (pp),-9.9%
+Education Change vs City Avg (pp),-12.8%
+Market Signals,Significant population loss

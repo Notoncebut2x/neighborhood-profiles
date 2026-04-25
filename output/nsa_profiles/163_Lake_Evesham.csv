@@ -3,6 +3,9 @@ NSA ID,163
 NSA Name,Lake Evesham
 Total Population,598
 Median HH Income ($),"$131,775"
+% HH Income Below $50k,22.8%
+% HH Income $50k–$100k,13.4%
+% HH Income $100k+,63.9%
 Median Gross Rent ($/mo),"$1,171"
 % Renter-Occupied,41.9%
 Population Change (%),3.1%
@@ -18,13 +21,29 @@ Avg Household Size,2.7
 % Work from Home,34.8%
 Median Home Value ($),"$372,568"
 Vacancy Rate (%),2.2%
+% Vacant — For Rent,0.0%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,2.2%
 % Owner-Occupied,58.1%
 % Units Built Pre-1950,35.6%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,580
 Population Change (abs),17
+Pop Change vs City Avg (pp),-749.9%
 Prior Income (CPI-adj $),"$97,410"
 "Income Change (%, inflation-adj)",35.3%
+Income Change vs City Avg (pp),25.0%
 Prior Median Rent ($/mo),"$1,216"
 Rent Change (%),-3.7%
+Rent Change vs City Avg (pp),-29.6%
+Prior Median Home Value ($),282215.21388017794
+Home Value Change (%),32.0%
+Home Value Change vs City Avg (pp),-6.1%
+Prior Vacancy Rate (%),13.9%
+Vacancy Rate Change (pp),-11.7%
+Vacancy Change vs City Avg (pp),-7.5%
+Prior % Bachelor's+,56.5%
+Education Change (pp),4.6%
+Education Change vs City Avg (pp),1.7%
+Market Signals,Household incomes rising faster than city

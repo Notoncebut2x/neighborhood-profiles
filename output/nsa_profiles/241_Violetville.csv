@@ -3,6 +3,9 @@ NSA ID,241
 NSA Name,Violetville
 Total Population,"2,123"
 Median HH Income ($),"$40,002"
+% HH Income Below $50k,56.9%
+% HH Income $50k–$100k,19.3%
+% HH Income $100k+,23.8%
 Median Gross Rent ($/mo),$586
 % Renter-Occupied,57.0%
 Population Change (%),-4.8%
@@ -18,13 +21,29 @@ Avg Household Size,1.9
 % Work from Home,17.0%
 Median Home Value ($),"$170,295"
 Vacancy Rate (%),12.0%
+% Vacant — For Rent,1.5%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,10.5%
 % Owner-Occupied,43.0%
 % Units Built Pre-1950,49.3%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"2,230"
 Population Change (abs),-107
+Pop Change vs City Avg (pp),-757.8%
 Prior Income (CPI-adj $),"$48,294"
 "Income Change (%, inflation-adj)",-17.2%
+Income Change vs City Avg (pp),-27.5%
 Prior Median Rent ($/mo),$609
 Rent Change (%),-3.8%
+Rent Change vs City Avg (pp),-29.7%
+Prior Median Home Value ($),130625.4609636815
+Home Value Change (%),30.4%
+Home Value Change vs City Avg (pp),-7.7%
+Prior Vacancy Rate (%),12.1%
+Vacancy Rate Change (pp),-0.1%
+Vacancy Change vs City Avg (pp),4.1%
+Prior % Bachelor's+,15.0%
+Education Change (pp),0.1%
+Education Change vs City Avg (pp),-2.8%
+Market Signals,No strong signals

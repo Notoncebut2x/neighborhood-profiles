@@ -3,6 +3,9 @@ NSA ID,6
 NSA Name,Harwood
 Total Population,"1,507"
 Median HH Income ($),"$63,075"
+% HH Income Below $50k,31.3%
+% HH Income $50k–$100k,31.9%
+% HH Income $100k+,36.8%
 Median Gross Rent ($/mo),"$1,430"
 % Renter-Occupied,51.4%
 Population Change (%),-18.0%
@@ -18,13 +21,29 @@ Avg Household Size,2.4
 % Work from Home,12.6%
 Median Home Value ($),"$262,389"
 Vacancy Rate (%),11.5%
+% Vacant — For Rent,3.0%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,8.5%
 % Owner-Occupied,48.6%
 % Units Built Pre-1950,9.4%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"1,837"
 Population Change (abs),-330
+Pop Change vs City Avg (pp),-771.0%
 Prior Income (CPI-adj $),"$67,823"
 "Income Change (%, inflation-adj)",-7.0%
+Income Change vs City Avg (pp),-17.3%
 Prior Median Rent ($/mo),"$1,178"
 Rent Change (%),21.4%
+Rent Change vs City Avg (pp),-4.5%
+Prior Median Home Value ($),212335.85333783543
+Home Value Change (%),23.6%
+Home Value Change vs City Avg (pp),-14.5%
+Prior Vacancy Rate (%),13.6%
+Vacancy Rate Change (pp),-2.1%
+Vacancy Change vs City Avg (pp),2.1%
+Prior % Bachelor's+,52.5%
+Education Change (pp),7.4%
+Education Change vs City Avg (pp),4.5%
+Market Signals,Affordability stress — rents outpacing incomes; Significant population loss

@@ -3,6 +3,9 @@ NSA ID,10
 NSA Name,Bayview
 Total Population,"2,301"
 Median HH Income ($),"$58,316"
+% HH Income Below $50k,34.9%
+% HH Income $50k–$100k,41.0%
+% HH Income $100k+,24.1%
 Median Gross Rent ($/mo),"$1,631"
 % Renter-Occupied,62.7%
 Population Change (%),-14.5%
@@ -18,13 +21,29 @@ Avg Household Size,2.3
 % Work from Home,2.9%
 Median Home Value ($),"$164,099"
 Vacancy Rate (%),14.8%
+% Vacant — For Rent,2.0%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,12.8%
 % Owner-Occupied,37.3%
 % Units Built Pre-1950,42.7%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"2,692"
 Population Change (abs),-391
+Pop Change vs City Avg (pp),-767.5%
 Prior Income (CPI-adj $),"$65,698"
 "Income Change (%, inflation-adj)",-11.2%
+Income Change vs City Avg (pp),-21.5%
 Prior Median Rent ($/mo),"$1,059"
 Rent Change (%),54.0%
+Rent Change vs City Avg (pp),28.1%
+Prior Median Home Value ($),116970.6282803612
+Home Value Change (%),40.3%
+Home Value Change vs City Avg (pp),2.2%
+Prior Vacancy Rate (%),19.9%
+Vacancy Rate Change (pp),-5.1%
+Vacancy Change vs City Avg (pp),-0.9%
+Prior % Bachelor's+,21.3%
+Education Change (pp),7.0%
+Education Change vs City Avg (pp),4.1%
+Market Signals,Affordability stress — rents outpacing incomes

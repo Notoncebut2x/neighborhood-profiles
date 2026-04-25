@@ -3,6 +3,9 @@ NSA ID,139
 NSA Name,Grove Park
 Total Population,"1,873"
 Median HH Income ($),"$39,564"
+% HH Income Below $50k,64.6%
+% HH Income $50k–$100k,23.7%
+% HH Income $100k+,11.7%
 Median Gross Rent ($/mo),$949
 % Renter-Occupied,53.8%
 Population Change (%),-26.5%
@@ -18,13 +21,29 @@ Avg Household Size,1.9
 % Work from Home,4.9%
 Median Home Value ($),"$203,307"
 Vacancy Rate (%),11.5%
+% Vacant — For Rent,0.0%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,11.5%
 % Owner-Occupied,46.2%
 % Units Built Pre-1950,65.4%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"2,547"
 Population Change (abs),-674
+Pop Change vs City Avg (pp),-779.5%
 Prior Income (CPI-adj $),"$63,733"
 "Income Change (%, inflation-adj)",-37.9%
+Income Change vs City Avg (pp),-48.2%
 Prior Median Rent ($/mo),"$1,154"
 Rent Change (%),-17.8%
+Rent Change vs City Avg (pp),-43.7%
+Prior Median Home Value ($),145157.4680829838
+Home Value Change (%),40.1%
+Home Value Change vs City Avg (pp),2.0%
+Prior Vacancy Rate (%),9.0%
+Vacancy Rate Change (pp),2.5%
+Vacancy Change vs City Avg (pp),6.7%
+Prior % Bachelor's+,22.6%
+Education Change (pp),-2.4%
+Education Change vs City Avg (pp),-5.3%
+Market Signals,Affordability stress — rents outpacing incomes; Significant population loss

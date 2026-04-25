@@ -3,6 +3,9 @@ NSA ID,64
 NSA Name,Barclay
 Total Population,"2,719"
 Median HH Income ($),"$58,433"
+% HH Income Below $50k,38.7%
+% HH Income $50k–$100k,23.5%
+% HH Income $100k+,37.8%
 Median Gross Rent ($/mo),$945
 % Renter-Occupied,64.7%
 Population Change (%),6.3%
@@ -18,13 +21,29 @@ Avg Household Size,2.5
 % Work from Home,22.7%
 Median Home Value ($),"$310,380"
 Vacancy Rate (%),17.0%
+% Vacant — For Rent,5.3%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,11.7%
 % Owner-Occupied,35.3%
 % Units Built Pre-1950,15.8%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"2,557"
 Population Change (abs),161
+Pop Change vs City Avg (pp),-746.7%
 Prior Income (CPI-adj $),"$39,757"
 "Income Change (%, inflation-adj)",47.0%
+Income Change vs City Avg (pp),36.7%
 Prior Median Rent ($/mo),$949
 Rent Change (%),-0.5%
+Rent Change vs City Avg (pp),-26.4%
+Prior Median Home Value ($),193680.22129909953
+Home Value Change (%),60.3%
+Home Value Change vs City Avg (pp),22.2%
+Prior Vacancy Rate (%),25.5%
+Vacancy Rate Change (pp),-8.5%
+Vacancy Change vs City Avg (pp),-4.3%
+Prior % Bachelor's+,28.6%
+Education Change (pp),10.2%
+Education Change vs City Avg (pp),7.3%
+Market Signals,Household incomes rising faster than city; Home value appreciation outpacing city

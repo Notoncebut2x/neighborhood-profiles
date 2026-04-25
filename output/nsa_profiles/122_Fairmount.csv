@@ -3,6 +3,9 @@ NSA ID,122
 NSA Name,Fairmount
 Total Population,381
 Median HH Income ($),"$82,841"
+% HH Income Below $50k,30.2%
+% HH Income $50k–$100k,39.4%
+% HH Income $100k+,30.4%
 Median Gross Rent ($/mo),"$1,157"
 % Renter-Occupied,21.3%
 Population Change (%),119.7%
@@ -18,13 +21,29 @@ Avg Household Size,2.8
 % Work from Home,45.4%
 Median Home Value ($),"$207,033"
 Vacancy Rate (%),40.4%
+% Vacant — For Rent,0.0%
+% Vacant — For Sale,11.6%
+% Vacant — Other/Distressed,28.8%
 % Owner-Occupied,78.7%
 % Units Built Pre-1950,53.1%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,173
 Population Change (abs),207
+Pop Change vs City Avg (pp),-633.3%
 Prior Income (CPI-adj $),"$33,752"
 "Income Change (%, inflation-adj)",145.4%
+Income Change vs City Avg (pp),135.1%
 Prior Median Rent ($/mo),$895
 Rent Change (%),29.3%
+Rent Change vs City Avg (pp),3.4%
+Prior Median Home Value ($),117523.12052430582
+Home Value Change (%),76.2%
+Home Value Change vs City Avg (pp),38.1%
+Prior Vacancy Rate (%),31.3%
+Vacancy Rate Change (pp),9.1%
+Vacancy Change vs City Avg (pp),13.3%
+Prior % Bachelor's+,25.9%
+Education Change (pp),10.3%
+Education Change vs City Avg (pp),7.4%
+Market Signals,Household incomes rising faster than city; Gentrification indicators present; Vacancy distress — disinvestment risk; Home value appreciation outpacing city

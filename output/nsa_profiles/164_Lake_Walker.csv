@@ -3,6 +3,9 @@ NSA ID,164
 NSA Name,Lake Walker
 Total Population,"1,788"
 Median HH Income ($),"$66,014"
+% HH Income Below $50k,42.2%
+% HH Income $50k–$100k,32.3%
+% HH Income $100k+,25.5%
 Median Gross Rent ($/mo),$939
 % Renter-Occupied,60.2%
 Population Change (%),-24.9%
@@ -18,13 +21,29 @@ Avg Household Size,1.7
 % Work from Home,29.3%
 Median Home Value ($),"$271,662"
 Vacancy Rate (%),5.4%
+% Vacant — For Rent,2.4%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,3.0%
 % Owner-Occupied,39.8%
 % Units Built Pre-1950,32.9%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"2,381"
 Population Change (abs),-593
+Pop Change vs City Avg (pp),-777.9%
 Prior Income (CPI-adj $),"$73,562"
 "Income Change (%, inflation-adj)",-10.3%
+Income Change vs City Avg (pp),-20.6%
 Prior Median Rent ($/mo),"$1,035"
 Rent Change (%),-9.2%
+Rent Change vs City Avg (pp),-35.1%
+Prior Median Home Value ($),225734.94385841023
+Home Value Change (%),20.3%
+Home Value Change vs City Avg (pp),-17.8%
+Prior Vacancy Rate (%),9.6%
+Vacancy Rate Change (pp),-4.2%
+Vacancy Change vs City Avg (pp),0.0%
+Prior % Bachelor's+,40.5%
+Education Change (pp),7.1%
+Education Change vs City Avg (pp),4.2%
+Market Signals,Significant population loss

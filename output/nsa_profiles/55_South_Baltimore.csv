@@ -3,6 +3,9 @@ NSA ID,55
 NSA Name,South Baltimore
 Total Population,"3,191"
 Median HH Income ($),"$124,296"
+% HH Income Below $50k,17.2%
+% HH Income $50k–$100k,19.2%
+% HH Income $100k+,63.6%
 Median Gross Rent ($/mo),"$2,201"
 % Renter-Occupied,53.7%
 Population Change (%),-5.6%
@@ -18,13 +21,29 @@ Avg Household Size,2.0
 % Work from Home,25.3%
 Median Home Value ($),"$358,663"
 Vacancy Rate (%),11.9%
+% Vacant — For Rent,3.9%
+% Vacant — For Sale,0.7%
+% Vacant — Other/Distressed,7.3%
 % Owner-Occupied,46.3%
 % Units Built Pre-1950,3.7%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"3,380"
 Population Change (abs),-189
+Pop Change vs City Avg (pp),-758.6%
 Prior Income (CPI-adj $),"$124,552"
 "Income Change (%, inflation-adj)",-0.2%
+Income Change vs City Avg (pp),-10.5%
 Prior Median Rent ($/mo),"$1,831"
 Rent Change (%),20.2%
+Rent Change vs City Avg (pp),-5.7%
+Prior Median Home Value ($),291597.2442737062
+Home Value Change (%),23.0%
+Home Value Change vs City Avg (pp),-15.1%
+Prior Vacancy Rate (%),7.9%
+Vacancy Rate Change (pp),4.0%
+Vacancy Change vs City Avg (pp),8.2%
+Prior % Bachelor's+,68.1%
+Education Change (pp),10.6%
+Education Change vs City Avg (pp),7.7%
+Market Signals,Affordability stress — rents outpacing incomes

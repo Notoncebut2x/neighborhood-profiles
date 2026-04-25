@@ -3,6 +3,9 @@ NSA ID,185
 NSA Name,Mondawmin
 Total Population,"3,481"
 Median HH Income ($),"$35,686"
+% HH Income Below $50k,60.2%
+% HH Income $50k–$100k,20.4%
+% HH Income $100k+,19.4%
 Median Gross Rent ($/mo),"$1,006"
 % Renter-Occupied,64.5%
 Population Change (%),-3.3%
@@ -18,13 +21,29 @@ Avg Household Size,2.2
 % Work from Home,7.7%
 Median Home Value ($),"$138,913"
 Vacancy Rate (%),23.0%
+% Vacant — For Rent,3.4%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,19.5%
 % Owner-Occupied,35.5%
 % Units Built Pre-1950,15.2%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"3,599"
 Population Change (abs),-118
+Pop Change vs City Avg (pp),-756.3%
 Prior Income (CPI-adj $),"$40,494"
 "Income Change (%, inflation-adj)",-11.9%
+Income Change vs City Avg (pp),-22.2%
 Prior Median Rent ($/mo),$923
 Rent Change (%),8.9%
+Rent Change vs City Avg (pp),-17.0%
+Prior Median Home Value ($),66408.52355751878
+Home Value Change (%),109.2%
+Home Value Change vs City Avg (pp),71.1%
+Prior Vacancy Rate (%),29.3%
+Vacancy Rate Change (pp),-6.3%
+Vacancy Change vs City Avg (pp),-2.1%
+Prior % Bachelor's+,13.4%
+Education Change (pp),-5.4%
+Education Change vs City Avg (pp),-8.3%
+Market Signals,Affordability stress — rents outpacing incomes; Home value appreciation outpacing city

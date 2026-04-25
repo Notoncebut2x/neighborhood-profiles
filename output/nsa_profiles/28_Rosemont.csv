@@ -3,6 +3,9 @@ NSA ID,28
 NSA Name,Rosemont
 Total Population,"1,799"
 Median HH Income ($),"$37,863"
+% HH Income Below $50k,60.4%
+% HH Income $50k–$100k,25.0%
+% HH Income $100k+,14.6%
 Median Gross Rent ($/mo),"$1,447"
 % Renter-Occupied,54.0%
 Population Change (%),49.5%
@@ -18,13 +21,29 @@ Avg Household Size,2.2
 % Work from Home,4.8%
 Median Home Value ($),"$81,805"
 Vacancy Rate (%),34.4%
+% Vacant — For Rent,0.0%
+% Vacant — For Sale,0.8%
+% Vacant — Other/Distressed,33.7%
 % Owner-Occupied,46.0%
 % Units Built Pre-1950,32.7%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"1,203"
 Population Change (abs),595
+Pop Change vs City Avg (pp),-703.5%
 Prior Income (CPI-adj $),"$36,811"
 "Income Change (%, inflation-adj)",2.9%
+Income Change vs City Avg (pp),-7.4%
 Prior Median Rent ($/mo),"$1,056"
 Rent Change (%),37.1%
+Rent Change vs City Avg (pp),11.2%
+Prior Median Home Value ($),67909.73057149594
+Home Value Change (%),20.5%
+Home Value Change vs City Avg (pp),-17.6%
+Prior Vacancy Rate (%),42.5%
+Vacancy Rate Change (pp),-8.1%
+Vacancy Change vs City Avg (pp),-3.9%
+Prior % Bachelor's+,17.7%
+Education Change (pp),-14.5%
+Education Change vs City Avg (pp),-17.4%
+Market Signals,Affordability stress — rents outpacing incomes

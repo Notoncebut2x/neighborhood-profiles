@@ -3,6 +3,9 @@ NSA ID,176
 NSA Name,Mayfield
 Total Population,"1,462"
 Median HH Income ($),"$139,511"
+% HH Income Below $50k,13.9%
+% HH Income $50k–$100k,14.5%
+% HH Income $100k+,71.6%
 Median Gross Rent ($/mo),"$1,795"
 % Renter-Occupied,3.2%
 Population Change (%),41.1%
@@ -18,13 +21,29 @@ Avg Household Size,2.7
 % Work from Home,29.0%
 Median Home Value ($),"$317,944"
 Vacancy Rate (%),6.6%
+% Vacant — For Rent,0.0%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,6.6%
 % Owner-Occupied,96.8%
 % Units Built Pre-1950,33.2%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"1,036"
 Population Change (abs),425
+Pop Change vs City Avg (pp),-711.9%
 Prior Income (CPI-adj $),"$131,796"
 "Income Change (%, inflation-adj)",5.9%
+Income Change vs City Avg (pp),-4.4%
 Prior Median Rent ($/mo),"$1,725"
 Rent Change (%),4.0%
+Rent Change vs City Avg (pp),-21.9%
+Prior Median Home Value ($),230940.4086173668
+Home Value Change (%),37.7%
+Home Value Change vs City Avg (pp),-0.4%
+Prior Vacancy Rate (%),2.8%
+Vacancy Rate Change (pp),3.8%
+Vacancy Change vs City Avg (pp),8.0%
+Prior % Bachelor's+,56.3%
+Education Change (pp),-3.3%
+Education Change vs City Avg (pp),-6.2%
+Market Signals,No strong signals

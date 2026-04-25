@@ -3,6 +3,9 @@ NSA ID,205
 NSA Name,Park Circle
 Total Population,"2,385"
 Median HH Income ($),"$39,628"
+% HH Income Below $50k,56.6%
+% HH Income $50k–$100k,17.6%
+% HH Income $100k+,25.9%
 Median Gross Rent ($/mo),$541
 % Renter-Occupied,65.4%
 Population Change (%),-4.2%
@@ -18,13 +21,29 @@ Avg Household Size,2.1
 % Work from Home,6.2%
 Median Home Value ($),"$136,350"
 Vacancy Rate (%),22.8%
+% Vacant — For Rent,1.2%
+% Vacant — For Sale,0.4%
+% Vacant — Other/Distressed,21.2%
 % Owner-Occupied,34.6%
 % Units Built Pre-1950,30.8%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"2,489"
 Population Change (abs),-104
+Pop Change vs City Avg (pp),-757.2%
 Prior Income (CPI-adj $),"$22,729"
 "Income Change (%, inflation-adj)",74.3%
+Income Change vs City Avg (pp),64.0%
 Prior Median Rent ($/mo),$452
 Rent Change (%),19.7%
+Rent Change vs City Avg (pp),-6.2%
+Prior Median Home Value ($),83252.08330291627
+Home Value Change (%),63.8%
+Home Value Change vs City Avg (pp),25.7%
+Prior Vacancy Rate (%),21.5%
+Vacancy Rate Change (pp),1.3%
+Vacancy Change vs City Avg (pp),5.5%
+Prior % Bachelor's+,8.7%
+Education Change (pp),4.1%
+Education Change vs City Avg (pp),1.2%
+Market Signals,Household incomes rising faster than city; Home value appreciation outpacing city

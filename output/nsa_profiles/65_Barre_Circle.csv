@@ -3,6 +3,9 @@ NSA ID,65
 NSA Name,Barre Circle
 Total Population,298
 Median HH Income ($),"$85,815"
+% HH Income Below $50k,37.4%
+% HH Income $50k–$100k,22.9%
+% HH Income $100k+,39.7%
 Median Gross Rent ($/mo),"$1,325"
 % Renter-Occupied,52.8%
 Population Change (%),-10.0%
@@ -18,13 +21,29 @@ Avg Household Size,1.9
 % Work from Home,27.8%
 Median Home Value ($),"$243,320"
 Vacancy Rate (%),17.8%
+% Vacant — For Rent,5.2%
+% Vacant — For Sale,0.3%
+% Vacant — Other/Distressed,12.3%
 % Owner-Occupied,47.2%
 % Units Built Pre-1950,21.2%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,331
 Population Change (abs),-33
+Pop Change vs City Avg (pp),-763.0%
 Prior Income (CPI-adj $),"$67,439"
 "Income Change (%, inflation-adj)",27.2%
+Income Change vs City Avg (pp),16.9%
 Prior Median Rent ($/mo),"$1,368"
 Rent Change (%),-3.1%
+Rent Change vs City Avg (pp),-29.0%
+Prior Median Home Value ($),183584.7440295765
+Home Value Change (%),32.5%
+Home Value Change vs City Avg (pp),-5.6%
+Prior Vacancy Rate (%),18.5%
+Vacancy Rate Change (pp),-0.7%
+Vacancy Change vs City Avg (pp),3.5%
+Prior % Bachelor's+,49.5%
+Education Change (pp),9.6%
+Education Change vs City Avg (pp),6.7%
+Market Signals,Household incomes rising faster than city

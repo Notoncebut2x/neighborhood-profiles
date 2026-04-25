@@ -3,6 +3,9 @@ NSA ID,89
 NSA Name,Central Forest Park
 Total Population,"1,585"
 Median HH Income ($),"$36,514"
+% HH Income Below $50k,55.1%
+% HH Income $50k–$100k,15.9%
+% HH Income $100k+,29.0%
 Median Gross Rent ($/mo),$920
 % Renter-Occupied,49.9%
 Population Change (%),9.1%
@@ -18,13 +21,29 @@ Avg Household Size,2.5
 % Work from Home,3.9%
 Median Home Value ($),"$253,998"
 Vacancy Rate (%),14.1%
+% Vacant — For Rent,8.7%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,5.3%
 % Owner-Occupied,50.1%
 % Units Built Pre-1950,21.6%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"1,452"
 Population Change (abs),132
+Pop Change vs City Avg (pp),-743.9%
 Prior Income (CPI-adj $),"$60,283"
 "Income Change (%, inflation-adj)",-39.4%
+Income Change vs City Avg (pp),-49.7%
 Prior Median Rent ($/mo),$982
 Rent Change (%),-6.3%
+Rent Change vs City Avg (pp),-32.2%
+Prior Median Home Value ($),164751.38427508564
+Home Value Change (%),54.2%
+Home Value Change vs City Avg (pp),16.1%
+Prior Vacancy Rate (%),29.6%
+Vacancy Rate Change (pp),-15.5%
+Vacancy Change vs City Avg (pp),-11.3%
+Prior % Bachelor's+,24.2%
+Education Change (pp),-1.8%
+Education Change vs City Avg (pp),-4.7%
+Market Signals,Young adult population growing; Affordability stress — rents outpacing incomes; Home value appreciation outpacing city

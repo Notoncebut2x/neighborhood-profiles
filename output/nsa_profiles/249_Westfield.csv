@@ -3,6 +3,9 @@ NSA ID,249
 NSA Name,Westfield
 Total Population,"2,950"
 Median HH Income ($),"$88,007"
+% HH Income Below $50k,22.5%
+% HH Income $50k–$100k,34.9%
+% HH Income $100k+,42.6%
 Median Gross Rent ($/mo),"$1,344"
 % Renter-Occupied,31.8%
 Population Change (%),-2.7%
@@ -18,13 +21,29 @@ Avg Household Size,2.3
 % Work from Home,12.2%
 Median Home Value ($),"$254,309"
 Vacancy Rate (%),5.1%
+% Vacant — For Rent,0.4%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,4.7%
 % Owner-Occupied,68.2%
 % Units Built Pre-1950,38.1%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"3,030"
 Population Change (abs),-80
+Pop Change vs City Avg (pp),-755.7%
 Prior Income (CPI-adj $),"$81,493"
 "Income Change (%, inflation-adj)",8.0%
+Income Change vs City Avg (pp),-2.3%
 Prior Median Rent ($/mo),$978
 Rent Change (%),37.4%
+Rent Change vs City Avg (pp),11.5%
+Prior Median Home Value ($),178331.1242982946
+Home Value Change (%),42.6%
+Home Value Change vs City Avg (pp),4.5%
+Prior Vacancy Rate (%),11.5%
+Vacancy Rate Change (pp),-6.4%
+Vacancy Change vs City Avg (pp),-2.2%
+Prior % Bachelor's+,39.7%
+Education Change (pp),5.1%
+Education Change vs City Avg (pp),2.2%
+Market Signals,Renter demand rising; Affordability stress — rents outpacing incomes

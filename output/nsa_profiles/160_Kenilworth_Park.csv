@@ -3,6 +3,9 @@ NSA ID,160
 NSA Name,Kenilworth Park
 Total Population,860
 Median HH Income ($),"$63,681"
+% HH Income Below $50k,38.3%
+% HH Income $50k–$100k,37.7%
+% HH Income $100k+,24.0%
 Median Gross Rent ($/mo),"$1,263"
 % Renter-Occupied,38.1%
 Population Change (%),-47.1%
@@ -18,13 +21,29 @@ Avg Household Size,2.2
 % Work from Home,16.3%
 Median Home Value ($),"$236,890"
 Vacancy Rate (%),9.9%
+% Vacant — For Rent,0.0%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,9.9%
 % Owner-Occupied,61.9%
 % Units Built Pre-1950,53.4%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"1,625"
 Population Change (abs),-765
+Pop Change vs City Avg (pp),-800.1%
 Prior Income (CPI-adj $),"$60,116"
 "Income Change (%, inflation-adj)",5.9%
+Income Change vs City Avg (pp),-4.4%
 Prior Median Rent ($/mo),"$1,181"
 Rent Change (%),6.9%
+Rent Change vs City Avg (pp),-19.0%
+Prior Median Home Value ($),123775.01334059928
+Home Value Change (%),91.4%
+Home Value Change vs City Avg (pp),53.3%
+Prior Vacancy Rate (%),8.3%
+Vacancy Rate Change (pp),1.6%
+Vacancy Change vs City Avg (pp),5.8%
+Prior % Bachelor's+,31.3%
+Education Change (pp),-7.7%
+Education Change vs City Avg (pp),-10.6%
+Market Signals,Home value appreciation outpacing city; Significant population loss

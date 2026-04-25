@@ -3,6 +3,9 @@ NSA ID,88
 NSA Name,Cedonia
 Total Population,"3,052"
 Median HH Income ($),"$59,544"
+% HH Income Below $50k,42.3%
+% HH Income $50k–$100k,36.4%
+% HH Income $100k+,21.3%
 Median Gross Rent ($/mo),"$1,211"
 % Renter-Occupied,51.5%
 Population Change (%),1.6%
@@ -18,13 +21,29 @@ Avg Household Size,2.1
 % Work from Home,8.8%
 Median Home Value ($),"$134,554"
 Vacancy Rate (%),3.0%
+% Vacant — For Rent,0.4%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,2.6%
 % Owner-Occupied,48.5%
 % Units Built Pre-1950,47.4%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"3,003"
 Population Change (abs),48
+Pop Change vs City Avg (pp),-751.4%
 Prior Income (CPI-adj $),"$42,387"
 "Income Change (%, inflation-adj)",40.5%
+Income Change vs City Avg (pp),30.2%
 Prior Median Rent ($/mo),$876
 Rent Change (%),38.3%
+Rent Change vs City Avg (pp),12.4%
+Prior Median Home Value ($),123790.71534379099
+Home Value Change (%),8.7%
+Home Value Change vs City Avg (pp),-29.4%
+Prior Vacancy Rate (%),13.5%
+Vacancy Rate Change (pp),-10.5%
+Vacancy Change vs City Avg (pp),-6.3%
+Prior % Bachelor's+,15.4%
+Education Change (pp),1.5%
+Education Change vs City Avg (pp),-1.4%
+Market Signals,Renter demand rising; Household incomes rising faster than city

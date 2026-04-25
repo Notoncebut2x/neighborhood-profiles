@@ -3,6 +3,9 @@ NSA ID,119
 NSA Name,Evergreen
 Total Population,545
 Median HH Income ($),"$192,222"
+% HH Income Below $50k,7.9%
+% HH Income $50k–$100k,21.0%
+% HH Income $100k+,71.1%
 Median Gross Rent ($/mo),"$1,415"
 % Renter-Occupied,22.3%
 Population Change (%),44.6%
@@ -18,13 +21,29 @@ Avg Household Size,3.0
 % Work from Home,29.3%
 Median Home Value ($),"$602,224"
 Vacancy Rate (%),0.1%
+% Vacant — For Rent,0.0%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,0.0%
 % Owner-Occupied,77.7%
 % Units Built Pre-1950,0.1%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,376
 Population Change (abs),168
+Pop Change vs City Avg (pp),-708.4%
 Prior Income (CPI-adj $),"$164,372"
 "Income Change (%, inflation-adj)",16.9%
+Income Change vs City Avg (pp),6.6%
 Prior Median Rent ($/mo),"$1,177"
 Rent Change (%),20.2%
+Rent Change vs City Avg (pp),-5.7%
+Prior Median Home Value ($),500203.1517799811
+Home Value Change (%),20.4%
+Home Value Change vs City Avg (pp),-17.7%
+Prior Vacancy Rate (%),4.5%
+Vacancy Rate Change (pp),-4.4%
+Vacancy Change vs City Avg (pp),-0.2%
+Prior % Bachelor's+,85.6%
+Education Change (pp),4.7%
+Education Change vs City Avg (pp),1.8%
+Market Signals,No strong signals

@@ -3,6 +3,9 @@ NSA ID,244
 NSA Name,Washington Hill
 Total Population,"2,226"
 Median HH Income ($),"$49,786"
+% HH Income Below $50k,50.3%
+% HH Income $50k–$100k,17.0%
+% HH Income $100k+,32.7%
 Median Gross Rent ($/mo),"$1,237"
 % Renter-Occupied,63.4%
 Population Change (%),-15.7%
@@ -18,13 +21,29 @@ Avg Household Size,1.9
 % Work from Home,26.3%
 Median Home Value ($),"$268,415"
 Vacancy Rate (%),9.0%
+% Vacant — For Rent,3.8%
+% Vacant — For Sale,1.4%
+% Vacant — Other/Distressed,3.9%
 % Owner-Occupied,36.6%
 % Units Built Pre-1950,13.4%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"2,639"
 Population Change (abs),-413
+Pop Change vs City Avg (pp),-768.7%
 Prior Income (CPI-adj $),"$54,652"
 "Income Change (%, inflation-adj)",-8.9%
+Income Change vs City Avg (pp),-19.2%
 Prior Median Rent ($/mo),"$1,046"
 Rent Change (%),18.3%
+Rent Change vs City Avg (pp),-7.6%
+Prior Median Home Value ($),229181.9502167529
+Home Value Change (%),17.1%
+Home Value Change vs City Avg (pp),-21.0%
+Prior Vacancy Rate (%),15.3%
+Vacancy Rate Change (pp),-6.3%
+Vacancy Change vs City Avg (pp),-2.1%
+Prior % Bachelor's+,45.4%
+Education Change (pp),3.8%
+Education Change vs City Avg (pp),0.9%
+Market Signals,Affordability stress — rents outpacing incomes; Significant population loss

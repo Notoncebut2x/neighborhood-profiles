@@ -3,6 +3,9 @@ NSA ID,14
 NSA Name,Moravia-Walther
 Total Population,"1,243"
 Median HH Income ($),"$58,210"
+% HH Income Below $50k,45.0%
+% HH Income $50k–$100k,14.5%
+% HH Income $100k+,40.5%
 Median Gross Rent ($/mo),"$1,378"
 % Renter-Occupied,19.0%
 Population Change (%),22.5%
@@ -18,13 +21,29 @@ Avg Household Size,2.4
 % Work from Home,23.7%
 Median Home Value ($),"$193,459"
 Vacancy Rate (%),4.9%
+% Vacant — For Rent,1.7%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,3.2%
 % Owner-Occupied,81.0%
 % Units Built Pre-1950,45.6%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"1,014"
 Population Change (abs),228
+Pop Change vs City Avg (pp),-730.5%
 Prior Income (CPI-adj $),"$70,415"
 "Income Change (%, inflation-adj)",-17.3%
+Income Change vs City Avg (pp),-27.6%
 Prior Median Rent ($/mo),"$1,128"
 Rent Change (%),22.1%
+Rent Change vs City Avg (pp),-3.8%
+Prior Median Home Value ($),158346.1823196019
+Home Value Change (%),22.2%
+Home Value Change vs City Avg (pp),-15.9%
+Prior Vacancy Rate (%),16.0%
+Vacancy Rate Change (pp),-11.1%
+Vacancy Change vs City Avg (pp),-6.9%
+Prior % Bachelor's+,27.2%
+Education Change (pp),12.9%
+Education Change vs City Avg (pp),10.0%
+Market Signals,Affordability stress — rents outpacing incomes

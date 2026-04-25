@@ -3,6 +3,9 @@ NSA ID,86
 NSA Name,Cedarcroft
 Total Population,660
 Median HH Income ($),"$154,810"
+% HH Income Below $50k,6.6%
+% HH Income $50k–$100k,41.5%
+% HH Income $100k+,51.9%
 Median Gross Rent ($/mo),"$1,127"
 % Renter-Occupied,18.3%
 Population Change (%),-16.6%
@@ -18,13 +21,29 @@ Avg Household Size,2.7
 % Work from Home,49.0%
 Median Home Value ($),"$453,620"
 Vacancy Rate (%),1.8%
+% Vacant — For Rent,0.0%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,1.8%
 % Owner-Occupied,81.7%
 % Units Built Pre-1950,28.8%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,791
 Population Change (abs),-131
+Pop Change vs City Avg (pp),-769.6%
 Prior Income (CPI-adj $),"$127,895"
 "Income Change (%, inflation-adj)",21.0%
+Income Change vs City Avg (pp),10.7%
 Prior Median Rent ($/mo),$989
 Rent Change (%),13.9%
+Rent Change vs City Avg (pp),-12.0%
+Prior Median Home Value ($),423879.7894168233
+Home Value Change (%),7.0%
+Home Value Change vs City Avg (pp),-31.1%
+Prior Vacancy Rate (%),0.8%
+Vacancy Rate Change (pp),1.0%
+Vacancy Change vs City Avg (pp),5.2%
+Prior % Bachelor's+,73.5%
+Education Change (pp),-8.9%
+Education Change vs City Avg (pp),-11.8%
+Market Signals,Household incomes rising faster than city; Significant population loss

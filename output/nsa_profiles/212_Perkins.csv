@@ -3,6 +3,9 @@ NSA ID,212
 NSA Name,Perkins
 Total Population,596
 Median HH Income ($),"$40,000"
+% HH Income Below $50k,50.0%
+% HH Income $50k–$100k,8.0%
+% HH Income $100k+,42.0%
 Median Gross Rent ($/mo),"$1,558"
 % Renter-Occupied,90.9%
 Population Change (%),-34.9%
@@ -18,13 +21,29 @@ Avg Household Size,2.1
 % Work from Home,25.9%
 Median Home Value ($),"$360,606"
 Vacancy Rate (%),35.9%
+% Vacant — For Rent,10.0%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,25.9%
 % Owner-Occupied,9.1%
 % Units Built Pre-1950,25.1%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,915
 Population Change (abs),-319
+Pop Change vs City Avg (pp),-787.9%
 Prior Income (CPI-adj $),"$20,331"
 "Income Change (%, inflation-adj)",96.7%
+Income Change vs City Avg (pp),86.4%
 Prior Median Rent ($/mo),$266
 Rent Change (%),485.3%
+Rent Change vs City Avg (pp),459.4%
+Prior Median Home Value ($),195192.3076923077
+Home Value Change (%),84.7%
+Home Value Change vs City Avg (pp),46.6%
+Prior Vacancy Rate (%),28.4%
+Vacancy Rate Change (pp),7.5%
+Vacancy Change vs City Avg (pp),11.7%
+Prior % Bachelor's+,17.1%
+Education Change (pp),11.8%
+Education Change vs City Avg (pp),8.9%
+Market Signals,Household incomes rising faster than city; Affordability stress — rents outpacing incomes; Gentrification indicators present; Vacancy distress — disinvestment risk; Home value appreciation outpacing city; Significant population loss

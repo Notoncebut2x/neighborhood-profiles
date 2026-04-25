@@ -3,6 +3,9 @@ NSA ID,59
 NSA Name,Arlington
 Total Population,"1,998"
 Median HH Income ($),"$15,742"
+% HH Income Below $50k,62.5%
+% HH Income $50k–$100k,27.1%
+% HH Income $100k+,10.4%
 Median Gross Rent ($/mo),$815
 % Renter-Occupied,56.6%
 Population Change (%),-12.3%
@@ -18,13 +21,29 @@ Avg Household Size,2.1
 % Work from Home,2.2%
 Median Home Value ($),"$101,883"
 Vacancy Rate (%),25.6%
+% Vacant — For Rent,2.0%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,23.6%
 % Owner-Occupied,43.4%
 % Units Built Pre-1950,37.9%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"2,277"
 Population Change (abs),-279
+Pop Change vs City Avg (pp),-765.3%
 Prior Income (CPI-adj $),"$34,642"
 "Income Change (%, inflation-adj)",-54.6%
+Income Change vs City Avg (pp),-64.9%
 Prior Median Rent ($/mo),$656
 Rent Change (%),24.2%
+Rent Change vs City Avg (pp),-1.7%
+Prior Median Home Value ($),74583.79390835461
+Home Value Change (%),36.6%
+Home Value Change vs City Avg (pp),-1.5%
+Prior Vacancy Rate (%),25.8%
+Vacancy Rate Change (pp),-0.2%
+Vacancy Change vs City Avg (pp),4.0%
+Prior % Bachelor's+,12.6%
+Education Change (pp),0.4%
+Education Change vs City Avg (pp),-2.5%
+Market Signals,Affordability stress — rents outpacing incomes

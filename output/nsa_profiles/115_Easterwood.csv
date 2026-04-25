@@ -3,6 +3,9 @@ NSA ID,115
 NSA Name,Easterwood
 Total Population,"1,094"
 Median HH Income ($),"$32,203"
+% HH Income Below $50k,71.8%
+% HH Income $50k–$100k,21.5%
+% HH Income $100k+,6.7%
 Median Gross Rent ($/mo),"$1,201"
 % Renter-Occupied,32.7%
 Population Change (%),-37.8%
@@ -18,13 +21,29 @@ Avg Household Size,2.6
 % Work from Home,8.3%
 Median Home Value ($),"$77,233"
 Vacancy Rate (%),50.5%
+% Vacant — For Rent,1.0%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,49.5%
 % Owner-Occupied,67.3%
 % Units Built Pre-1950,17.7%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"1,757"
 Population Change (abs),-663
+Pop Change vs City Avg (pp),-790.8%
 Prior Income (CPI-adj $),"$48,335"
 "Income Change (%, inflation-adj)",-33.4%
+Income Change vs City Avg (pp),-43.7%
 Prior Median Rent ($/mo),"$1,173"
 Rent Change (%),2.4%
+Rent Change vs City Avg (pp),-23.5%
+Prior Median Home Value ($),59254.76038553679
+Home Value Change (%),30.3%
+Home Value Change vs City Avg (pp),-7.8%
+Prior Vacancy Rate (%),46.1%
+Vacancy Rate Change (pp),4.4%
+Vacancy Change vs City Avg (pp),8.6%
+Prior % Bachelor's+,8.0%
+Education Change (pp),-1.8%
+Education Change vs City Avg (pp),-4.7%
+Market Signals,Affordability stress — rents outpacing incomes; Vacancy distress — disinvestment risk; Significant population loss

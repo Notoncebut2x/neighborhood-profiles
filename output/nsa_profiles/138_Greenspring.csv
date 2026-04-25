@@ -3,6 +3,9 @@ NSA ID,138
 NSA Name,Greenspring
 Total Population,"3,875"
 Median HH Income ($),"$41,363"
+% HH Income Below $50k,58.5%
+% HH Income $50k–$100k,20.7%
+% HH Income $100k+,20.8%
 Median Gross Rent ($/mo),$974
 % Renter-Occupied,56.3%
 Population Change (%),31.0%
@@ -18,13 +21,29 @@ Avg Household Size,2.5
 % Work from Home,10.7%
 Median Home Value ($),"$107,438"
 Vacancy Rate (%),14.5%
+% Vacant — For Rent,0.8%
+% Vacant — For Sale,1.4%
+% Vacant — Other/Distressed,12.2%
 % Owner-Occupied,43.7%
 % Units Built Pre-1950,36.5%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"2,959"
 Population Change (abs),915
+Pop Change vs City Avg (pp),-722.0%
 Prior Income (CPI-adj $),"$29,292"
 "Income Change (%, inflation-adj)",41.2%
+Income Change vs City Avg (pp),30.9%
 Prior Median Rent ($/mo),$926
 Rent Change (%),5.2%
+Rent Change vs City Avg (pp),-20.7%
+Prior Median Home Value ($),61662.9094748435
+Home Value Change (%),74.2%
+Home Value Change vs City Avg (pp),36.1%
+Prior Vacancy Rate (%),20.0%
+Vacancy Rate Change (pp),-5.5%
+Vacancy Change vs City Avg (pp),-1.3%
+Prior % Bachelor's+,7.5%
+Education Change (pp),13.2%
+Education Change vs City Avg (pp),10.3%
+Market Signals,Household incomes rising faster than city; Home value appreciation outpacing city

@@ -3,6 +3,9 @@ NSA ID,100
 NSA Name,Cross Country
 Total Population,"5,940"
 Median HH Income ($),"$88,593"
+% HH Income Below $50k,31.8%
+% HH Income $50k–$100k,22.7%
+% HH Income $100k+,45.5%
 Median Gross Rent ($/mo),"$1,557"
 % Renter-Occupied,38.7%
 Population Change (%),15.8%
@@ -18,13 +21,29 @@ Avg Household Size,3.0
 % Work from Home,17.4%
 Median Home Value ($),"$316,258"
 Vacancy Rate (%),1.8%
+% Vacant — For Rent,0.0%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,1.8%
 % Owner-Occupied,61.3%
 % Units Built Pre-1950,43.5%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"5,128"
 Population Change (abs),811
+Pop Change vs City Avg (pp),-737.2%
 Prior Income (CPI-adj $),"$65,323"
 "Income Change (%, inflation-adj)",35.6%
+Income Change vs City Avg (pp),25.3%
 Prior Median Rent ($/mo),"$1,232"
 Rent Change (%),26.4%
+Rent Change vs City Avg (pp),0.5%
+Prior Median Home Value ($),222956.96414997644
+Home Value Change (%),41.8%
+Home Value Change vs City Avg (pp),3.7%
+Prior Vacancy Rate (%),5.7%
+Vacancy Rate Change (pp),-3.9%
+Vacancy Change vs City Avg (pp),0.3%
+Prior % Bachelor's+,51.3%
+Education Change (pp),5.2%
+Education Change vs City Avg (pp),2.3%
+Market Signals,Renter demand rising; Household incomes rising faster than city; Gentrification indicators present

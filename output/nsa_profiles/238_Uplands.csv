@@ -3,6 +3,9 @@ NSA ID,238
 NSA Name,Uplands
 Total Population,"1,444"
 Median HH Income ($),"$69,117"
+% HH Income Below $50k,31.5%
+% HH Income $50k–$100k,44.7%
+% HH Income $100k+,23.7%
 Median Gross Rent ($/mo),"$1,164"
 % Renter-Occupied,44.9%
 Population Change (%),29.5%
@@ -18,13 +21,29 @@ Avg Household Size,2.4
 % Work from Home,9.4%
 Median Home Value ($),"$269,833"
 Vacancy Rate (%),6.7%
+% Vacant — For Rent,4.1%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,2.5%
 % Owner-Occupied,55.1%
 % Units Built Pre-1950,27.6%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"1,115"
 Population Change (abs),328
+Pop Change vs City Avg (pp),-723.5%
 Prior Income (CPI-adj $),"$49,143"
 "Income Change (%, inflation-adj)",40.6%
+Income Change vs City Avg (pp),30.3%
 Prior Median Rent ($/mo),$727
 Rent Change (%),60.1%
+Rent Change vs City Avg (pp),34.2%
+Prior Median Home Value ($),135177.56263572743
+Home Value Change (%),99.6%
+Home Value Change vs City Avg (pp),61.5%
+Prior Vacancy Rate (%),21.1%
+Vacancy Rate Change (pp),-14.4%
+Vacancy Change vs City Avg (pp),-10.2%
+Prior % Bachelor's+,13.5%
+Education Change (pp),13.1%
+Education Change vs City Avg (pp),10.2%
+Market Signals,Renter demand rising; Household incomes rising faster than city; Young adult population growing; Affordability stress — rents outpacing incomes; Gentrification indicators present; Home value appreciation outpacing city

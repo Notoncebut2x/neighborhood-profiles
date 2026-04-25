@@ -3,6 +3,9 @@ NSA ID,269
 NSA Name,Fells Point
 Total Population,"3,851"
 Median HH Income ($),"$105,603"
+% HH Income Below $50k,21.5%
+% HH Income $50k–$100k,26.2%
+% HH Income $100k+,52.3%
 Median Gross Rent ($/mo),"$2,043"
 % Renter-Occupied,73.4%
 Population Change (%),-5.3%
@@ -18,13 +21,29 @@ Avg Household Size,1.6
 % Work from Home,21.9%
 Median Home Value ($),"$388,171"
 Vacancy Rate (%),18.9%
+% Vacant — For Rent,8.1%
+% Vacant — For Sale,1.8%
+% Vacant — Other/Distressed,9.0%
 % Owner-Occupied,26.6%
 % Units Built Pre-1950,4.6%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"4,066"
 Population Change (abs),-215
+Pop Change vs City Avg (pp),-758.3%
 Prior Income (CPI-adj $),"$115,667"
 "Income Change (%, inflation-adj)",-8.7%
+Income Change vs City Avg (pp),-19.0%
 Prior Median Rent ($/mo),"$1,990"
 Rent Change (%),2.6%
+Rent Change vs City Avg (pp),-23.3%
+Prior Median Home Value ($),336628.55348465225
+Home Value Change (%),15.3%
+Home Value Change vs City Avg (pp),-22.8%
+Prior Vacancy Rate (%),16.2%
+Vacancy Rate Change (pp),2.7%
+Vacancy Change vs City Avg (pp),6.9%
+Prior % Bachelor's+,72.8%
+Education Change (pp),-1.4%
+Education Change vs City Avg (pp),-4.3%
+Market Signals,No strong signals

@@ -3,6 +3,9 @@ NSA ID,24
 NSA Name,Penn-Fallsway
 Total Population,"3,098"
 Median HH Income ($),"$13,952"
+% HH Income Below $50k,85.2%
+% HH Income $50k–$100k,0.0%
+% HH Income $100k+,14.8%
 Median Gross Rent ($/mo),$370
 % Renter-Occupied,100.0%
 Population Change (%),-28.8%
@@ -18,13 +21,29 @@ Avg Household Size,2.6
 % Work from Home,0.0%
 Median Home Value ($),N/A
 Vacancy Rate (%),26.5%
+% Vacant — For Rent,0.0%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,26.5%
 % Owner-Occupied,0.0%
 % Units Built Pre-1950,49.8%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"4,348"
 Population Change (abs),"-1,250"
+Pop Change vs City Avg (pp),-781.8%
 Prior Income (CPI-adj $),"$10,841"
 "Income Change (%, inflation-adj)",28.7%
+Income Change vs City Avg (pp),18.4%
 Prior Median Rent ($/mo),$324
 Rent Change (%),14.1%
+Rent Change vs City Avg (pp),-11.8%
+Prior Median Home Value ($),N/A
+Home Value Change (%),N/A
+Home Value Change vs City Avg (pp),N/A
+Prior Vacancy Rate (%),26.9%
+Vacancy Rate Change (pp),-0.4%
+Vacancy Change vs City Avg (pp),3.8%
+Prior % Bachelor's+,1.3%
+Education Change (pp),-0.2%
+Education Change vs City Avg (pp),-3.1%
+Market Signals,Household incomes rising faster than city; Significant population loss

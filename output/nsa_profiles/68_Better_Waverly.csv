@@ -3,6 +3,9 @@ NSA ID,68
 NSA Name,Better Waverly
 Total Population,"2,239"
 Median HH Income ($),"$39,682"
+% HH Income Below $50k,58.6%
+% HH Income $50k–$100k,28.6%
+% HH Income $100k+,12.9%
 Median Gross Rent ($/mo),"$1,142"
 % Renter-Occupied,59.8%
 Population Change (%),-28.3%
@@ -18,13 +21,29 @@ Avg Household Size,2.0
 % Work from Home,12.0%
 Median Home Value ($),"$147,378"
 Vacancy Rate (%),21.3%
+% Vacant — For Rent,7.2%
+% Vacant — For Sale,0.7%
+% Vacant — Other/Distressed,13.4%
 % Owner-Occupied,40.2%
 % Units Built Pre-1950,18.5%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"3,123"
 Population Change (abs),-884
+Pop Change vs City Avg (pp),-781.3%
 Prior Income (CPI-adj $),"$40,595"
 "Income Change (%, inflation-adj)",-2.2%
+Income Change vs City Avg (pp),-12.5%
 Prior Median Rent ($/mo),$937
 Rent Change (%),21.8%
+Rent Change vs City Avg (pp),-4.1%
+Prior Median Home Value ($),114664.15858017957
+Home Value Change (%),28.5%
+Home Value Change vs City Avg (pp),-9.6%
+Prior Vacancy Rate (%),19.8%
+Vacancy Rate Change (pp),1.5%
+Vacancy Change vs City Avg (pp),5.7%
+Prior % Bachelor's+,20.8%
+Education Change (pp),-1.1%
+Education Change vs City Avg (pp),-4.0%
+Market Signals,Affordability stress — rents outpacing incomes; Significant population loss

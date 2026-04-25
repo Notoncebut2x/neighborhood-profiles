@@ -3,6 +3,9 @@ NSA ID,147
 NSA Name,Herring Run Park
 Total Population,3
 Median HH Income ($),"$73,133"
+% HH Income Below $50k,37.3%
+% HH Income $50k–$100k,29.1%
+% HH Income $100k+,33.6%
 Median Gross Rent ($/mo),"$1,177"
 % Renter-Occupied,28.1%
 Population Change (%),-13.4%
@@ -18,13 +21,29 @@ Avg Household Size,2.3
 % Work from Home,20.3%
 Median Home Value ($),"$169,217"
 Vacancy Rate (%),6.8%
+% Vacant — For Rent,0.5%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,6.3%
 % Owner-Occupied,71.9%
 % Units Built Pre-1950,19.3%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,3
 Population Change (abs),0
+Pop Change vs City Avg (pp),-766.4%
 Prior Income (CPI-adj $),"$50,257"
 "Income Change (%, inflation-adj)",45.5%
+Income Change vs City Avg (pp),35.2%
 Prior Median Rent ($/mo),"$1,552"
 Rent Change (%),-24.2%
+Rent Change vs City Avg (pp),-50.1%
+Prior Median Home Value ($),117765.0932403628
+Home Value Change (%),43.7%
+Home Value Change vs City Avg (pp),5.6%
+Prior Vacancy Rate (%),18.9%
+Vacancy Rate Change (pp),-12.1%
+Vacancy Change vs City Avg (pp),-7.9%
+Prior % Bachelor's+,23.9%
+Education Change (pp),7.0%
+Education Change vs City Avg (pp),4.1%
+Market Signals,Household incomes rising faster than city

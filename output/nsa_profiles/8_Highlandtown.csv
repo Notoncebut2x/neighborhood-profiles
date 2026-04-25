@@ -3,6 +3,9 @@ NSA ID,8
 NSA Name,Highlandtown
 Total Population,"2,410"
 Median HH Income ($),"$110,530"
+% HH Income Below $50k,25.3%
+% HH Income $50k–$100k,19.0%
+% HH Income $100k+,55.7%
 Median Gross Rent ($/mo),"$1,890"
 % Renter-Occupied,35.4%
 Population Change (%),-7.0%
@@ -18,13 +21,29 @@ Avg Household Size,2.0
 % Work from Home,22.1%
 Median Home Value ($),"$291,374"
 Vacancy Rate (%),9.7%
+% Vacant — For Rent,3.0%
+% Vacant — For Sale,1.6%
+% Vacant — Other/Distressed,5.0%
 % Owner-Occupied,64.6%
 % Units Built Pre-1950,12.2%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"2,591"
 Population Change (abs),-181
+Pop Change vs City Avg (pp),-760.0%
 Prior Income (CPI-adj $),"$84,013"
 "Income Change (%, inflation-adj)",31.6%
+Income Change vs City Avg (pp),21.3%
 Prior Median Rent ($/mo),"$1,437"
 Rent Change (%),31.5%
+Rent Change vs City Avg (pp),5.6%
+Prior Median Home Value ($),211304.93514144793
+Home Value Change (%),37.9%
+Home Value Change vs City Avg (pp),-0.2%
+Prior Vacancy Rate (%),11.7%
+Vacancy Rate Change (pp),-2.0%
+Vacancy Change vs City Avg (pp),2.2%
+Prior % Bachelor's+,48.1%
+Education Change (pp),16.0%
+Education Change vs City Avg (pp),13.1%
+Market Signals,Renter demand rising; Household incomes rising faster than city; Gentrification indicators present

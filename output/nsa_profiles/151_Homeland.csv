@@ -3,6 +3,9 @@ NSA ID,151
 NSA Name,Homeland
 Total Population,"3,371"
 Median HH Income ($),"$200,000"
+% HH Income Below $50k,7.7%
+% HH Income $50k–$100k,3.9%
+% HH Income $100k+,88.4%
 Median Gross Rent ($/mo),$995
 % Renter-Occupied,12.9%
 Population Change (%),0.9%
@@ -18,13 +21,29 @@ Avg Household Size,2.9
 % Work from Home,33.0%
 Median Home Value ($),"$639,128"
 Vacancy Rate (%),5.4%
+% Vacant — For Rent,0.0%
+% Vacant — For Sale,5.4%
+% Vacant — Other/Distressed,0.0%
 % Owner-Occupied,87.1%
 % Units Built Pre-1950,30.9%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"3,342"
 Population Change (abs),28
+Pop Change vs City Avg (pp),-752.1%
 Prior Income (CPI-adj $),"$225,471"
 "Income Change (%, inflation-adj)",-11.3%
+Income Change vs City Avg (pp),-21.6%
 Prior Median Rent ($/mo),$941
 Rent Change (%),5.7%
+Rent Change vs City Avg (pp),-20.2%
+Prior Median Home Value ($),549592.0194447216
+Home Value Change (%),16.3%
+Home Value Change vs City Avg (pp),-21.8%
+Prior Vacancy Rate (%),5.4%
+Vacancy Rate Change (pp),0.0%
+Vacancy Change vs City Avg (pp),4.2%
+Prior % Bachelor's+,80.1%
+Education Change (pp),3.3%
+Education Change vs City Avg (pp),0.4%
+Market Signals,Affordability stress — rents outpacing incomes

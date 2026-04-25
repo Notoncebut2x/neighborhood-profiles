@@ -3,6 +3,9 @@ NSA ID,254
 NSA Name,Winston-Govans
 Total Population,"1,463"
 Median HH Income ($),"$60,568"
+% HH Income Below $50k,46.3%
+% HH Income $50k–$100k,42.6%
+% HH Income $100k+,11.1%
 Median Gross Rent ($/mo),"$1,661"
 % Renter-Occupied,66.5%
 Population Change (%),54.2%
@@ -18,13 +21,29 @@ Avg Household Size,2.8
 % Work from Home,10.9%
 Median Home Value ($),"$152,979"
 Vacancy Rate (%),6.0%
+% Vacant — For Rent,1.5%
+% Vacant — For Sale,1.4%
+% Vacant — Other/Distressed,3.1%
 % Owner-Occupied,33.5%
 % Units Built Pre-1950,26.3%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,948
 Population Change (abs),514
+Pop Change vs City Avg (pp),-698.8%
 Prior Income (CPI-adj $),"$41,573"
 "Income Change (%, inflation-adj)",45.7%
+Income Change vs City Avg (pp),35.4%
 Prior Median Rent ($/mo),"$1,001"
 Rent Change (%),66.0%
+Rent Change vs City Avg (pp),40.1%
+Prior Median Home Value ($),107207.21525694782
+Home Value Change (%),42.7%
+Home Value Change vs City Avg (pp),4.6%
+Prior Vacancy Rate (%),9.6%
+Vacancy Rate Change (pp),-3.6%
+Vacancy Change vs City Avg (pp),0.6%
+Prior % Bachelor's+,18.4%
+Education Change (pp),-1.4%
+Education Change vs City Avg (pp),-4.3%
+Market Signals,Renter demand rising; Household incomes rising faster than city; Affordability stress — rents outpacing incomes

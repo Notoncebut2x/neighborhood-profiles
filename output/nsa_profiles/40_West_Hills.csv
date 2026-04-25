@@ -3,6 +3,9 @@ NSA ID,40
 NSA Name,West Hills
 Total Population,"1,913"
 Median HH Income ($),"$54,953"
+% HH Income Below $50k,43.3%
+% HH Income $50k–$100k,31.4%
+% HH Income $100k+,25.3%
 Median Gross Rent ($/mo),"$1,188"
 % Renter-Occupied,35.2%
 Population Change (%),-4.3%
@@ -18,13 +21,29 @@ Avg Household Size,2.1
 % Work from Home,25.9%
 Median Home Value ($),"$183,433"
 Vacancy Rate (%),7.7%
+% Vacant — For Rent,0.0%
+% Vacant — For Sale,0.7%
+% Vacant — Other/Distressed,7.1%
 % Owner-Occupied,64.8%
 % Units Built Pre-1950,74.3%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"1,999"
 Population Change (abs),-86
+Pop Change vs City Avg (pp),-757.3%
 Prior Income (CPI-adj $),"$49,912"
 "Income Change (%, inflation-adj)",10.1%
+Income Change vs City Avg (pp),-0.2%
 Prior Median Rent ($/mo),$872
 Rent Change (%),36.2%
+Rent Change vs City Avg (pp),10.3%
+Prior Median Home Value ($),146536.17219494085
+Home Value Change (%),25.2%
+Home Value Change vs City Avg (pp),-12.9%
+Prior Vacancy Rate (%),9.4%
+Vacancy Rate Change (pp),-1.7%
+Vacancy Change vs City Avg (pp),2.5%
+Prior % Bachelor's+,23.0%
+Education Change (pp),-5.8%
+Education Change vs City Avg (pp),-8.7%
+Market Signals,Renter demand rising; Affordability stress — rents outpacing incomes

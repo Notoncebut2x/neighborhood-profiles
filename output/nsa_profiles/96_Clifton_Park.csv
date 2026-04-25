@@ -3,6 +3,9 @@ NSA ID,96
 NSA Name,Clifton Park
 Total Population,47
 Median HH Income ($),"$91,438"
+% HH Income Below $50k,34.3%
+% HH Income $50k–$100k,17.9%
+% HH Income $100k+,47.8%
 Median Gross Rent ($/mo),$942
 % Renter-Occupied,21.1%
 Population Change (%),8.4%
@@ -18,13 +21,29 @@ Avg Household Size,2.5
 % Work from Home,24.9%
 Median Home Value ($),"$288,739"
 Vacancy Rate (%),15.8%
+% Vacant — For Rent,0.9%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,14.9%
 % Owner-Occupied,78.9%
 % Units Built Pre-1950,29.2%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,43
 Population Change (abs),3
+Pop Change vs City Avg (pp),-744.6%
 Prior Income (CPI-adj $),"$77,389"
 "Income Change (%, inflation-adj)",18.2%
+Income Change vs City Avg (pp),7.9%
 Prior Median Rent ($/mo),"$1,125"
 Rent Change (%),-16.3%
+Rent Change vs City Avg (pp),-42.2%
+Prior Median Home Value ($),191545.96837047065
+Home Value Change (%),50.7%
+Home Value Change vs City Avg (pp),12.6%
+Prior Vacancy Rate (%),18.8%
+Vacancy Rate Change (pp),-3.0%
+Vacancy Change vs City Avg (pp),1.2%
+Prior % Bachelor's+,35.6%
+Education Change (pp),0.1%
+Education Change vs City Avg (pp),-2.8%
+Market Signals,No strong signals

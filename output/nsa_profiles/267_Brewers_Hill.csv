@@ -3,6 +3,9 @@ NSA ID,267
 NSA Name,Brewers Hill
 Total Population,"2,280"
 Median HH Income ($),"$118,056"
+% HH Income Below $50k,12.1%
+% HH Income $50k–$100k,22.8%
+% HH Income $100k+,65.2%
 Median Gross Rent ($/mo),"$2,338"
 % Renter-Occupied,49.1%
 Population Change (%),10.0%
@@ -18,13 +21,29 @@ Avg Household Size,1.8
 % Work from Home,24.7%
 Median Home Value ($),"$308,254"
 Vacancy Rate (%),13.4%
+% Vacant — For Rent,0.8%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,12.7%
 % Owner-Occupied,50.9%
 % Units Built Pre-1950,2.3%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"2,073"
 Population Change (abs),206
+Pop Change vs City Avg (pp),-743.0%
 Prior Income (CPI-adj $),"$118,158"
 "Income Change (%, inflation-adj)",-0.1%
+Income Change vs City Avg (pp),-10.4%
 Prior Median Rent ($/mo),"$2,166"
 Rent Change (%),8.0%
+Rent Change vs City Avg (pp),-17.9%
+Prior Median Home Value ($),264714.07223882887
+Home Value Change (%),16.4%
+Home Value Change vs City Avg (pp),-21.7%
+Prior Vacancy Rate (%),15.3%
+Vacancy Rate Change (pp),-1.9%
+Vacancy Change vs City Avg (pp),2.3%
+Prior % Bachelor's+,70.1%
+Education Change (pp),-2.2%
+Education Change vs City Avg (pp),-5.1%
+Market Signals,Young adult population growing

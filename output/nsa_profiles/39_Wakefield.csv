@@ -3,6 +3,9 @@ NSA ID,39
 NSA Name,Wakefield
 Total Population,"2,049"
 Median HH Income ($),"$50,067"
+% HH Income Below $50k,49.9%
+% HH Income $50k–$100k,43.3%
+% HH Income $100k+,6.8%
 Median Gross Rent ($/mo),"$1,338"
 % Renter-Occupied,86.3%
 Population Change (%),11.4%
@@ -18,13 +21,29 @@ Avg Household Size,1.7
 % Work from Home,14.9%
 Median Home Value ($),"$332,537"
 Vacancy Rate (%),8.7%
+% Vacant — For Rent,6.1%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,2.6%
 % Owner-Occupied,13.7%
 % Units Built Pre-1950,40.1%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"1,838"
 Population Change (abs),210
+Pop Change vs City Avg (pp),-741.6%
 Prior Income (CPI-adj $),"$32,700"
 "Income Change (%, inflation-adj)",53.1%
+Income Change vs City Avg (pp),42.8%
 Prior Median Rent ($/mo),$931
 Rent Change (%),43.7%
+Rent Change vs City Avg (pp),17.8%
+Prior Median Home Value ($),261855.10596071088
+Home Value Change (%),27.0%
+Home Value Change vs City Avg (pp),-11.1%
+Prior Vacancy Rate (%),10.7%
+Vacancy Rate Change (pp),-2.0%
+Vacancy Change vs City Avg (pp),2.2%
+Prior % Bachelor's+,20.7%
+Education Change (pp),9.2%
+Education Change vs City Avg (pp),6.3%
+Market Signals,Renter demand rising; Household incomes rising faster than city; Young adult population growing; Gentrification indicators present

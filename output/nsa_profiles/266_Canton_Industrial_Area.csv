@@ -3,6 +3,9 @@ NSA ID,266
 NSA Name,Canton Industrial Area
 Total Population,127
 Median HH Income ($),"$158,622"
+% HH Income Below $50k,16.6%
+% HH Income $50k–$100k,16.8%
+% HH Income $100k+,66.6%
 Median Gross Rent ($/mo),"$2,189"
 % Renter-Occupied,53.2%
 Population Change (%),11.8%
@@ -18,13 +21,29 @@ Avg Household Size,2.2
 % Work from Home,40.8%
 Median Home Value ($),"$359,110"
 Vacancy Rate (%),35.9%
+% Vacant — For Rent,2.0%
+% Vacant — For Sale,1.0%
+% Vacant — Other/Distressed,32.9%
 % Owner-Occupied,46.8%
 % Units Built Pre-1950,4.3%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,113
 Population Change (abs),13
+Pop Change vs City Avg (pp),-741.2%
 Prior Income (CPI-adj $),"$120,901"
 "Income Change (%, inflation-adj)",31.2%
+Income Change vs City Avg (pp),20.9%
 Prior Median Rent ($/mo),"$1,604"
 Rent Change (%),36.5%
+Rent Change vs City Avg (pp),10.6%
+Prior Median Home Value ($),305136.859661122
+Home Value Change (%),17.7%
+Home Value Change vs City Avg (pp),-20.4%
+Prior Vacancy Rate (%),7.4%
+Vacancy Rate Change (pp),28.5%
+Vacancy Change vs City Avg (pp),32.7%
+Prior % Bachelor's+,60.2%
+Education Change (pp),17.6%
+Education Change vs City Avg (pp),14.7%
+Market Signals,Household incomes rising faster than city; Young adult population growing; Gentrification indicators present; Vacancy distress — disinvestment risk

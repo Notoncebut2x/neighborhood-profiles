@@ -3,6 +3,9 @@ NSA ID,47
 NSA Name,York-Homeland
 Total Population,"1,347"
 Median HH Income ($),"$44,053"
+% HH Income Below $50k,51.4%
+% HH Income $50k–$100k,20.0%
+% HH Income $100k+,28.6%
 Median Gross Rent ($/mo),$852
 % Renter-Occupied,56.4%
 Population Change (%),71.8%
@@ -18,13 +21,29 @@ Avg Household Size,1.8
 % Work from Home,29.9%
 Median Home Value ($),"$269,770"
 Vacancy Rate (%),6.5%
+% Vacant — For Rent,0.0%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,6.5%
 % Owner-Occupied,43.6%
 % Units Built Pre-1950,23.4%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,784
 Population Change (abs),562
+Pop Change vs City Avg (pp),-681.2%
 Prior Income (CPI-adj $),"$43,104"
 "Income Change (%, inflation-adj)",2.2%
+Income Change vs City Avg (pp),-8.1%
 Prior Median Rent ($/mo),"$1,260"
 Rent Change (%),-32.4%
+Rent Change vs City Avg (pp),-58.3%
+Prior Median Home Value ($),240733.84112255817
+Home Value Change (%),12.1%
+Home Value Change vs City Avg (pp),-26.0%
+Prior Vacancy Rate (%),5.6%
+Vacancy Rate Change (pp),0.9%
+Vacancy Change vs City Avg (pp),5.1%
+Prior % Bachelor's+,49.5%
+Education Change (pp),0.6%
+Education Change vs City Avg (pp),-2.3%
+Market Signals,Young adult population growing

@@ -3,6 +3,9 @@ NSA ID,172
 NSA Name,Lower Herring Run Park
 Total Population,3
 Median HH Income ($),"$40,511"
+% HH Income Below $50k,75.7%
+% HH Income $50k–$100k,19.3%
+% HH Income $100k+,4.9%
 Median Gross Rent ($/mo),"$1,051"
 % Renter-Occupied,47.6%
 Population Change (%),-68.1%
@@ -18,13 +21,29 @@ Avg Household Size,1.6
 % Work from Home,0.5%
 Median Home Value ($),"$137,482"
 Vacancy Rate (%),7.2%
+% Vacant — For Rent,3.4%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,3.9%
 % Owner-Occupied,52.4%
 % Units Built Pre-1950,64.8%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,9
 Population Change (abs),-6
+Pop Change vs City Avg (pp),-821.1%
 Prior Income (CPI-adj $),"$51,818"
 "Income Change (%, inflation-adj)",-21.8%
+Income Change vs City Avg (pp),-32.1%
 Prior Median Rent ($/mo),"$1,137"
 Rent Change (%),-7.6%
+Rent Change vs City Avg (pp),-33.5%
+Prior Median Home Value ($),118605.59957296062
+Home Value Change (%),15.9%
+Home Value Change vs City Avg (pp),-22.2%
+Prior Vacancy Rate (%),2.9%
+Vacancy Rate Change (pp),4.3%
+Vacancy Change vs City Avg (pp),8.5%
+Prior % Bachelor's+,17.3%
+Education Change (pp),-10.9%
+Education Change vs City Avg (pp),-13.8%
+Market Signals,Significant population loss

@@ -3,6 +3,9 @@ NSA ID,159
 NSA Name,Jonestown
 Total Population,913
 Median HH Income ($),"$83,447"
+% HH Income Below $50k,27.4%
+% HH Income $50k–$100k,50.2%
+% HH Income $100k+,22.4%
 Median Gross Rent ($/mo),"$1,551"
 % Renter-Occupied,61.4%
 Population Change (%),-21.9%
@@ -18,13 +21,29 @@ Avg Household Size,1.9
 % Work from Home,4.9%
 Median Home Value ($),"$347,222"
 Vacancy Rate (%),11.4%
+% Vacant — For Rent,0.0%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,11.4%
 % Owner-Occupied,38.6%
 % Units Built Pre-1950,3.9%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"1,169"
 Population Change (abs),-256
+Pop Change vs City Avg (pp),-774.9%
 Prior Income (CPI-adj $),"$44,271"
 "Income Change (%, inflation-adj)",88.5%
+Income Change vs City Avg (pp),78.2%
 Prior Median Rent ($/mo),$792
 Rent Change (%),95.9%
+Rent Change vs City Avg (pp),70.0%
+Prior Median Home Value ($),278716.8010787611
+Home Value Change (%),24.6%
+Home Value Change vs City Avg (pp),-13.5%
+Prior Vacancy Rate (%),0.0%
+Vacancy Rate Change (pp),11.4%
+Vacancy Change vs City Avg (pp),15.6%
+Prior % Bachelor's+,34.6%
+Education Change (pp),-16.0%
+Education Change vs City Avg (pp),-18.9%
+Market Signals,Renter demand rising; Household incomes rising faster than city; Significant population loss

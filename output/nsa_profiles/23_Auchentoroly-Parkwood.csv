@@ -3,6 +3,9 @@ NSA ID,23
 NSA Name,Auchentoroly-Parkwood
 Total Population,"2,182"
 Median HH Income ($),"$52,159"
+% HH Income Below $50k,47.2%
+% HH Income $50k–$100k,25.8%
+% HH Income $100k+,27.0%
 Median Gross Rent ($/mo),"$1,182"
 % Renter-Occupied,58.9%
 Population Change (%),7.9%
@@ -18,13 +21,29 @@ Avg Household Size,2.7
 % Work from Home,2.9%
 Median Home Value ($),"$77,062"
 Vacancy Rate (%),24.4%
+% Vacant — For Rent,0.0%
+% Vacant — For Sale,0.8%
+% Vacant — Other/Distressed,23.6%
 % Owner-Occupied,41.1%
 % Units Built Pre-1950,26.3%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"2,022"
 Population Change (abs),159
+Pop Change vs City Avg (pp),-745.1%
 Prior Income (CPI-adj $),"$32,877"
 "Income Change (%, inflation-adj)",58.6%
+Income Change vs City Avg (pp),48.3%
 Prior Median Rent ($/mo),"$1,109"
 Rent Change (%),6.6%
+Rent Change vs City Avg (pp),-19.3%
+Prior Median Home Value ($),103632.80144553402
+Home Value Change (%),-25.6%
+Home Value Change vs City Avg (pp),-63.7%
+Prior Vacancy Rate (%),36.5%
+Vacancy Rate Change (pp),-12.1%
+Vacancy Change vs City Avg (pp),-7.9%
+Prior % Bachelor's+,16.0%
+Education Change (pp),3.6%
+Education Change vs City Avg (pp),0.7%
+Market Signals,Household incomes rising faster than city

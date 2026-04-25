@@ -3,6 +3,9 @@ NSA ID,90
 NSA Name,Central Park Heights
 Total Population,"4,691"
 Median HH Income ($),"$39,125"
+% HH Income Below $50k,55.6%
+% HH Income $50k–$100k,27.8%
+% HH Income $100k+,16.6%
 Median Gross Rent ($/mo),"$1,344"
 % Renter-Occupied,59.5%
 Population Change (%),25.5%
@@ -18,13 +21,29 @@ Avg Household Size,3.0
 % Work from Home,4.8%
 Median Home Value ($),"$108,292"
 Vacancy Rate (%),36.5%
+% Vacant — For Rent,2.1%
+% Vacant — For Sale,0.9%
+% Vacant — Other/Distressed,33.4%
 % Owner-Occupied,40.5%
 % Units Built Pre-1950,43.2%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"3,738"
 Population Change (abs),952
+Pop Change vs City Avg (pp),-727.5%
 Prior Income (CPI-adj $),"$43,734"
 "Income Change (%, inflation-adj)",-10.5%
+Income Change vs City Avg (pp),-20.8%
 Prior Median Rent ($/mo),"$1,125"
 Rent Change (%),19.4%
+Rent Change vs City Avg (pp),-6.5%
+Prior Median Home Value ($),76469.52785311372
+Home Value Change (%),41.6%
+Home Value Change vs City Avg (pp),3.5%
+Prior Vacancy Rate (%),40.9%
+Vacancy Rate Change (pp),-4.4%
+Vacancy Change vs City Avg (pp),-0.2%
+Prior % Bachelor's+,9.8%
+Education Change (pp),2.3%
+Education Change vs City Avg (pp),-0.6%
+Market Signals,Affordability stress — rents outpacing incomes

@@ -3,6 +3,9 @@ NSA ID,35
 NSA Name,Stonewood-Pentwood-Winston
 Total Population,"1,205"
 Median HH Income ($),"$47,951"
+% HH Income Below $50k,55.5%
+% HH Income $50k–$100k,33.0%
+% HH Income $100k+,11.5%
 Median Gross Rent ($/mo),"$1,462"
 % Renter-Occupied,44.3%
 Population Change (%),-43.5%
@@ -18,13 +21,29 @@ Avg Household Size,2.2
 % Work from Home,7.4%
 Median Home Value ($),"$148,721"
 Vacancy Rate (%),11.7%
+% Vacant — For Rent,0.0%
+% Vacant — For Sale,3.2%
+% Vacant — Other/Distressed,8.5%
 % Owner-Occupied,55.7%
 % Units Built Pre-1950,69.9%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"2,133"
 Population Change (abs),-928
+Pop Change vs City Avg (pp),-796.5%
 Prior Income (CPI-adj $),"$74,421"
 "Income Change (%, inflation-adj)",-35.6%
+Income Change vs City Avg (pp),-45.9%
 Prior Median Rent ($/mo),$796
 Rent Change (%),83.8%
+Rent Change vs City Avg (pp),57.9%
+Prior Median Home Value ($),163559.06367451377
+Home Value Change (%),-9.1%
+Home Value Change vs City Avg (pp),-47.2%
+Prior Vacancy Rate (%),8.4%
+Vacancy Rate Change (pp),3.3%
+Vacancy Change vs City Avg (pp),7.5%
+Prior % Bachelor's+,34.8%
+Education Change (pp),6.8%
+Education Change vs City Avg (pp),3.9%
+Market Signals,Renter demand rising; Affordability stress — rents outpacing incomes; Significant population loss

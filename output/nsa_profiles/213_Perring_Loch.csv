@@ -3,6 +3,9 @@ NSA ID,213
 NSA Name,Perring Loch
 Total Population,"2,642"
 Median HH Income ($),"$93,121"
+% HH Income Below $50k,23.9%
+% HH Income $50k–$100k,28.0%
+% HH Income $100k+,48.1%
 Median Gross Rent ($/mo),"$2,144"
 % Renter-Occupied,12.6%
 Population Change (%),-8.6%
@@ -18,13 +21,29 @@ Avg Household Size,2.6
 % Work from Home,9.8%
 Median Home Value ($),"$191,435"
 Vacancy Rate (%),10.7%
+% Vacant — For Rent,5.0%
+% Vacant — For Sale,2.4%
+% Vacant — Other/Distressed,3.3%
 % Owner-Occupied,87.4%
 % Units Built Pre-1950,72.3%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"2,889"
 Population Change (abs),-247
+Pop Change vs City Avg (pp),-761.6%
 Prior Income (CPI-adj $),"$63,356"
 "Income Change (%, inflation-adj)",47.0%
+Income Change vs City Avg (pp),36.7%
 Prior Median Rent ($/mo),"$1,421"
 Rent Change (%),50.8%
+Rent Change vs City Avg (pp),24.9%
+Prior Median Home Value ($),159803.66651737268
+Home Value Change (%),19.8%
+Home Value Change vs City Avg (pp),-18.3%
+Prior Vacancy Rate (%),6.6%
+Vacancy Rate Change (pp),4.1%
+Vacancy Change vs City Avg (pp),8.3%
+Prior % Bachelor's+,25.8%
+Education Change (pp),17.8%
+Education Change vs City Avg (pp),14.9%
+Market Signals,Renter demand rising; Household incomes rising faster than city; Gentrification indicators present

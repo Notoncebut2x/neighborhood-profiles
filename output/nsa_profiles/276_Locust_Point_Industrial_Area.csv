@@ -3,6 +3,9 @@ NSA ID,276
 NSA Name,Locust Point Industrial Area
 Total Population,591
 Median HH Income ($),"$147,363"
+% HH Income Below $50k,13.9%
+% HH Income $50k–$100k,21.6%
+% HH Income $100k+,64.5%
 Median Gross Rent ($/mo),"$2,229"
 % Renter-Occupied,43.4%
 Population Change (%),6.0%
@@ -18,13 +21,29 @@ Avg Household Size,1.9
 % Work from Home,22.6%
 Median Home Value ($),"$456,550"
 Vacancy Rate (%),9.6%
+% Vacant — For Rent,4.9%
+% Vacant — For Sale,1.5%
+% Vacant — Other/Distressed,3.3%
 % Owner-Occupied,56.6%
 % Units Built Pre-1950,2.2%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,557
 Population Change (abs),33
+Pop Change vs City Avg (pp),-747.0%
 Prior Income (CPI-adj $),"$150,528"
 "Income Change (%, inflation-adj)",-2.1%
+Income Change vs City Avg (pp),-12.4%
 Prior Median Rent ($/mo),"$2,041"
 Rent Change (%),9.2%
+Rent Change vs City Avg (pp),-16.7%
+Prior Median Home Value ($),361404.24586516514
+Home Value Change (%),26.3%
+Home Value Change vs City Avg (pp),-11.8%
+Prior Vacancy Rate (%),10.1%
+Vacancy Rate Change (pp),-0.5%
+Vacancy Change vs City Avg (pp),3.7%
+Prior % Bachelor's+,80.1%
+Education Change (pp),0.3%
+Education Change vs City Avg (pp),-2.6%
+Market Signals,Young adult population growing

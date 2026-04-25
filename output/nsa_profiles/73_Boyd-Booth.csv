@@ -3,6 +3,9 @@ NSA ID,73
 NSA Name,Boyd-Booth
 Total Population,549
 Median HH Income ($),"$63,713"
+% HH Income Below $50k,41.1%
+% HH Income $50k–$100k,38.1%
+% HH Income $100k+,20.9%
 Median Gross Rent ($/mo),"$1,270"
 % Renter-Occupied,56.9%
 Population Change (%),-14.1%
@@ -18,13 +21,29 @@ Avg Household Size,2.8
 % Work from Home,5.6%
 Median Home Value ($),"$55,920"
 Vacancy Rate (%),44.5%
+% Vacant — For Rent,0.0%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,44.4%
 % Owner-Occupied,43.1%
 % Units Built Pre-1950,15.0%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,638
 Population Change (abs),-89
+Pop Change vs City Avg (pp),-767.1%
 Prior Income (CPI-adj $),"$37,266"
 "Income Change (%, inflation-adj)",71.0%
+Income Change vs City Avg (pp),60.7%
 Prior Median Rent ($/mo),$940
 Rent Change (%),35.1%
+Rent Change vs City Avg (pp),9.2%
+Prior Median Home Value ($),64766.78468307561
+Home Value Change (%),-13.7%
+Home Value Change vs City Avg (pp),-51.8%
+Prior Vacancy Rate (%),43.8%
+Vacancy Rate Change (pp),0.7%
+Vacancy Change vs City Avg (pp),4.9%
+Prior % Bachelor's+,6.8%
+Education Change (pp),-1.2%
+Education Change vs City Avg (pp),-4.1%
+Market Signals,Household incomes rising faster than city

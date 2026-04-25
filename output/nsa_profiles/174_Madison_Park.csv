@@ -3,6 +3,9 @@ NSA ID,174
 NSA Name,Madison Park
 Total Population,"1,584"
 Median HH Income ($),"$49,639"
+% HH Income Below $50k,50.1%
+% HH Income $50k–$100k,36.9%
+% HH Income $100k+,13.0%
 Median Gross Rent ($/mo),"$1,015"
 % Renter-Occupied,87.6%
 Population Change (%),-35.9%
@@ -18,13 +21,29 @@ Avg Household Size,1.6
 % Work from Home,5.9%
 Median Home Value ($),"$302,184"
 Vacancy Rate (%),24.9%
+% Vacant — For Rent,2.7%
+% Vacant — For Sale,0.2%
+% Vacant — Other/Distressed,22.0%
 % Owner-Occupied,12.4%
 % Units Built Pre-1950,16.9%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"2,471"
 Population Change (abs),-887
+Pop Change vs City Avg (pp),-788.9%
 Prior Income (CPI-adj $),"$21,053"
 "Income Change (%, inflation-adj)",135.8%
+Income Change vs City Avg (pp),125.5%
 Prior Median Rent ($/mo),$412
 Rent Change (%),146.2%
+Rent Change vs City Avg (pp),120.3%
+Prior Median Home Value ($),261170.15575318682
+Home Value Change (%),15.7%
+Home Value Change vs City Avg (pp),-22.4%
+Prior Vacancy Rate (%),27.1%
+Vacancy Rate Change (pp),-2.2%
+Vacancy Change vs City Avg (pp),2.0%
+Prior % Bachelor's+,24.5%
+Education Change (pp),2.6%
+Education Change vs City Avg (pp),-0.3%
+Market Signals,Household incomes rising faster than city; Significant population loss

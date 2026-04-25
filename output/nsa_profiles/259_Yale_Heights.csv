@@ -3,6 +3,9 @@ NSA ID,259
 NSA Name,Yale Heights
 Total Population,"2,807"
 Median HH Income ($),"$57,365"
+% HH Income Below $50k,44.4%
+% HH Income $50k–$100k,41.5%
+% HH Income $100k+,14.1%
 Median Gross Rent ($/mo),"$1,367"
 % Renter-Occupied,59.4%
 Population Change (%),0.3%
@@ -18,13 +21,29 @@ Avg Household Size,2.5
 % Work from Home,10.4%
 Median Home Value ($),"$164,832"
 Vacancy Rate (%),11.7%
+% Vacant — For Rent,2.4%
+% Vacant — For Sale,3.4%
+% Vacant — Other/Distressed,5.9%
 % Owner-Occupied,40.6%
 % Units Built Pre-1950,59.0%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"2,799"
 Population Change (abs),7
+Pop Change vs City Avg (pp),-752.7%
 Prior Income (CPI-adj $),"$47,010"
 "Income Change (%, inflation-adj)",22.0%
+Income Change vs City Avg (pp),11.7%
 Prior Median Rent ($/mo),"$1,123"
 Rent Change (%),21.7%
+Rent Change vs City Avg (pp),-4.2%
+Prior Median Home Value ($),120685.68018028248
+Home Value Change (%),36.6%
+Home Value Change vs City Avg (pp),-1.5%
+Prior Vacancy Rate (%),7.1%
+Vacancy Rate Change (pp),4.6%
+Vacancy Change vs City Avg (pp),8.8%
+Prior % Bachelor's+,12.9%
+Education Change (pp),0.8%
+Education Change vs City Avg (pp),-2.1%
+Market Signals,Household incomes rising faster than city; Young adult population growing

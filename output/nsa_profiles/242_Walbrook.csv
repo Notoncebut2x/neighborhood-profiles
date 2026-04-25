@@ -3,6 +3,9 @@ NSA ID,242
 NSA Name,Walbrook
 Total Population,"1,273"
 Median HH Income ($),"$28,254"
+% HH Income Below $50k,81.8%
+% HH Income $50k–$100k,11.1%
+% HH Income $100k+,7.2%
 Median Gross Rent ($/mo),"$1,229"
 % Renter-Occupied,57.9%
 Population Change (%),-16.9%
@@ -18,13 +21,29 @@ Avg Household Size,1.9
 % Work from Home,3.9%
 Median Home Value ($),"$156,630"
 Vacancy Rate (%),30.8%
+% Vacant — For Rent,1.8%
+% Vacant — For Sale,1.8%
+% Vacant — Other/Distressed,27.2%
 % Owner-Occupied,42.1%
 % Units Built Pre-1950,23.3%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"1,531"
 Population Change (abs),-258
+Pop Change vs City Avg (pp),-769.9%
 Prior Income (CPI-adj $),"$53,149"
 "Income Change (%, inflation-adj)",-46.8%
+Income Change vs City Avg (pp),-57.1%
 Prior Median Rent ($/mo),"$1,192"
 Rent Change (%),3.1%
+Rent Change vs City Avg (pp),-22.8%
+Prior Median Home Value ($),98732.44053546971
+Home Value Change (%),58.6%
+Home Value Change vs City Avg (pp),20.5%
+Prior Vacancy Rate (%),33.8%
+Vacancy Rate Change (pp),-3.0%
+Vacancy Change vs City Avg (pp),1.2%
+Prior % Bachelor's+,22.0%
+Education Change (pp),-14.6%
+Education Change vs City Avg (pp),-17.5%
+Market Signals,Affordability stress — rents outpacing incomes; Home value appreciation outpacing city; Significant population loss

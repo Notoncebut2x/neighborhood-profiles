@@ -3,6 +3,9 @@ NSA ID,236
 NSA Name,Tuscany-Canterbury
 Total Population,"3,059"
 Median HH Income ($),"$89,628"
+% HH Income Below $50k,24.6%
+% HH Income $50k–$100k,34.8%
+% HH Income $100k+,40.6%
 Median Gross Rent ($/mo),"$1,405"
 % Renter-Occupied,62.6%
 Population Change (%),-3.3%
@@ -18,13 +21,29 @@ Avg Household Size,1.7
 % Work from Home,26.8%
 Median Home Value ($),"$407,970"
 Vacancy Rate (%),14.1%
+% Vacant — For Rent,6.4%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,7.7%
 % Owner-Occupied,37.4%
 % Units Built Pre-1950,30.6%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"3,164"
 Population Change (abs),-105
+Pop Change vs City Avg (pp),-756.3%
 Prior Income (CPI-adj $),"$72,469"
 "Income Change (%, inflation-adj)",23.7%
+Income Change vs City Avg (pp),13.4%
 Prior Median Rent ($/mo),"$1,323"
 Rent Change (%),6.2%
+Rent Change vs City Avg (pp),-19.7%
+Prior Median Home Value ($),260862.65353923192
+Home Value Change (%),56.4%
+Home Value Change vs City Avg (pp),18.3%
+Prior Vacancy Rate (%),9.7%
+Vacancy Rate Change (pp),4.4%
+Vacancy Change vs City Avg (pp),8.6%
+Prior % Bachelor's+,90.3%
+Education Change (pp),-8.2%
+Education Change vs City Avg (pp),-11.1%
+Market Signals,Household incomes rising faster than city; Home value appreciation outpacing city

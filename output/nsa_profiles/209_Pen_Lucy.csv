@@ -3,6 +3,9 @@ NSA ID,209
 NSA Name,Pen Lucy
 Total Population,"3,228"
 Median HH Income ($),"$43,840"
+% HH Income Below $50k,54.7%
+% HH Income $50k–$100k,26.4%
+% HH Income $100k+,18.9%
 Median Gross Rent ($/mo),"$1,058"
 % Renter-Occupied,68.8%
 Population Change (%),-5.3%
@@ -18,13 +21,29 @@ Avg Household Size,2.2
 % Work from Home,13.9%
 Median Home Value ($),"$145,218"
 Vacancy Rate (%),6.0%
+% Vacant — For Rent,1.7%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,4.2%
 % Owner-Occupied,31.2%
 % Units Built Pre-1950,33.5%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"3,410"
 Population Change (abs),-182
+Pop Change vs City Avg (pp),-758.3%
 Prior Income (CPI-adj $),"$44,141"
 "Income Change (%, inflation-adj)",-0.7%
+Income Change vs City Avg (pp),-11.0%
 Prior Median Rent ($/mo),$929
 Rent Change (%),13.9%
+Rent Change vs City Avg (pp),-12.0%
+Prior Median Home Value ($),105151.90804366831
+Home Value Change (%),38.1%
+Home Value Change vs City Avg (pp),-0.0%
+Prior Vacancy Rate (%),18.0%
+Vacancy Rate Change (pp),-12.0%
+Vacancy Change vs City Avg (pp),-7.8%
+Prior % Bachelor's+,12.8%
+Education Change (pp),5.8%
+Education Change vs City Avg (pp),2.9%
+Market Signals,No strong signals

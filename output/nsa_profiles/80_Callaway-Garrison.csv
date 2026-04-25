@@ -3,6 +3,9 @@ NSA ID,80
 NSA Name,Callaway-Garrison
 Total Population,"1,954"
 Median HH Income ($),"$46,637"
+% HH Income Below $50k,54.2%
+% HH Income $50k–$100k,27.1%
+% HH Income $100k+,18.7%
 Median Gross Rent ($/mo),"$1,327"
 % Renter-Occupied,33.2%
 Population Change (%),45.3%
@@ -18,13 +21,29 @@ Avg Household Size,2.8
 % Work from Home,9.3%
 Median Home Value ($),"$218,390"
 Vacancy Rate (%),14.0%
+% Vacant — For Rent,1.2%
+% Vacant — For Sale,0.7%
+% Vacant — Other/Distressed,12.1%
 % Owner-Occupied,66.8%
 % Units Built Pre-1950,24.3%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"1,345"
 Population Change (abs),608
+Pop Change vs City Avg (pp),-707.7%
 Prior Income (CPI-adj $),"$46,623"
 "Income Change (%, inflation-adj)",0.0%
+Income Change vs City Avg (pp),-10.3%
 Prior Median Rent ($/mo),$934
 Rent Change (%),42.1%
+Rent Change vs City Avg (pp),16.2%
+Prior Median Home Value ($),198586.51386359418
+Home Value Change (%),10.0%
+Home Value Change vs City Avg (pp),-28.1%
+Prior Vacancy Rate (%),14.6%
+Vacancy Rate Change (pp),-0.6%
+Vacancy Change vs City Avg (pp),3.6%
+Prior % Bachelor's+,16.0%
+Education Change (pp),8.4%
+Education Change vs City Avg (pp),5.5%
+Market Signals,Affordability stress — rents outpacing incomes

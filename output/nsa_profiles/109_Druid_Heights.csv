@@ -3,6 +3,9 @@ NSA ID,109
 NSA Name,Druid Heights
 Total Population,"1,181"
 Median HH Income ($),"$44,180"
+% HH Income Below $50k,56.6%
+% HH Income $50k–$100k,19.3%
+% HH Income $100k+,24.1%
 Median Gross Rent ($/mo),"$1,196"
 % Renter-Occupied,70.1%
 Population Change (%),-22.9%
@@ -18,13 +21,29 @@ Avg Household Size,2.0
 % Work from Home,13.5%
 Median Home Value ($),"$183,129"
 Vacancy Rate (%),31.9%
+% Vacant — For Rent,2.0%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,29.9%
 % Owner-Occupied,29.9%
 % Units Built Pre-1950,29.6%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"1,531"
 Population Change (abs),-350
+Pop Change vs City Avg (pp),-775.9%
 Prior Income (CPI-adj $),"$44,072"
 "Income Change (%, inflation-adj)",0.2%
+Income Change vs City Avg (pp),-10.1%
 Prior Median Rent ($/mo),"$1,014"
 Rent Change (%),18.0%
+Rent Change vs City Avg (pp),-7.9%
+Prior Median Home Value ($),161935.98344626804
+Home Value Change (%),13.1%
+Home Value Change vs City Avg (pp),-25.0%
+Prior Vacancy Rate (%),40.7%
+Vacancy Rate Change (pp),-8.8%
+Vacancy Change vs City Avg (pp),-4.6%
+Prior % Bachelor's+,14.2%
+Education Change (pp),10.9%
+Education Change vs City Avg (pp),8.0%
+Market Signals,Affordability stress — rents outpacing incomes; Significant population loss

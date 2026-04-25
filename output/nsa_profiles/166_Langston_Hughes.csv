@@ -3,6 +3,9 @@ NSA ID,166
 NSA Name,Langston Hughes
 Total Population,485
 Median HH Income ($),"$33,368"
+% HH Income Below $50k,61.3%
+% HH Income $50k–$100k,24.6%
+% HH Income $100k+,14.1%
 Median Gross Rent ($/mo),"$1,529"
 % Renter-Occupied,46.3%
 Population Change (%),7.7%
@@ -18,13 +21,29 @@ Avg Household Size,1.9
 % Work from Home,0.0%
 Median Home Value ($),"$131,612"
 Vacancy Rate (%),33.5%
+% Vacant — For Rent,0.0%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,33.5%
 % Owner-Occupied,53.7%
 % Units Built Pre-1950,30.2%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,450
 Population Change (abs),34
+Pop Change vs City Avg (pp),-745.3%
 Prior Income (CPI-adj $),"$12,265"
 "Income Change (%, inflation-adj)",172.1%
+Income Change vs City Avg (pp),161.8%
 Prior Median Rent ($/mo),$788
 Rent Change (%),94.1%
+Rent Change vs City Avg (pp),68.2%
+Prior Median Home Value ($),79514.89056773054
+Home Value Change (%),65.5%
+Home Value Change vs City Avg (pp),27.4%
+Prior Vacancy Rate (%),39.3%
+Vacancy Rate Change (pp),-5.8%
+Vacancy Change vs City Avg (pp),-1.6%
+Prior % Bachelor's+,9.7%
+Education Change (pp),-2.9%
+Education Change vs City Avg (pp),-5.8%
+Market Signals,Household incomes rising faster than city; Home value appreciation outpacing city

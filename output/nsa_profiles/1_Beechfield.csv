@@ -3,6 +3,9 @@ NSA ID,1
 NSA Name,Beechfield
 Total Population,"4,036"
 Median HH Income ($),"$63,055"
+% HH Income Below $50k,40.4%
+% HH Income $50k–$100k,33.9%
+% HH Income $100k+,25.7%
 Median Gross Rent ($/mo),"$1,471"
 % Renter-Occupied,34.7%
 Population Change (%),-8.9%
@@ -18,13 +21,29 @@ Avg Household Size,2.3
 % Work from Home,16.1%
 Median Home Value ($),"$186,590"
 Vacancy Rate (%),4.0%
+% Vacant — For Rent,0.0%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,4.0%
 % Owner-Occupied,65.3%
 % Units Built Pre-1950,41.3%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"4,428"
 Population Change (abs),-392
+Pop Change vs City Avg (pp),-761.9%
 Prior Income (CPI-adj $),"$64,867"
 "Income Change (%, inflation-adj)",-2.8%
+Income Change vs City Avg (pp),-13.1%
 Prior Median Rent ($/mo),"$1,063"
 Rent Change (%),38.4%
+Rent Change vs City Avg (pp),12.5%
+Prior Median Home Value ($),140874.8716827884
+Home Value Change (%),32.5%
+Home Value Change vs City Avg (pp),-5.6%
+Prior Vacancy Rate (%),6.1%
+Vacancy Rate Change (pp),-2.1%
+Vacancy Change vs City Avg (pp),2.1%
+Prior % Bachelor's+,16.1%
+Education Change (pp),11.7%
+Education Change vs City Avg (pp),8.8%
+Market Signals,Renter demand rising; Affordability stress — rents outpacing incomes

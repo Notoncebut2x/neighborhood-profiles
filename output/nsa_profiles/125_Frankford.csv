@@ -3,6 +3,9 @@ NSA ID,125
 NSA Name,Frankford
 Total Population,"19,995"
 Median HH Income ($),"$56,426"
+% HH Income Below $50k,46.1%
+% HH Income $50k–$100k,30.1%
+% HH Income $100k+,23.8%
 Median Gross Rent ($/mo),"$1,157"
 % Renter-Occupied,64.8%
 Population Change (%),5.0%
@@ -18,13 +21,29 @@ Avg Household Size,2.5
 % Work from Home,5.3%
 Median Home Value ($),"$206,782"
 Vacancy Rate (%),4.7%
+% Vacant — For Rent,0.1%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,4.6%
 % Owner-Occupied,35.2%
 % Units Built Pre-1950,44.7%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"19,042"
 Population Change (abs),952
+Pop Change vs City Avg (pp),-748.0%
 Prior Income (CPI-adj $),"$48,741"
 "Income Change (%, inflation-adj)",15.8%
+Income Change vs City Avg (pp),5.5%
 Prior Median Rent ($/mo),$944
 Rent Change (%),22.5%
+Rent Change vs City Avg (pp),-3.4%
+Prior Median Home Value ($),136714.63378452047
+Home Value Change (%),51.3%
+Home Value Change vs City Avg (pp),13.2%
+Prior Vacancy Rate (%),10.9%
+Vacancy Rate Change (pp),-6.2%
+Vacancy Change vs City Avg (pp),-2.0%
+Prior % Bachelor's+,19.0%
+Education Change (pp),4.2%
+Education Change vs City Avg (pp),1.3%
+Market Signals,Young adult population growing

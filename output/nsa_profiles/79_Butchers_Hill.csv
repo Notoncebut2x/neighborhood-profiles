@@ -3,6 +3,9 @@ NSA ID,79
 NSA Name,Butchers Hill
 Total Population,"2,092"
 Median HH Income ($),"$104,432"
+% HH Income Below $50k,28.5%
+% HH Income $50k–$100k,19.5%
+% HH Income $100k+,52.1%
 Median Gross Rent ($/mo),"$1,608"
 % Renter-Occupied,55.0%
 Population Change (%),3.8%
@@ -18,13 +21,29 @@ Avg Household Size,2.1
 % Work from Home,33.0%
 Median Home Value ($),"$371,081"
 Vacancy Rate (%),15.6%
+% Vacant — For Rent,5.5%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,10.1%
 % Owner-Occupied,45.0%
 % Units Built Pre-1950,4.3%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"2,014"
 Population Change (abs),77
+Pop Change vs City Avg (pp),-749.2%
 Prior Income (CPI-adj $),"$99,193"
 "Income Change (%, inflation-adj)",5.3%
+Income Change vs City Avg (pp),-5.0%
 Prior Median Rent ($/mo),"$1,510"
 Rent Change (%),6.5%
+Rent Change vs City Avg (pp),-19.4%
+Prior Median Home Value ($),312043.09873638424
+Home Value Change (%),18.9%
+Home Value Change vs City Avg (pp),-19.2%
+Prior Vacancy Rate (%),12.3%
+Vacancy Rate Change (pp),3.3%
+Vacancy Change vs City Avg (pp),7.5%
+Prior % Bachelor's+,71.5%
+Education Change (pp),0.2%
+Education Change vs City Avg (pp),-2.7%
+Market Signals,Young adult population growing

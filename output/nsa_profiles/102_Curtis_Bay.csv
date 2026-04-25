@@ -3,6 +3,9 @@ NSA ID,102
 NSA Name,Curtis Bay
 Total Population,"2,912"
 Median HH Income ($),"$44,103"
+% HH Income Below $50k,53.7%
+% HH Income $50k–$100k,29.0%
+% HH Income $100k+,17.3%
 Median Gross Rent ($/mo),"$1,109"
 % Renter-Occupied,43.9%
 Population Change (%),-6.0%
@@ -18,13 +21,29 @@ Avg Household Size,2.0
 % Work from Home,1.1%
 Median Home Value ($),"$108,720"
 Vacancy Rate (%),17.5%
+% Vacant — For Rent,5.1%
+% Vacant — For Sale,0.0%
+% Vacant — Other/Distressed,12.4%
 % Owner-Occupied,56.1%
 % Units Built Pre-1950,29.9%
 % Moved in Past Year,N/A
 Poverty Rate (%),N/A
 Prior Period Population,"3,096"
 Population Change (abs),-184
+Pop Change vs City Avg (pp),-759.0%
 Prior Income (CPI-adj $),"$44,209"
 "Income Change (%, inflation-adj)",-0.2%
+Income Change vs City Avg (pp),-10.5%
 Prior Median Rent ($/mo),$961
 Rent Change (%),15.4%
+Rent Change vs City Avg (pp),-10.5%
+Prior Median Home Value ($),98170.41738139794
+Home Value Change (%),10.7%
+Home Value Change vs City Avg (pp),-27.4%
+Prior Vacancy Rate (%),35.1%
+Vacancy Rate Change (pp),-17.6%
+Vacancy Change vs City Avg (pp),-13.4%
+Prior % Bachelor's+,8.5%
+Education Change (pp),8.0%
+Education Change vs City Avg (pp),5.1%
+Market Signals,Affordability stress — rents outpacing incomes
